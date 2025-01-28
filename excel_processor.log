@@ -1,0 +1,149 @@
+2025-01-28 15:00:18,061 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-28 15:00:18,062 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19 at depth 0/10
+2025-01-28 15:00:18,062 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19
+2025-01-28 15:00:18,069 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19
+2025-01-28 15:00:18,069 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19 at depth 0/10
+2025-01-28 15:00:18,070 - excel_processor - INFO - Processed 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19
+2025-01-28 15:00:18,070 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:18,070 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19 at depth 1/10
+2025-01-28 15:00:18,070 - excel_processor - INFO - Processed 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!C19
+2025-01-28 15:00:18,070 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:18,070 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17
+2025-01-28 15:00:18,076 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17
+2025-01-28 15:00:18,077 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17 at depth 0/10
+2025-01-28 15:00:18,077 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,086 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,086 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57 at depth 0/10
+2025-01-28 15:00:18,087 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,087 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57 at depth 1/10
+2025-01-28 15:00:18,087 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,087 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,094 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39 at depth 0/10
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39 at depth 1/10
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,095 - excel_processor - INFO - Processed 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Resolved references: 2
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17 at depth 1/10
+2025-01-28 15:00:18,095 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,103 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,103 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57 at depth 0/10
+2025-01-28 15:00:18,104 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,104 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57 at depth 2/10
+2025-01-28 15:00:18,104 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx CK213A30!H57
+2025-01-28 15:00:18,104 - excel_processor - DEBUG - Processing reference: 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,111 - excel_processor - DEBUG - Parsing formula: 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,111 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39 at depth 0/10
+2025-01-28 15:00:18,111 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,111 - excel_processor - DEBUG - Resolving 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39 at depth 2/10
+2025-01-28 15:00:18,111 - excel_processor - DEBUG - Base case reached for 2022 - P1 berekening kolomkast 2137.xlsx DE296x2137!H39
+2025-01-28 15:00:18,112 - excel_processor - INFO - Processed 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D17
+2025-01-28 15:00:18,112 - excel_processor - DEBUG - Resolved references: 2
+2025-01-28 15:00:18,112 - excel_processor - INFO - Processed 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-28 15:00:18,112 - excel_processor - DEBUG - Resolved references: 2
+2025-01-28 15:00:20,027 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
+2025-01-28 15:00:20,028 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33 at depth 0/10
+2025-01-28 15:00:20,028 - excel_processor - DEBUG - Processing reference: calculatie cat 2022 .xlsx c.basis!I59
+2025-01-28 15:00:20,028 - excel_processor - ERROR - File calculatie cat 2022 .xlsx not found in index
+2025-01-28 15:00:20,028 - excel_processor - DEBUG - Resolving calculatie cat 2022 .xlsx c.basis!I59 at depth 1/10
+2025-01-28 15:00:20,028 - excel_processor - ERROR - Error processing calculatie cat 2022 .xlsx c.basis!I59: File calculatie cat 2022 .xlsx not found in index
+2025-01-28 15:00:20,028 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31
+2025-01-28 15:00:20,036 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31
+2025-01-28 15:00:20,036 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31 at depth 0/10
+2025-01-28 15:00:20,036 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132
+2025-01-28 15:00:20,044 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132 at depth 1/10
+2025-01-28 15:00:20,044 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132
+2025-01-28 15:00:20,045 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,045 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60
+2025-01-28 15:00:20,052 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60 at depth 1/10
+2025-01-28 15:00:20,052 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60
+2025-01-28 15:00:20,052 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,052 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59
+2025-01-28 15:00:20,059 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59 at depth 1/10
+2025-01-28 15:00:20,060 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59
+2025-01-28 15:00:20,060 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,060 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31
+2025-01-28 15:00:20,060 - excel_processor - DEBUG - Resolved references: 3
+2025-01-28 15:00:20,060 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31 at depth 1/10
+2025-01-28 15:00:20,060 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132
+2025-01-28 15:00:20,068 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132 at depth 2/10
+2025-01-28 15:00:20,068 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C132
+2025-01-28 15:00:20,068 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,069 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60
+2025-01-28 15:00:20,076 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60 at depth 2/10
+2025-01-28 15:00:20,076 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!B60
+2025-01-28 15:00:20,077 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,077 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59
+2025-01-28 15:00:20,085 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59 at depth 2/10
+2025-01-28 15:00:20,085 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!H59
+2025-01-28 15:00:20,085 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,085 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G31
+2025-01-28 15:00:20,086 - excel_processor - DEBUG - Resolved references: 3
+2025-01-28 15:00:20,086 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33
+2025-01-28 15:00:20,094 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33
+2025-01-28 15:00:20,094 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33 at depth 0/10
+2025-01-28 15:00:20,094 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33
+2025-01-28 15:00:20,095 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,095 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33 at depth 1/10
+2025-01-28 15:00:20,095 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!C33
+2025-01-28 15:00:20,095 - excel_processor - DEBUG - Resolved references: 0
+2025-01-28 15:00:20,095 - excel_processor - INFO - Processed 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
+2025-01-28 15:00:20,095 - excel_processor - DEBUG - Resolved references: 3
+2025-01-28 15:00:21,589 - excel_processor - DEBUG - Parsing formula: 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
+2025-01-28 15:00:21,590 - excel_processor - DEBUG - Resolving 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65 at depth 0/10
+2025-01-28 15:00:21,590 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59
+2025-01-28 15:00:23,313 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59
+2025-01-28 15:00:23,314 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59 at depth 0/10
+2025-01-28 15:00:23,314 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59
+2025-01-28 15:00:23,314 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59 at depth 1/10
+2025-01-28 15:00:23,314 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx CO40!H59
+2025-01-28 15:00:23,314 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37 at depth 0/10
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37 at depth 1/10
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx LADE 40!H37
+2025-01-28 15:00:23,322 - excel_processor - DEBUG - Processing reference: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33
+2025-01-28 15:00:23,332 - excel_processor - DEBUG - Parsing formula: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33
+2025-01-28 15:00:23,332 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33 at depth 0/10
+2025-01-28 15:00:23,332 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33
+2025-01-28 15:00:23,332 - excel_processor - DEBUG - Resolving 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33 at depth 1/10
+2025-01-28 15:00:23,332 - excel_processor - DEBUG - Base case reached for 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx FR396x196!H33
+2025-01-28 15:00:23,332 - excel_processor - INFO - Processed 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
+2025-01-28 15:00:23,333 - excel_processor - DEBUG - Resolved references: 3
+2025-01-28 15:00:24,259 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!G17
+2025-01-28 15:00:24,260 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!G17 at depth 0/10
+2025-01-28 15:00:24,260 - excel_processor - DEBUG - Processing reference: 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57
+2025-01-28 15:00:24,269 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57
+2025-01-28 15:00:24,270 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57 at depth 0/10
+2025-01-28 15:00:24,270 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57
+2025-01-28 15:00:24,270 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57 at depth 1/10
+2025-01-28 15:00:24,270 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx CK213A45!H57
+2025-01-28 15:00:24,270 - excel_processor - DEBUG - Processing reference: 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,278 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,279 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39 at depth 0/10
+2025-01-28 15:00:24,279 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,279 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39 at depth 1/10
+2025-01-28 15:00:24,279 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,279 - excel_processor - INFO - Processed 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!G17
+2025-01-28 15:00:24,279 - excel_processor - DEBUG - Resolved references: 2
+2025-01-28 15:00:24,290 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,290 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39 at depth 0/10
+2025-01-28 15:00:24,290 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx DE446x2137!H39
+2025-01-28 15:00:24,300 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!E17
+2025-01-28 15:00:24,300 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!E17 at depth 0/10
+2025-01-28 15:00:24,300 - excel_processor - DEBUG - Processing reference: 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57
+2025-01-28 15:00:24,309 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57
+2025-01-28 15:00:24,310 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57 at depth 0/10
+2025-01-28 15:00:24,310 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57
+2025-01-28 15:00:24,310 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57 at depth 1/10
+2025-01-28 15:00:24,310 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx CK213A35!H57
+2025-01-28 15:00:24,310 - excel_processor - DEBUG - Processing reference: 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39
+2025-01-28 15:00:24,321 - excel_processor - DEBUG - Parsing formula: 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39
+2025-01-28 15:00:24,322 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39 at depth 0/10
+2025-01-28 15:00:24,322 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39
+2025-01-28 15:00:24,322 - excel_processor - DEBUG - Resolving 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39 at depth 1/10
+2025-01-28 15:00:24,322 - excel_processor - DEBUG - Base case reached for 2022 - P6 berekening kolomkast 2137.xlsx DE346x2137!H39
+2025-01-28 15:00:24,322 - excel_processor - INFO - Processed 2022 - P6 berekening kolomkast 2137.xlsx OVERZICHT CK213!E17
+2025-01-28 15:00:24,322 - excel_processor - DEBUG - Resolved references: 2

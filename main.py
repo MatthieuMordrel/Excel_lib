@@ -5,6 +5,9 @@ from cell_info_extractor import CellInfoExtractor
 from utils.excel_utils import save_to_log
 
 def main():
+    # Configuration
+    MAX_RECURSION_DEPTH = 10  # Make this easily configurable
+    
     # Initialize file indexer
     base_path = r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN"
     #Return Dict[str, Path]: Dictionary mapping filenames to their full paths
@@ -12,8 +15,8 @@ def main():
     indexer = FileIndexer(Path(base_path))
     file_index = indexer.create_file_index()
     
-    # Initialize cell info extractor
-    extractor = CellInfoExtractor(file_index)
+    # Initialize cell info extractor with recursion depth
+    extractor = CellInfoExtractor(file_index, max_recursion_depth=MAX_RECURSION_DEPTH)
     
     # Example batch of cells to process
     batch_requests = [

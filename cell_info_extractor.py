@@ -1,35 +1,29 @@
-import win32com.client
 from typing import Dict, List, Tuple
 from pathlib import Path
+from utils.excel_utils import ExcelHelper
 from utils.formula_parser import FormulaParser
+from utils.logging_utils import setup_logger
+from utils.recursive_resolver import RecursiveResolver
 
 class CellInfoExtractor:
-    """Handles extraction of cell information from Excel files with caching."""
+    """Handles extraction of cell information from Excel files."""
     
-    def __init__(self, file_index: Dict[str, Path]):
+    def __init__(self, file_index: Dict[str, Path], max_recursion_depth: int = 10):
         self.file_index = file_index
-        self.excel = win32com.client.Dispatch("Excel.Application")
-        self.excel.Visible = False
-        self.excel.DisplayAlerts = False
-        self.cache = {}  # Cache for open workbooks
-        self.parser = FormulaParser()  # Create an instance of FormulaParser
-    
-    def get_cell_formula_and_value(self, sheet, cell_ref):
-        """
-        Extracts formula and value from a specific cell in an Excel sheet.
-        """
-        cell = sheet.Range(cell_ref)
-        return cell.Formula, cell.Value
-    
+        self.max_recursion_depth = max_recursion_depth
+        self.excel_helper = ExcelHelper()
+        self.parser = FormulaParser()
+        self.logger = setup_logger()
+        self.resolver = RecursiveResolver(self, self.logger)
+
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
-        """
-        Extracts formula and value from a specific cell in an Excel file.
-        Uses caching to avoid reopening the same file multiple times.
-        """
+        """Extracts formula and value from a specific cell."""
         file_path = self.file_index.get(filename)
         if not file_path:
+            error_msg = f"File {filename} not found in index"
+            self.logger.error(error_msg)
             return {
-                "error": f"File {filename} not found in index",
+                "error": error_msg,
                 "file": filename,
                 "sheet": sheet_name,
                 "cell": cell_ref
@@ -48,102 +42,33 @@ class CellInfoExtractor:
         }
         
         try:
-            # Get workbook from cache or open it
-            wb = self.cache.get(str(file_path))
-            if wb is None:
-                wb = self.excel.Workbooks.Open(str(file_path))
-                self.cache[str(file_path)] = wb
-            
-            sheet = wb.Sheets(sheet_name)
-            formula, value = self.get_cell_formula_and_value(sheet, cell_ref)
+            formula, value = self.excel_helper.get_cell_info(file_path, sheet_name, cell_ref)
             result['formula'] = formula
             result['value'] = value
             
-            # Parse the formula with parent context
             if formula:
+                self.logger.debug(f"Parsing formula: {filename} {sheet_name}!{cell_ref}")
                 formula_info = self.parser.parse_formula(formula, filename, sheet_name)
                 result.update(formula_info)
+                
+                # Perform recursive resolution
+                result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
+                
         except Exception as e:
-            result['error'] = str(e)
+            error_msg = str(e)
+            self.logger.error(f"Error processing {filename} {sheet_name}!{cell_ref}: {error_msg}")
+            result['error'] = error_msg
         
         return result
-    
+
     def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[Dict]:
-        """
-        Processes multiple cell extraction requests efficiently.
-        
-        Args:
-            requests: List of tuples (filename, sheet_name, cell_ref)
-        
-        Returns:
-            List of result dictionaries
-        """
-        # Group requests by file
-        file_groups = {}
-        for idx, (filename, sheet_name, cell_ref) in enumerate(requests):
-            if filename not in file_groups:
-                file_groups[filename] = []
-            file_groups[filename].append((sheet_name, cell_ref, idx))
-        
-        results = [None] * len(requests)
-        
-        # Process each file's requests together
-        for filename, file_requests in file_groups.items():
-            file_path = self.file_index.get(filename)
-            if not file_path:
-                for _, _, idx in file_requests:
-                    results[idx] = {
-                        "error": f"File {filename} not found in index",
-                        "file": filename,
-                        "sheet": sheet_name,
-                        "cell": cell_ref
-                    }
-                continue
-            
-            try:
-                # Get workbook from cache or open it
-                wb = self.cache.get(str(file_path))
-                if wb is None:
-                    wb = self.excel.Workbooks.Open(str(file_path))
-                    self.cache[str(file_path)] = wb
-                
-                # Process all requests for this file
-                for sheet_name, cell_ref, idx in file_requests:
-                    result = {
-                        "file": filename,
-                        "sheet": sheet_name,
-                        "cell": cell_ref,
-                        "formula": None,
-                        "value": None,
-                        "path": str(file_path)
-                    }
-                    try:
-                        sheet = wb.Sheets(sheet_name)
-                        formula, value = self.get_cell_formula_and_value(sheet, cell_ref)
-                        result['formula'] = formula
-                        result['value'] = value
-                        
-                        # Parse the formula with parent context
-                        if formula:
-                            formula_info = self.parser.parse_formula(formula, filename, sheet_name)
-                            result.update(formula_info)
-                    except Exception as e:
-                        result['error'] = str(e)
-                    results[idx] = result
-            except Exception as e:
-                # Mark all requests for this file as error
-                for _, _, idx in file_requests:
-                    results[idx] = {
-                        "error": f"File error: {str(e)}",
-                        "file": filename,
-                        "sheet": sheet_name,
-                        "cell": cell_ref
-                    }
-        
+        """Processes a batch of cell extraction requests."""
+        results = []
+        for filename, sheet_name, cell_ref in requests:
+            result = self.extract_cell_info(filename, sheet_name, cell_ref)
+            results.append(result)
         return results
-    
+
     def __del__(self):
-        """Clean up Excel application and close all cached workbooks."""
-        for wb in self.cache.values():
-            wb.Close(False)
-        self.excel.Quit()
+        """Clean up resources."""
+        self.excel_helper.cleanup()
