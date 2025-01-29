@@ -33,10 +33,11 @@ class FormulaParser:
         
         if not cleaned_formula:
             return {
+                "cleaned_formula": cleaned_formula,
                 "isElement": False,
-                "references": [],
                 "hReferenceCount": 0,
-                "cleaned_formula": cleaned_formula
+                "references": [],
+         
             }
         
         # Return List[Dict]: List of reference dictionaries
@@ -50,8 +51,8 @@ class FormulaParser:
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
         
         return {
+            "cleaned_formula": cleaned_formula,
             "isElement": is_element,
-            "references": references,
             "hReferenceCount": h_reference_count,
-            "cleaned_formula": cleaned_formula
+            "references": references,
         }

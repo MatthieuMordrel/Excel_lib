@@ -1,0 +1,54 @@
+# Project Overview: Excel Formula Relationship Extractor
+
+## Goal:
+The project aims to analyze Excel formulas to uncover three key relationships:
+1. Product-Element: Identify which basic components make up a product
+2. Product-Base Material: Determine the raw materials used in a product
+3. Product-Product: Discover relationships between different products
+
+## Core Challenge:
+Reverse engineering Excel formulas to extract these relationships, handling:
+- Various formula types:
+  * External references (cross-file)
+  * Internal references (same file, different sheet)
+  * Local references (same sheet)
+- Different operations:
+  * Basic arithmetic (+, -, *, /)
+  * Complex functions (SUM(), etc.)
+  * Mixed operations
+
+## Workflow Overview:
+1. Input: Receive cell coordinates (file, sheet, cell)
+2. Extraction: Get formula and value from specified cell
+3. Parsing: Break down formula into components
+4. Resolution: 
+   - Identify referenced cells
+   - Recursively resolve nested references
+   - Track recursion depth to prevent infinite loops
+5. Classification: 
+   - Determine relationship types
+   - Identify base materials
+   - Detect multiplication operations
+6. Output: Structured data showing relationships and dependencies
+
+## Key Considerations:
+- Handle complex nested formulas
+- Manage cross-file references
+- Preserve context during recursive resolution
+- Identify special cases (e.g., base materials)
+- Maintain error handling throughout the process
+
+## Output Structure:
+The final output should provide a clear mapping of:
+- Product components
+- Material dependencies
+- Inter-product relationships
+- Formula derivation paths
+
+## Note to LLM:
+When assisting with this project, focus on:
+- Understanding the relationship extraction goals
+- Maintaining the recursive resolution logic
+- Preserving the context of each formula component
+- Ensuring proper handling of different reference types
+- Supporting the classification of relationship types 
