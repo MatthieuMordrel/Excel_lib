@@ -11,30 +11,24 @@
     "isMultiplication": true,
     "hReferenceCount": 0,
     "isBaseMaterial": false,
-    "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
     "isProduct": true,
     "productID": "C132B60KL-GDB_1",
+    "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
     "references": [
       {
         "file": "calculatie cat 2022 .xlsx",
         "sheet": "c.basis",
-        "cell": "I59",
-        "isProduct": false,
-        "productID": null
+        "cell": "I59"
       },
       {
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "G31",
-        "isProduct": false,
-        "productID": null
+        "cell": "G31"
       },
       {
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "C33",
-        "isProduct": false,
-        "productID": null
+        "cell": "C33"
       }
     ]
   },
@@ -50,30 +44,24 @@
     "isMultiplication": true,
     "hReferenceCount": 3,
     "isBaseMaterial": false,
-    "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
     "isProduct": false,
     "productID": null,
+    "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
     "references": [
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "CO40",
-        "cell": "H59",
-        "isProduct": false,
-        "productID": null
+        "cell": "H59"
       },
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 40",
-        "cell": "H37",
-        "isProduct": false,
-        "productID": null
+        "cell": "H37"
       },
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "FR396x196",
-        "cell": "H33",
-        "isProduct": false,
-        "productID": null
+        "cell": "H33"
       }
     ]
   },
@@ -89,9 +77,9 @@
     "isMultiplication": false,
     "hReferenceCount": 1,
     "isBaseMaterial": false,
-    "cleaned_formula": "H3+'LADE 600x500'!I37",
     "isProduct": false,
     "productID": null,
+    "cleaned_formula": "H3+'LADE 600x500'!I37",
     "references": [
       {
         "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37",
@@ -103,11 +91,11 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
         "isElement": false,
         "isMultiplication": false,
-        "references": [],
         "hReferenceCount": 0,
         "isBaseMaterial": false,
         "isProduct": false,
-        "productID": null
+        "productID": null,
+        "references": []
       },
       {
         "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_H3",
@@ -119,6 +107,10 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
         "isElement": false,
         "isMultiplication": false,
+        "hReferenceCount": 1,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
         "references": [
           {
             "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_H37",
@@ -132,9 +124,9 @@
             "isMultiplication": false,
             "hReferenceCount": 5,
             "isBaseMaterial": false,
-            "cleaned_formula": "H35+H31+H11+H5+H20",
             "isProduct": false,
-            "productID": null
+            "productID": null,
+            "cleaned_formula": "H35+H31+H11+H5+H20"
           },
           {
             "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_G3",
@@ -146,6 +138,10 @@
             "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
             "isElement": false,
             "isMultiplication": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
             "references": [
               {
                 "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_D3",
@@ -157,6 +153,10 @@
                 "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
                 "isElement": false,
                 "isMultiplication": false,
+                "hReferenceCount": 3,
+                "isBaseMaterial": false,
+                "isProduct": false,
+                "productID": null,
                 "references": [
                   {
                     "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_CKP213A60_H58",
@@ -170,9 +170,9 @@
                     "isMultiplication": false,
                     "hReferenceCount": 6,
                     "isBaseMaterial": false,
-                    "cleaned_formula": "H10+H16+H20+H27+H48+H56",
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "cleaned_formula": "H10+H16+H20+H27+H48+H56"
                   },
                   {
                     "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39",
@@ -186,9 +186,9 @@
                     "isMultiplication": false,
                     "hReferenceCount": 5,
                     "isBaseMaterial": false,
-                    "cleaned_formula": "H37+H29+H20+H15+H5",
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "cleaned_formula": "H37+H29+H20+H15+H5"
                   },
                   {
                     "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33",
@@ -202,30 +202,18 @@
                     "isMultiplication": false,
                     "hReferenceCount": 6,
                     "isBaseMaterial": false,
-                    "cleaned_formula": "H31+H25+H20+H11+H5+H15",
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "cleaned_formula": "H31+H25+H20+H11+H5+H15"
                   }
                 ],
-                "hReferenceCount": 3,
-                "isBaseMaterial": false,
-                "cleaned_formula": "CKP213A60!H58+DE596x666!H39+DE596x1073!H39+'PLADE 600x500'!H39+FR596x394!H33",
-                "isProduct": false,
-                "productID": null
+                "cleaned_formula": "CKP213A60!H58+DE596x666!H39+DE596x1073!H39+'PLADE 600x500'!H39+FR596x394!H33"
               }
             ],
-            "hReferenceCount": 0,
-            "isBaseMaterial": false,
-            "cleaned_formula": "D3",
-            "isProduct": false,
-            "productID": null
+            "cleaned_formula": "D3"
           }
         ],
-        "hReferenceCount": 1,
-        "isBaseMaterial": false,
-        "cleaned_formula": "G3+'LADE 600x500'!H37",
-        "isProduct": false,
-        "productID": null
+        "cleaned_formula": "G3+'LADE 600x500'!H37"
       }
     ]
   }

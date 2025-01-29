@@ -22,24 +22,3 @@ class ProductMapper:
             print(f"Error loading product mapping: {str(e)}")
             self.product_mapping = {}
             self.reverse_mapping = {}
-    
-    def enrich_result(self, result: dict) -> dict:
-        """Adds product information to a single result."""
-        # Create the lookup key from the result
-        lookup_key = f"{result['file']}_{result['sheet']}_{result['cell']}".replace(" ", "")
-        
-        # Check if this key exists in our reverse mapping
-        product_id = self.reverse_mapping.get(lookup_key)
-        
-        result['isProduct'] = product_id is not None
-        result['productID'] = product_id
-        
-        # If this result has references, enrich them too
-        if 'references' in result:
-            result['references'] = [self.enrich_result(ref) for ref in result['references']]
-        
-        return result
-    
-    def enrich_results(self, results: list) -> list:
-        """Adds product information to a list of results."""
-        return [self.enrich_result(result) for result in results] 

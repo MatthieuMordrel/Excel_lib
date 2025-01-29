@@ -27,7 +27,7 @@ def get_test_batch() -> list:
 
 def main():
     # Initialize components
-    logger = setup_logger()
+    logger = setup_logger(Path("Logs/excel_processor.log"))
     product_mapper = ProductMapper(PRODUCT_MAPPING_PATH)
     result_manager = ResultManager(LOG_PATH)
     
@@ -39,14 +39,11 @@ def main():
     
     # Create file index
     indexer = FileIndexer(BASE_PATH)
-    file_index = indexer.create_file_index()
+    file_index = indexer.create_file_index() # type: Dict[str, Path]
     
     # Process results directly with CellInfoExtractor
-    extractor = CellInfoExtractor(file_index)
+    extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10)
     results = extractor.extract_batch(batch_requests)
-    
-    # Enrich results with product information
-    results = product_mapper.enrich_results(results)
     
     # Save results
     result_manager.save_results(results)

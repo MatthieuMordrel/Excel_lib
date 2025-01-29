@@ -4,11 +4,12 @@ from utils.excel_utils import ExcelHelper
 from utils.formula_parser import FormulaParser
 from utils.logging_utils import setup_logger
 from utils.recursive_resolver import RecursiveResolver
+from Mappings.product_mapper import ProductMapper
 
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
     
-    def __init__(self, file_index: Dict[str, Path], max_recursion_depth: int = 10):
+    def __init__(self, file_index: Dict[str, Path], product_mapper: ProductMapper, max_recursion_depth: int = 10):
         self.file_index = file_index
         self.max_recursion_depth = max_recursion_depth
         self.excel_helper = ExcelHelper()
@@ -16,6 +17,7 @@ class CellInfoExtractor:
         self.logger = setup_logger()
         self.resolver = RecursiveResolver(self, self.logger)
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
+        self.product_mapper = product_mapper
 
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
         """Extracts formula and value from a specific cell."""
@@ -33,6 +35,9 @@ class CellInfoExtractor:
         # Create unique ID
         obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         
+        # Add product mapping immediately
+        product_id = self.product_mapper.reverse_mapping.get(obj_id)
+        
         result = {
             "id": obj_id,
             "file": filename,
@@ -43,9 +48,11 @@ class CellInfoExtractor:
             "path": str(file_path),
             "isElement": False,
             "isMultiplication": False,
-            "references": [],
             "hReferenceCount": 0,
-            "isBaseMaterial": filename == self.BASE_MATERIAL_FILE
+            "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
+            "isProduct": product_id is not None,
+            "productID": product_id,
+            "references": [],
         }
         
         try:
