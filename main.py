@@ -3,6 +3,7 @@ from batch_processor import get_batch_requests, process_batch
 from cell_info_extractor import CellInfoExtractor
 from file_indexer import FileIndexer
 import json
+import os
 
 # Configuration - Set this to True to use batch file, False for test data
 USE_BATCH_FILE = False
@@ -20,7 +21,6 @@ def get_test_batch() -> list:
         ("2022 - P6 berekening kolomkast 2137.xlsx", "DE446x2137", "H39"),
         ("2022 - P6 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "E17"),
         ("2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx", "OVERZICHT COZ1323", "E33")
-
     ]
 
 def main():
@@ -32,12 +32,28 @@ def main():
         print("Processing test batch...")
         batch_requests = get_test_batch()
     
-    # Process and save results
+    # Process results
     results = process_batch(batch_requests, BASE_PATH)
+    
+    # Load existing results if file exists
+    all_results = []
+    if os.path.exists(LOG_PATH):
+        try:
+            with open(LOG_PATH, 'r') as f:
+                all_results = json.load(f)
+        except json.JSONDecodeError:
+            # If file is corrupted or empty, start fresh
+            all_results = []
+    
+    # Add new results
+    all_results.extend(results)
+    
+    # Write all results back to file
+    with open(LOG_PATH, 'w') as f:
+        json.dump(all_results, f, indent=2)
+    
+    # Print results
     for result in results:
-        with open(LOG_PATH, 'a') as f:
-            json.dump(result, f, indent=2)
-            f.write('\n')
         print(result)
 
 if __name__ == "__main__":
