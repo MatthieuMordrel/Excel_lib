@@ -17,8 +17,8 @@ def get_test_batch() -> list:
     """Returns a predefined test batch of requests."""
     return [
         # ("2022 - P1 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "D19"), #Simple Multiplication =+C19*D17
-        # ("2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx", "OVERZICHT COZ1323", "G33"), #Multiplication & external reference to base material
-        # ("2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx", "OVERZICHT COP", "F65"), #3 external references
+        ("2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx", "OVERZICHT COZ1323", "G33"), #Multiplication & external reference to base material
+        ("2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx", "OVERZICHT COP", "F65"), #3 external references
         # ("2022 - P6 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "G17"), #SUM + 2 internal references
         # ("2022 - P6 berekening kolomkast 2137.xlsx", "DE446x2137", "H39"), #Element
         # ("2022 - P6 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "E17"), #Sum of 2 elements

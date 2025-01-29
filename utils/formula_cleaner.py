@@ -33,8 +33,8 @@ class FormulaCleaner:
             return formula
         
         # Remove $ signs, single quotes, and handle "=+" pattern
-        cleaned_formula = formula.replace('$', '').replace("'", "").replace("=+", "").replace("=", "")
-        
+        # cleaned_formula = formula.replace('$', '').replace("'", "").replace("=+", "").replace("=", "")
+        cleaned_formula = formula.replace('$', '').replace("=+", "").replace("=", "")
         
         # Remove the base URL
         base_url = "https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/"

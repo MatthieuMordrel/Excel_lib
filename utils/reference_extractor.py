@@ -32,9 +32,9 @@ class ReferenceExtractor:
             List[Dict]: List of reference dictionaries
         """
         # Pattern 1: [filename]sheetname!cell (external reference)
-        pattern1 = r"\[([^\]]+)\]([\w\s.]+)!([A-Z]\d{1,3})"
+        pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]\d{1,3})"
         # Pattern 2: sheetname!cell (internal reference)
-        pattern2 = r"(\w+)!([A-Z]\d{1,3})"
+        pattern2 = r"'?([\w\s]+)'?!([A-Z]\d{1,3})"
         # Pattern 3: simple cell reference
         pattern3 = r"([A-Z]\d{1,3})"
         
