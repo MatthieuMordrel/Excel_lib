@@ -23,7 +23,6 @@ class RecursiveResolver:
 
     def resolve_references(self, result: Dict, depth: int = 0, max_depth: int = 10) -> Dict:
         """Recursively resolves formula references."""
-        self.logger.debug(f"Resolving {result['file']} {result['sheet']}!{result['cell']} at depth {depth}/{max_depth}")
         
         if depth >= max_depth:
             result['error'] = f'Maximum recursion depth reached ({max_depth})'
@@ -31,7 +30,6 @@ class RecursiveResolver:
             return result
             
         if self._is_base_case(result):
-            self.logger.debug(f"Base case reached for {result['file']} {result['sheet']}!{result['cell']}")
             # Clean up references if it's an element or base material
             if result.get('isElement', False) or result.get('isBaseMaterial', False):
                 result.pop('references', None)
@@ -66,5 +64,4 @@ class RecursiveResolver:
 
         # Update the references in place instead of creating a new property
         result['references'] = resolved_references
-        log_request_completion(self.logger, result)
         return result 

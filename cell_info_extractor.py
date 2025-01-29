@@ -63,7 +63,6 @@ class CellInfoExtractor:
             if formula:
                 # Check for multiplication
                 result['isMultiplication'] = '*' in formula
-                self.logger.debug(f"Parsing formula: {filename} {sheet_name}!{cell_ref}")
                 formula_info = self.parser.parse_formula(formula, filename, sheet_name)
                 result.update(formula_info)
                 
@@ -81,8 +80,8 @@ class CellInfoExtractor:
     def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[Dict]:
         """Processes a batch of cell extraction requests."""
         results = []
-        for filename, sheet_name, cell_ref in requests:
-            result = self.extract_cell_info(filename, sheet_name, cell_ref)
+        for file_name, sheet_name, cell_ref in requests:
+            result = self.extract_cell_info(file_name, sheet_name, cell_ref)
             results.append(result)
         return results
 

@@ -12,9 +12,6 @@ def save_to_log(result: Dict, log_path: str) -> None:
         result (Dict): Dictionary containing extraction results
         log_path (str): Path to the log file
     """
-    # Ensure isBaseMaterial is present in the result
-    if 'isBaseMaterial' not in result:
-        result['isBaseMaterial'] = result.get('file', '') == "calculatie cat 2022 .xlsx"
     
     with open(log_path, 'a') as f:
         json.dump(result, f, indent=2)
