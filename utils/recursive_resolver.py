@@ -1,6 +1,6 @@
 from typing import Dict, List, Any
 import logging
-from utils.logging_utils import log_result
+from utils.logging_utils import log_request_completion
 
 class RecursiveResolver:
     """Handles recursive resolution of Excel formulas."""
@@ -32,6 +32,9 @@ class RecursiveResolver:
             
         if self._is_base_case(result):
             self.logger.debug(f"Base case reached for {result['file']} {result['sheet']}!{result['cell']}")
+            # Clean up references if it's an element or base material
+            if result.get('isElement', False) or result.get('isBaseMaterial', False):
+                result.pop('references', None)
             return result
 
         resolved_references = []
@@ -61,6 +64,7 @@ class RecursiveResolver:
                     **ref
                 })
 
-        result['resolvedReferences'] = resolved_references
-        log_result(self.logger, result)
+        # Update the references in place instead of creating a new property
+        result['references'] = resolved_references
+        log_request_completion(self.logger, result)
         return result 

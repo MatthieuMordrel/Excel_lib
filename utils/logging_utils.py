@@ -1,6 +1,7 @@
 import logging
 from typing import Dict, Any
 from pathlib import Path
+import json
 
 def setup_logger(log_file: Path = Path("excel_processor.log")) -> logging.Logger:
     """
@@ -36,17 +37,48 @@ def setup_logger(log_file: Path = Path("excel_processor.log")) -> logging.Logger
     
     return logger
 
-def log_result(logger: logging.Logger, result: Dict[str, Any]) -> None:
+def log_request_completion(logger: logging.Logger, result: Dict[str, Any]) -> None:
     """
-    Logs the result of a cell extraction.
+    Logs the completion of a request.
     
     Args:
         logger: Logger instance
         result: Result dictionary to log
     """
+    status = "SUCCESS" if 'error' not in result else "FAILED"
+    message = f"Completed {result['file']} {result['sheet']}!{result['cell']} - {status}"
+    
     if 'error' in result:
-        logger.error(f"Error processing {result['file']} {result['sheet']}!{result['cell']}: {result['error']}")
-    else:
-        logger.info(f"Processed {result['file']} {result['sheet']}!{result['cell']}")
-        if 'resolvedReferences' in result:
-            logger.debug(f"Resolved references: {len(result['resolvedReferences'])}") 
+        message += f" - Error: {result['error']}"
+    
+    logger.info(message)
+
+def log_summary(logger: logging.Logger, log_path: Path) -> None:
+    """
+    Logs a summary of the processing results.
+    
+    Args:
+        logger: Logger instance
+        log_path: Path to the log JSON file
+    """
+    try:
+        with open(log_path, 'r') as f:
+            results = json.load(f)
+            
+        total_requests = len(results)
+        successful_requests = len([r for r in results if 'error' not in r])
+        failed_requests = total_requests - successful_requests
+        
+        # Check for recursion depth issues
+        max_depth_reached = sum(1 for r in results if 'error' in r and 'Maximum recursion depth reached' in r['error'])
+        
+        logger.info("\n=== Processing Summary ===")
+        logger.info(f"Total requests processed: {total_requests}")
+        logger.info(f"Successful requests: {successful_requests}")
+        logger.info(f"Failed requests: {failed_requests}")
+        
+        if max_depth_reached > 0:
+            logger.warning(f"Maximum recursion depth reached for {max_depth_reached} requests")
+            
+    except Exception as e:
+        logger.error(f"Error generating summary: {str(e)}") 

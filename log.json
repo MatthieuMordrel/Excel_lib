@@ -9,21 +9,27 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
     "isElement": false,
     "isMultiplication": true,
+    "hReferenceCount": 0,
+    "isBaseMaterial": false,
+    "cleaned_formula": "=+C19*D17",
+    "isProduct": true,
+    "productID": "CK21330_1",
     "references": [
       {
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
-        "cell": "C19"
+        "cell": "C19",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
-        "cell": "D17"
+        "cell": "D17",
+        "isProduct": false,
+        "productID": null
       }
-    ],
-    "hReferenceCount": 0,
-    "isBaseMaterial": false,
-    "cleaned_formula": "=+C19*D17"
+    ]
   },
   {
     "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33",
@@ -35,26 +41,34 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
     "isElement": false,
     "isMultiplication": true,
+    "hReferenceCount": 0,
+    "isBaseMaterial": false,
+    "cleaned_formula": "=(G31*C33)+([calculatie cat 2022 .xlsx]c.basis!I59*3.5)",
+    "isProduct": true,
+    "productID": "C132B60KL-GDB_1",
     "references": [
       {
         "file": "calculatie cat 2022 .xlsx",
         "sheet": "c.basis",
-        "cell": "I59"
+        "cell": "I59",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "G31"
+        "cell": "G31",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "C33"
+        "cell": "C33",
+        "isProduct": false,
+        "productID": null
       }
-    ],
-    "hReferenceCount": 0,
-    "isBaseMaterial": false,
-    "cleaned_formula": "=(G31*C33)+([calculatie cat 2022 .xlsx]c.basis!I59*3.5)"
+    ]
   },
   {
     "id": "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
@@ -66,26 +80,34 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\2 - 2022-COMFORTLINE - KLEUR - MELAMINE B + MDF BRUT + CORPUS KLEUR\\2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
     "isElement": false,
     "isMultiplication": true,
+    "hReferenceCount": 3,
+    "isBaseMaterial": false,
+    "cleaned_formula": "=[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40!H59+4*([2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40!H37+[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196!H33)",
+    "isProduct": false,
+    "productID": null,
     "references": [
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "CO40",
-        "cell": "H59"
+        "cell": "H59",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 40",
-        "cell": "H37"
+        "cell": "H37",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "FR396x196",
-        "cell": "H33"
+        "cell": "H33",
+        "isProduct": false,
+        "productID": null
       }
-    ],
-    "hReferenceCount": 3,
-    "isBaseMaterial": false,
-    "cleaned_formula": "=[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40!H59+4*([2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40!H37+[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196!H33)"
+    ]
   },
   {
     "id": "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17",
@@ -97,26 +119,12 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
     "isElement": false,
     "isMultiplication": false,
-    "references": [
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "CK213A45",
-        "cell": "H57",
-        "id": "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
-        "isBaseMaterial": false
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H39",
-        "id": "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
-        "isBaseMaterial": false
-      }
-    ],
     "hReferenceCount": 2,
     "isBaseMaterial": false,
     "cleaned_formula": "=SUM(CK213A45!H57+DE446x2137!H39)",
-    "resolvedReferences": [
+    "isProduct": false,
+    "productID": null,
+    "references": [
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
@@ -127,41 +135,11 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
         "isElement": true,
         "isMultiplication": false,
-        "references": [
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H55"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H47"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H26"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H15"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H9"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A45",
-            "cell": "H19"
-          }
-        ],
         "hReferenceCount": 6,
         "isBaseMaterial": false,
-        "cleaned_formula": "=H55+H47+H26+H15+H9+H19"
+        "cleaned_formula": "=H55+H47+H26+H15+H9+H19",
+        "isProduct": false,
+        "productID": null
       },
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
@@ -173,41 +151,11 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
         "isElement": true,
         "isMultiplication": false,
-        "references": [
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H37"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H29"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H20"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H11"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H5"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE446x2137",
-            "cell": "H15"
-          }
-        ],
         "hReferenceCount": 6,
         "isBaseMaterial": false,
-        "cleaned_formula": "=H37+H29+H20+H11+H5+H15"
+        "cleaned_formula": "=H37+H29+H20+H11+H5+H15",
+        "isProduct": false,
+        "productID": null
       }
     ]
   },
@@ -221,41 +169,11 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
     "isElement": true,
     "isMultiplication": false,
-    "references": [
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H37"
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H29"
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H20"
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H11"
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H5"
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE446x2137",
-        "cell": "H15"
-      }
-    ],
     "hReferenceCount": 6,
     "isBaseMaterial": false,
-    "cleaned_formula": "=H37+H29+H20+H11+H5+H15"
+    "cleaned_formula": "=H37+H29+H20+H11+H5+H15",
+    "isProduct": false,
+    "productID": null
   },
   {
     "id": "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17",
@@ -267,26 +185,12 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
     "isElement": false,
     "isMultiplication": false,
-    "references": [
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "CK213A35",
-        "cell": "H57",
-        "id": "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57",
-        "isBaseMaterial": false
-      },
-      {
-        "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-        "sheet": "DE346x2137",
-        "cell": "H39",
-        "id": "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
-        "isBaseMaterial": false
-      }
-    ],
     "hReferenceCount": 2,
     "isBaseMaterial": false,
     "cleaned_formula": "=CK213A35!H57+DE346x2137!H39",
-    "resolvedReferences": [
+    "isProduct": false,
+    "productID": null,
+    "references": [
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
@@ -297,41 +201,11 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
         "isElement": true,
         "isMultiplication": false,
-        "references": [
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H55"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H47"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H26"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H15"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H9"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A35",
-            "cell": "H19"
-          }
-        ],
         "hReferenceCount": 6,
         "isBaseMaterial": false,
-        "cleaned_formula": "=H55+H47+H26+H15+H9+H19"
+        "cleaned_formula": "=H55+H47+H26+H15+H9+H19",
+        "isProduct": false,
+        "productID": null
       },
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
@@ -343,41 +217,11 @@
         "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\6 -2022- COMFORTLINE - VLAK LAK  + CORPUS KLEUR\\2022 - P6 berekening kolomkast 2137.xlsx",
         "isElement": true,
         "isMultiplication": false,
-        "references": [
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H37"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H29"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H20"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H11"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H5"
-          },
-          {
-            "file": "2022 - P6 berekening kolomkast 2137.xlsx",
-            "sheet": "DE346x2137",
-            "cell": "H15"
-          }
-        ],
         "hReferenceCount": 6,
         "isBaseMaterial": false,
-        "cleaned_formula": "=H37+H29+H20+H11+H5+H15"
+        "cleaned_formula": "=H37+H29+H20+H11+H5+H15",
+        "isProduct": false,
+        "productID": null
       }
     ]
   },
@@ -391,25 +235,187 @@
     "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\2 - 2022-COMFORTLINE - KLEUR - MELAMINE B + MDF BRUT + CORPUS KLEUR\\2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
     "isElement": false,
     "isMultiplication": true,
+    "hReferenceCount": 0,
+    "isBaseMaterial": false,
+    "cleaned_formula": "=(E31*C33)+([calculatie cat 2022 .xlsx]c.basis!I60*3.5)",
+    "isProduct": true,
+    "productID": "C141BL50KL-GDB_2",
     "references": [
       {
         "file": "calculatie cat 2022 .xlsx",
         "sheet": "c.basis",
-        "cell": "I60"
+        "cell": "I60",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "E31"
+        "cell": "E31",
+        "isProduct": false,
+        "productID": null
       },
       {
         "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "C33"
+        "cell": "C33",
+        "isProduct": false,
+        "productID": null
       }
-    ],
-    "hReferenceCount": 0,
+    ]
+  },
+  {
+    "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_I3",
+    "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+    "sheet": "OVERZICHT CKP213",
+    "cell": "I3",
+    "formula": "=+H3+'LADE 600x500'!I37",
+    "value": 318.466758675,
+    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+    "isElement": false,
+    "isMultiplication": false,
+    "hReferenceCount": 1,
     "isBaseMaterial": false,
-    "cleaned_formula": "=(E31*C33)+([calculatie cat 2022 .xlsx]c.basis!I60*3.5)"
+    "cleaned_formula": "=+H3+LADE 600x500!I37",
+    "isProduct": false,
+    "productID": null,
+    "references": [
+      {
+        "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_600x500_I37",
+        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+        "sheet": "600x500",
+        "cell": "I37",
+        "formula": null,
+        "value": null,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "references": [],
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "error": "Error getting cell info for C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx 600x500!I37: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147352565), None)",
+        "isProduct": false,
+        "productID": null
+      },
+      {
+        "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_H3",
+        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+        "sheet": "OVERZICHT CKP213",
+        "cell": "H3",
+        "formula": "=+G3+'LADE 600x500'!H37",
+        "value": 318.466758675,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "references": [
+          {
+            "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_600x500_H37",
+            "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+            "sheet": "600x500",
+            "cell": "H37",
+            "formula": null,
+            "value": null,
+            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+            "isElement": false,
+            "isMultiplication": false,
+            "references": [],
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "error": "Error getting cell info for C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx 600x500!H37: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147352565), None)",
+            "isProduct": false,
+            "productID": null
+          },
+          {
+            "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_G3",
+            "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+            "sheet": "OVERZICHT CKP213",
+            "cell": "G3",
+            "formula": "=+D3",
+            "value": 297.791248525,
+            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+            "isElement": false,
+            "isMultiplication": false,
+            "references": [
+              {
+                "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_D3",
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "OVERZICHT CKP213",
+                "cell": "D3",
+                "formula": "=+CKP213A60!H58+DE596x666!H39+DE596x1073!H39+'PLADE 600x500'!H39+FR596x394!H33",
+                "value": 297.791248525,
+                "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "isElement": false,
+                "isMultiplication": false,
+                "references": [
+                  {
+                    "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_CKP213A60_H58",
+                    "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "sheet": "CKP213A60",
+                    "cell": "H58",
+                    "formula": "=H10+H16+H20+H27+H48+H56",
+                    "value": 101.45687087499998,
+                    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "isElement": true,
+                    "isMultiplication": false,
+                    "hReferenceCount": 6,
+                    "isBaseMaterial": false,
+                    "cleaned_formula": "=H10+H16+H20+H27+H48+H56",
+                    "isProduct": false,
+                    "productID": null
+                  },
+                  {
+                    "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39",
+                    "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "sheet": "DE596x666",
+                    "cell": "H39",
+                    "formula": "=H37+H29+H20+H15+H5",
+                    "value": 49.49239333333334,
+                    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "isElement": true,
+                    "isMultiplication": false,
+                    "hReferenceCount": 5,
+                    "isBaseMaterial": false,
+                    "cleaned_formula": "=H37+H29+H20+H15+H5",
+                    "isProduct": false,
+                    "productID": null
+                  },
+                  {
+                    "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33",
+                    "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "sheet": "FR596x394",
+                    "cell": "H33",
+                    "formula": "=H31+H25+H20+H11+H5+H15",
+                    "value": 29.219602500000004,
+                    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\7 -2022- COMFORTLINE - LAK GEGROEFD OF KADER +FINEER   + CORPUS KLEUR\\2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                    "isElement": true,
+                    "isMultiplication": false,
+                    "hReferenceCount": 6,
+                    "isBaseMaterial": false,
+                    "cleaned_formula": "=H31+H25+H20+H11+H5+H15",
+                    "isProduct": false,
+                    "productID": null
+                  }
+                ],
+                "hReferenceCount": 3,
+                "isBaseMaterial": false,
+                "cleaned_formula": "=+CKP213A60!H58+DE596x666!H39+DE596x1073!H39+PLADE 600x500!H39+FR596x394!H33",
+                "isProduct": false,
+                "productID": null
+              }
+            ],
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "cleaned_formula": "=+D3",
+            "isProduct": false,
+            "productID": null
+          }
+        ],
+        "hReferenceCount": 1,
+        "isBaseMaterial": false,
+        "cleaned_formula": "=+G3+LADE 600x500!H37",
+        "isProduct": false,
+        "productID": null
+      }
+    ]
   }
 ]
