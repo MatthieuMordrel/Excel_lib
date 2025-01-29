@@ -1,8 +1,10 @@
 from pathlib import Path
-from batch_processor import get_batch_requests, process_batch
+from batch_processor import get_batch_requests
 from product_mapper import ProductMapper
 from result_manager import ResultManager
 from utils.logging_utils import setup_logger, log_request_completion, log_summary
+from file_indexer import FileIndexer
+from cell_info_extractor import CellInfoExtractor
 
 # Configuration
 USE_BATCH_FILE = False
@@ -36,8 +38,13 @@ def main():
     # Get batch requests
     batch_requests = get_batch_requests(BATCH_FILE_PATH) if USE_BATCH_FILE else get_test_batch()
     
-    # Process results
-    results = process_batch(batch_requests, BASE_PATH)
+    # Create file index
+    indexer = FileIndexer(BASE_PATH)
+    file_index = indexer.create_file_index()
+    
+    # Process results directly with CellInfoExtractor
+    extractor = CellInfoExtractor(file_index)
+    results = extractor.extract_batch(batch_requests)
     
     # Enrich results with product information
     results = product_mapper.enrich_results(results)

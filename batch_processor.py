@@ -49,23 +49,4 @@ def get_batch_requests(file_path: Path) -> List[Tuple[str, str, str]]:
         
     except Exception as e:
         print(f"Error reading batch requests: {str(e)}")
-        raise
-
-def process_batch(batch_requests: List[Tuple[str, str, str]], base_path: Path) -> List[Dict]:
-    """
-    Processes a batch of requests.
-    
-    Args:
-        batch_requests: List of tuples (file, sheet, cell) for batch processing
-        base_path: Base path for file indexing
-        
-    Returns:
-        List of processed results
-    """
-    # Initialize file indexer and extractor
-    indexer = FileIndexer(base_path)
-    file_index = indexer.create_file_index()
-    extractor = CellInfoExtractor(file_index)
-    
-    # Process the batch
-    return extractor.extract_batch(batch_requests) 
+        raise 
