@@ -5,7 +5,7 @@ import json
 
 def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.Logger:
     """
-    Sets up and configures the logger.
+    Sets up and configures the logger, clearing the log file before each run.
     
     Args:
         log_file: Path to the log file
@@ -13,6 +13,10 @@ def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.L
     Returns:
         Configured logger instance
     """
+    # Clear the log file before setting up the logger
+    with open(log_file, 'w') as f:
+        f.write('')  # This will clear the file content
+
     logger = logging.getLogger("excel_processor")
     logger.setLevel(logging.DEBUG)
     

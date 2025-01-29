@@ -2,6 +2,7 @@ from typing import Dict, List, Tuple
 from pathlib import Path
 from utils.excel_utils import ExcelHelper
 from utils.formula_parser import FormulaParser
+from utils.formula_cleaner import FormulaCleaner
 from utils.logging_utils import setup_logger
 from utils.recursive_resolver import RecursiveResolver
 from Mappings.product_mapper import ProductMapper
@@ -14,6 +15,7 @@ class CellInfoExtractor:
         self.max_recursion_depth = max_recursion_depth
         self.excel_helper = ExcelHelper()
         self.parser = FormulaParser()
+        self.cleaner = FormulaCleaner()
         self.logger = setup_logger()
         self.resolver = RecursiveResolver(self, self.logger)
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
@@ -26,10 +28,22 @@ class CellInfoExtractor:
             error_msg = f"File {filename} not found in index"
             self.logger.error(error_msg)
             return {
-                "error": error_msg,
+                "id": f"{filename}_{sheet_name}_{cell_ref}".replace(" ", ""),
                 "file": filename,
                 "sheet": sheet_name,
-                "cell": cell_ref
+                "cell": cell_ref,
+                "formula": "File not found",
+                "cleaned_formula": None,
+                "value": None,
+                "path": None,
+                "isElement": False,
+                "isMultiplication": False,
+                "hReferenceCount": 0,
+                "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
+                "isProduct": False,
+                "productID": None,
+                "references": [],
+                "error": error_msg
             }
         
         # Create unique ID
@@ -44,6 +58,7 @@ class CellInfoExtractor:
             "sheet": sheet_name,
             "cell": cell_ref,
             "formula": None,
+            "cleaned_formula": None,
             "value": None,
             "path": str(file_path),
             "isElement": False,
@@ -59,11 +74,16 @@ class CellInfoExtractor:
             formula, value = self.excel_helper.get_cell_info(file_path, sheet_name, cell_ref)
             result['formula'] = formula
             result['value'] = value
+
+            # Clean the formula before storing and parsing
+            cleaned_formula = self.cleaner.clean_formula(formula)
+            result['cleaned_formula'] = cleaned_formula
             
             if formula:
                 # Check for multiplication
-                result['isMultiplication'] = '*' in formula
-                formula_info = self.parser.parse_formula(formula, filename, sheet_name)
+                result['isMultiplication'] = '*' in cleaned_formula
+                # Parse the cleaned formula
+                formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result.update(formula_info)
                 
                 # Perform recursive resolution unless it's a multiplication
