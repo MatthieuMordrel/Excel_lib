@@ -3,7 +3,7 @@ from typing import Dict, Any
 from pathlib import Path
 import json
 
-def setup_logger(log_file: Path = Path("excel_processor.log")) -> logging.Logger:
+def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.Logger:
     """
     Sets up and configures the logger.
     
@@ -20,13 +20,13 @@ def setup_logger(log_file: Path = Path("excel_processor.log")) -> logging.Logger
     file_handler = logging.FileHandler(log_file)
     file_handler.setLevel(logging.DEBUG)
     
-    # Create console handler
+    # Create console handler with higher threshold
     console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
+    console_handler.setLevel(logging.WARNING)  # Only show warnings and errors in console
     
     # Create formatter and add it to the handlers
     formatter = logging.Formatter(
-        '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        '%(asctime)s - %(levelname)s - %(message)s'  # Simplified format
     )
     file_handler.setFormatter(formatter)
     console_handler.setFormatter(formatter)
@@ -45,13 +45,12 @@ def log_request_completion(logger: logging.Logger, result: Dict[str, Any]) -> No
         logger: Logger instance
         result: Result dictionary to log
     """
-    status = "SUCCESS" if 'error' not in result else "FAILED"
-    message = f"Completed {result['file']} {result['sheet']}!{result['cell']} - {status}"
-    
     if 'error' in result:
-        message += f" - Error: {result['error']}"
-    
-    logger.info(message)
+        # Only log to console if there's an error
+        logger.warning(f"Failed: {result['file']} {result['sheet']}!{result['cell']} - Error: {result['error']}")
+    else:
+        # Success messages only go to file
+        logger.debug(f"Success: {result['file']} {result['sheet']}!{result['cell']}")
 
 def log_summary(logger: logging.Logger, log_path: Path) -> None:
     """
@@ -72,13 +71,12 @@ def log_summary(logger: logging.Logger, log_path: Path) -> None:
         # Check for recursion depth issues
         max_depth_reached = sum(1 for r in results if 'error' in r and 'Maximum recursion depth reached' in r['error'])
         
-        logger.info("\n=== Processing Summary ===")
-        logger.info(f"Total requests processed: {total_requests}")
-        logger.info(f"Successful requests: {successful_requests}")
-        logger.info(f"Failed requests: {failed_requests}")
+        # Log summary to console with WARNING level to ensure visibility
+        logger.warning("\n=== Processing Summary ===")
+        logger.warning(f"Total: {total_requests} | Success: {successful_requests} | Failed: {failed_requests}")
         
         if max_depth_reached > 0:
-            logger.warning(f"Maximum recursion depth reached for {max_depth_reached} requests")
+            logger.warning(f"Maximum recursion depth reached: {max_depth_reached} requests")
             
     except Exception as e:
         logger.error(f"Error generating summary: {str(e)}") 
