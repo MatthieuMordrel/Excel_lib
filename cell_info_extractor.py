@@ -15,6 +15,7 @@ class CellInfoExtractor:
         self.parser = FormulaParser()
         self.logger = setup_logger()
         self.resolver = RecursiveResolver(self, self.logger)
+        self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
 
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
         """Extracts formula and value from a specific cell."""
@@ -29,7 +30,11 @@ class CellInfoExtractor:
                 "cell": cell_ref
             }
         
+        # Create unique ID
+        obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
+        
         result = {
+            "id": obj_id,
             "file": filename,
             "sheet": sheet_name,
             "cell": cell_ref,
@@ -37,8 +42,10 @@ class CellInfoExtractor:
             "value": None,
             "path": str(file_path),
             "isElement": False,
+            "isMultiplication": False,
             "references": [],
-            "hReferenceCount": 0
+            "hReferenceCount": 0,
+            "isBaseMaterial": filename == self.BASE_MATERIAL_FILE
         }
         
         try:
@@ -47,12 +54,15 @@ class CellInfoExtractor:
             result['value'] = value
             
             if formula:
+                # Check for multiplication
+                result['isMultiplication'] = '*' in formula
                 self.logger.debug(f"Parsing formula: {filename} {sheet_name}!{cell_ref}")
                 formula_info = self.parser.parse_formula(formula, filename, sheet_name)
                 result.update(formula_info)
                 
-                # Perform recursive resolution
-                result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
+                # Perform recursive resolution unless it's a multiplication
+                if not result['isMultiplication']:
+                    result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
                 
         except Exception as e:
             error_msg = str(e)

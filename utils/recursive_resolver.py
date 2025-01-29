@@ -8,10 +8,12 @@ class RecursiveResolver:
     def __init__(self, extractor: Any, logger: logging.Logger):
         self.extractor = extractor
         self.logger = logger
+        self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
 
     def _is_base_case(self, result: Dict) -> bool:
         """Determines if we should stop recursion."""
         return (result.get('isElement', False) or 
+                result.get('isMultiplication', False) or
                 isinstance(result.get('value'), (int, float, str)) and 
                 not result.get('formula'))
 
@@ -38,6 +40,11 @@ class RecursiveResolver:
                 self.logger.warning(f"Invalid reference format: {ref}")
                 continue
                 
+            # Create ID for reference
+            ref_id = f"{ref['file']}_{ref['sheet']}_{ref['cell']}".replace(" ", "")
+            ref['id'] = ref_id
+            ref['isBaseMaterial'] = ref['file'] == self.BASE_MATERIAL_FILE
+            
             self.logger.debug(f"Processing reference: {ref['file']} {ref['sheet']}!{ref['cell']}")
             try:
                 ref_result = self.extractor.extract_cell_info(
