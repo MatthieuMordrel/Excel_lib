@@ -1,123 +1,13 @@
-2025-01-29 22:00:29,655 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
-2025-01-29 22:00:29,655 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
-2025-01-29 22:00:29,655 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
-2025-01-29 22:00:29,663 - INFO - Cell has no formula: I37 in LADE 600x500
-2025-01-29 22:00:29,663 - INFO - Cell has no formula: I37 in LADE 600x500
-2025-01-29 22:00:29,663 - INFO - Cell has no formula: I37 in LADE 600x500
-2025-01-29 22:00:29,667 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
-2025-01-29 22:00:29,667 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
-2025-01-29 22:00:29,667 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
-2025-01-29 22:00:29,686 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:29,686 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:29,686 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:29,695 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:29,695 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:29,695 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:29,708 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,708 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,708 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,720 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,720 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,720 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,737 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,737 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,737 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,753 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,753 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,753 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,768 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,768 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,768 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,791 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,791 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,791 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,838 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,838 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,838 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,874 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,874 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,874 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:29,889 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,889 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,889 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,908 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,908 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,908 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,925 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,925 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,925 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,936 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,936 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,936 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:29,960 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,960 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,960 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:29,983 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,983 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:29,983 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,027 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:30,027 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:30,027 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:00:30,093 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:30,093 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:30,093 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:00:30,128 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,128 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,128 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,166 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,166 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,166 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,188 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,188 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,188 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,211 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,211 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,211 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,232 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,232 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,232 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,251 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,251 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,251 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,271 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,271 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,271 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,289 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,289 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,289 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:00:30,308 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,308 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,308 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,321 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,321 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,321 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,334 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,334 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,334 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,344 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,344 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,344 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:00:30,354 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,354 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,354 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:00:30,366 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,366 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,366 - DEBUG - Processing reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!I3
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!I3
-2025-01-29 22:00:30,378 - DEBUG - Success: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!I3
-2025-01-29 22:00:30,390 - WARNING - 
+2025-01-29 22:57:45,721 - WARNING - Multiplication found in 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-29 22:57:45,771 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
+2025-01-29 22:57:45,777 - WARNING - Cell has no formula: I37 in LADE 600x500
+2025-01-29 22:57:45,780 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
+2025-01-29 22:57:45,791 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
+2025-01-29 22:57:45,800 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
+2025-01-29 22:57:45,811 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
+2025-01-29 22:57:45,820 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
+2025-01-29 22:57:45,830 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
+2025-01-29 22:57:45,840 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
+2025-01-29 22:57:45,860 - WARNING - 
 === Processing Summary ===
-2025-01-29 22:00:30,390 - WARNING - 
-=== Processing Summary ===
-2025-01-29 22:00:30,390 - WARNING - 
-=== Processing Summary ===
-2025-01-29 22:00:30,391 - WARNING - Total: 3 | Success: 3 | Failed: 0
-2025-01-29 22:00:30,391 - WARNING - Total: 3 | Success: 3 | Failed: 0
-2025-01-29 22:00:30,391 - WARNING - Total: 3 | Success: 3 | Failed: 0
+2025-01-29 22:57:45,861 - WARNING - Total: 2 | Success: 2 | Failed: 0

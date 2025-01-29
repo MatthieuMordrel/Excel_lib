@@ -6,31 +6,26 @@ import json
 def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.Logger:
     """
     Sets up and configures the logger, clearing the log file before each run.
-    
-    Args:
-        log_file: Path to the log file
-        
-    Returns:
-        Configured logger instance
+    Only shows WARNING level and above in console, while maintaining DEBUG level for file logging.
     """
     # Clear the log file before setting up the logger
     with open(log_file, 'w') as f:
         f.write('')  # This will clear the file content
 
     logger = logging.getLogger("excel_processor")
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.DEBUG)  # Set base logger level to DEBUG to capture all messages
     
-    # Create file handler
+    # Create file handler for all levels
     file_handler = logging.FileHandler(log_file)
-    file_handler.setLevel(logging.DEBUG)
+    file_handler.setLevel(logging.DEBUG)  # Log all levels to file
     
-    # Create console handler with higher threshold
+    # Create console handler for WARNING and above
     console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.WARNING)  # Only show warnings and errors in console
+    console_handler.setLevel(logging.WARNING)  # Only show WARNING and above in console
     
     # Create formatter and add it to the handlers
     formatter = logging.Formatter(
-        '%(asctime)s - %(levelname)s - %(message)s'  # Simplified format
+        '%(asctime)s - %(levelname)s - %(message)s'
     )
     file_handler.setFormatter(formatter)
     console_handler.setFormatter(formatter)
@@ -39,22 +34,10 @@ def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.L
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
     
-    return logger
-
-def log_request_completion(logger: logging.Logger, result: Dict[str, Any]) -> None:
-    """
-    Logs the completion of a request.
+    # Remove any existing handlers to prevent duplicate logging
+    logger.handlers = [file_handler, console_handler]
     
-    Args:
-        logger: Logger instance
-        result: Result dictionary to log
-    """
-    if 'error' in result:
-        # Only log to console if there's an error
-        logger.warning(f"Failed: {result['file']} {result['sheet']}!{result['cell']} - Error: {result['error']}")
-    else:
-        # Success messages only go to file
-        logger.debug(f"Success: {result['file']} {result['sheet']}!{result['cell']}")
+    return logger
 
 def log_summary(logger: logging.Logger, log_path: Path) -> None:
     """

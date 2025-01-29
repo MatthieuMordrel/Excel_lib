@@ -1,67 +1,29 @@
 [
   {
-    "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33",
-    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-    "sheet": "OVERZICHT COZ1323",
-    "cell": "G33",
-    "formula": "=(G31*C33)+('https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/[calculatie cat 2022 .xlsx]c.basis'!$I$59*3.5)",
-    "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
-    "value": 1216.9298276250001,
-    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "id": "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19",
+    "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+    "sheet": "OVERZICHT CK213",
+    "cell": "D19",
+    "formula": "=+C19*D17",
+    "cleaned_formula": "C19*D17",
+    "value": 507.2072684437499,
+    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
     "isElement": false,
     "isMultiplication": true,
     "hReferenceCount": 0,
     "isBaseMaterial": false,
     "isProduct": true,
-    "productID": "C132B60KL-GDB_1",
+    "productID": "CK21330_1",
     "references": [
       {
-        "file": "calculatie cat 2022 .xlsx",
-        "sheet": "c.basis",
-        "cell": "I59"
+        "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+        "sheet": "OVERZICHT CK213",
+        "cell": "C19"
       },
       {
-        "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-        "sheet": "OVERZICHT COZ1323",
-        "cell": "G31"
-      },
-      {
-        "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-        "sheet": "OVERZICHT COZ1323",
-        "cell": "C33"
-      }
-    ]
-  },
-  {
-    "id": "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
-    "sheet": "OVERZICHT COP",
-    "cell": "F65",
-    "formula": "='https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR/[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR/[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR/[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
-    "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
-    "value": 143.10707441666665,
-    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\2 - 2022-COMFORTLINE - KLEUR - MELAMINE B + MDF BRUT + CORPUS KLEUR\\2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
-    "isElement": false,
-    "isMultiplication": true,
-    "hReferenceCount": 3,
-    "isBaseMaterial": false,
-    "isProduct": false,
-    "productID": null,
-    "references": [
-      {
-        "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "sheet": "CO40",
-        "cell": "H59"
-      },
-      {
-        "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "sheet": "LADE 40",
-        "cell": "H37"
-      },
-      {
-        "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "sheet": "FR396x196",
-        "cell": "H33"
+        "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+        "sheet": "OVERZICHT CK213",
+        "cell": "D17"
       }
     ]
   },
@@ -128,7 +90,34 @@
             "hReferenceCount": 5,
             "isBaseMaterial": false,
             "isProduct": false,
-            "productID": null
+            "productID": null,
+            "references": [
+              {
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "LADE 600x500",
+                "cell": "H35"
+              },
+              {
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "LADE 600x500",
+                "cell": "H31"
+              },
+              {
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "LADE 600x500",
+                "cell": "H11"
+              },
+              {
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "LADE 600x500",
+                "cell": "H5"
+              },
+              {
+                "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                "sheet": "LADE 600x500",
+                "cell": "H20"
+              }
+            ]
           },
           {
             "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_G3",
@@ -176,7 +165,39 @@
                     "hReferenceCount": 6,
                     "isBaseMaterial": false,
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "references": [
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H10"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H16"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H20"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H27"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H48"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "CKP213A60",
+                        "cell": "H56"
+                      }
+                    ]
                   },
                   {
                     "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39",
@@ -192,7 +213,34 @@
                     "hReferenceCount": 5,
                     "isBaseMaterial": false,
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "references": [
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "DE596x666",
+                        "cell": "H37"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "DE596x666",
+                        "cell": "H29"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "DE596x666",
+                        "cell": "H20"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "DE596x666",
+                        "cell": "H15"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "DE596x666",
+                        "cell": "H5"
+                      }
+                    ]
                   },
                   {
                     "id": "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33",
@@ -208,7 +256,39 @@
                     "hReferenceCount": 6,
                     "isBaseMaterial": false,
                     "isProduct": false,
-                    "productID": null
+                    "productID": null,
+                    "references": [
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H31"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H25"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H20"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H11"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H5"
+                      },
+                      {
+                        "file": "2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx",
+                        "sheet": "FR596x394",
+                        "cell": "H15"
+                      }
+                    ]
                   }
                 ]
               }

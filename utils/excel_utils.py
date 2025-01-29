@@ -35,24 +35,24 @@ class ExcelHelper:
             wb = self.cache.get(str(file_path))
             if wb is None:
                 if not file_path.exists():
-                    self.logger.error(f"File not found: {file_path}")
+                    self.logger.warning(f"File not found: {file_path}")
                     return "File not found", None  # Return directly for file not found
                 wb = self.excel.Workbooks.Open(str(file_path))
                 self.cache[str(file_path)] = wb
             
             sheet = wb.Sheets(sheet_name)
             if sheet is None:
-                self.logger.error(f"Sheet not found: {sheet_name} in {file_path}")
+                self.logger.warning(f"Sheet not found: {sheet_name} in {file_path}")
                 return "Sheet not found", None  # Return directly for sheet not found
             
             cell = sheet.Range(cell_ref)
             if cell is None:
-                self.logger.error(f"Cell not found: {cell_ref} in {sheet_name}")
+                self.logger.warning(f"Cell not found: {cell_ref} in {sheet_name}")
                 return "Cell not found", None  # Return directly for cell not found
             
             # Check if the cell has a formula
             if not cell.HasFormula:
-                self.logger.info(f"Cell has no formula: {cell_ref} in {sheet_name}")
+                self.logger.warning(f"Cell has no formula: {cell_ref} in {sheet_name}")
                 return "Cell has no formula in file", cell.Value  # Return message if no formula
             
             return cell.Formula, cell.Value

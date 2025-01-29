@@ -55,7 +55,6 @@ class ReferenceExtractor:
         
         # Remove external references from the formula
         formula_without_externals = re.sub(pattern1, "", cleaned_formula)
-        print(formula_without_externals)
         
         # Then extract internal references
         internal_refs = []
@@ -71,7 +70,6 @@ class ReferenceExtractor:
         
         # Remove internal references from the formula
         formula_without_refs = re.sub(pattern2, "", formula_without_externals)
-        print(formula_without_refs)
         
         # Finally, extract simple cell references
         simple_refs = []

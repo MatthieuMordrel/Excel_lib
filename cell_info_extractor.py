@@ -21,8 +21,19 @@ class CellInfoExtractor:
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
         self.product_mapper = product_mapper
 
+    def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[Dict]:
+        """Processes a batch of cell extraction requests."""
+        results = []
+        for file_name, sheet_name, cell_ref in requests:
+            result = self.extract_cell_info(file_name, sheet_name, cell_ref)
+            results.append(result)
+        return results
+
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
         """Extracts formula and value from a specific cell."""
+        # Create unique ID for the cell
+        obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
+        
         file_path = self.file_index.get(filename)
         if not file_path:
             error_msg = f"File {filename} not found in index"
@@ -45,9 +56,6 @@ class CellInfoExtractor:
                 "references": [],
                 "error": error_msg
             }
-        
-        # Create unique ID
-        obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         
         # Add product mapping immediately
         product_id = self.product_mapper.reverse_mapping.get(obj_id)
@@ -82,6 +90,8 @@ class CellInfoExtractor:
             if formula:
                 # Check for multiplication
                 result['isMultiplication'] = '*' in cleaned_formula
+                if result['isMultiplication']:
+                    self.logger.warning(f"Multiplication found in {filename} {sheet_name}!{cell_ref}")
                 # Parse the cleaned formula
                 formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result.update(formula_info)
@@ -97,14 +107,3 @@ class CellInfoExtractor:
         
         return result
 
-    def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[Dict]:
-        """Processes a batch of cell extraction requests."""
-        results = []
-        for file_name, sheet_name, cell_ref in requests:
-            result = self.extract_cell_info(file_name, sheet_name, cell_ref)
-            results.append(result)
-        return results
-
-    def __del__(self):
-        """Clean up resources."""
-        self.excel_helper.cleanup()
