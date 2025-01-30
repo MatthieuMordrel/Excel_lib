@@ -1,13 +1,15 @@
-2025-01-29 22:57:45,721 - WARNING - Multiplication found in 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
-2025-01-29 22:57:45,771 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
-2025-01-29 22:57:45,777 - WARNING - Cell has no formula: I37 in LADE 600x500
-2025-01-29 22:57:45,780 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
-2025-01-29 22:57:45,791 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
-2025-01-29 22:57:45,800 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
-2025-01-29 22:57:45,811 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
-2025-01-29 22:57:45,820 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
-2025-01-29 22:57:45,830 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
-2025-01-29 22:57:45,840 - DEBUG - Resolving reference: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
-2025-01-29 22:57:45,860 - WARNING - 
+2025-01-30 09:36:54,093 - DEBUG - Extracting cell info: 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-30 09:36:54,220 - WARNING - Multiplication found in 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-30 09:36:54,221 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!I3
+2025-01-30 09:36:54,263 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!I37
+2025-01-30 09:36:54,269 - WARNING - Cell has no formula: I37 in LADE 600x500
+2025-01-30 09:36:54,272 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!H3
+2025-01-30 09:36:54,281 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx LADE 600x500!H37
+2025-01-30 09:36:54,291 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!G3
+2025-01-30 09:36:54,300 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx OVERZICHT CKP213!D3
+2025-01-30 09:36:54,312 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx CKP213A60!H58
+2025-01-30 09:36:54,321 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx DE596x666!H39
+2025-01-30 09:36:54,330 - DEBUG - Extracting cell info: 2022 -P7 Berekening Kolom P Lade F+O (11-12-14-17-18-19-20-21-23) 2137-KLEUR.xlsx FR596x394!H33
+2025-01-30 09:36:54,348 - WARNING - 
 === Processing Summary ===
-2025-01-29 22:57:45,861 - WARNING - Total: 2 | Success: 2 | Failed: 0
+2025-01-30 09:36:54,349 - WARNING - Total: 2 | Success: 2 | Failed: 0

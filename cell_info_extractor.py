@@ -32,6 +32,7 @@ class CellInfoExtractor:
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
         """Extracts formula and value from a specific cell."""
         # Create unique ID for the cell
+        self.logger.debug(f"Extracting cell info: {filename} {sheet_name}!{cell_ref}")
         obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         
         file_path = self.file_index.get(filename)
@@ -87,15 +88,14 @@ class CellInfoExtractor:
             cleaned_formula = self.cleaner.clean_formula(formula)
             result['cleaned_formula'] = cleaned_formula
             
-            if formula:
+            if cleaned_formula:
+                formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
+                result.update(formula_info)
                 # Check for multiplication
                 result['isMultiplication'] = '*' in cleaned_formula
                 if result['isMultiplication']:
                     self.logger.warning(f"Multiplication found in {filename} {sheet_name}!{cell_ref}")
-                # Parse the cleaned formula
-                formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
-                result.update(formula_info)
-                
+
                 # Perform recursive resolution unless it's a multiplication
                 if not result['isMultiplication']:
                     result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)

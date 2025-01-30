@@ -30,7 +30,6 @@ class RecursiveResolver:
         for ref in result.get('references', []):
             if self._validate_reference(ref):
                 # Log when resolving a reference
-                self.logger.debug(f"Resolving reference: {ref['file']} {ref['sheet']}!{ref['cell']}")
                 resolved_ref = self.extractor.extract_cell_info(ref['file'], ref['sheet'], ref['cell'])
                 resolved_references.append(resolved_ref)
             
