@@ -37,8 +37,13 @@ class FormulaCleaner:
         cleaned_formula = formula.replace('$', '').replace("=+", "").replace("=", "")
         
         # Remove the base URL
-        base_url = "https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/"
-        cleaned_formula = cleaned_formula.replace(base_url, "")
+        base_urls = [
+            "https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/",
+            "https://mordrel-my.sharepoint.com/personal/matthieu_mordrel_pro/Documents/Work/Projects/Kovera/Project 2/BASISMATERIALEN/"
+        ]
+        for base_url in base_urls:
+            cleaned_formula = cleaned_formula.replace(base_url, "")
+
         
         # Remove known folders
         for folder in FormulaCleaner.FOLDERS:
