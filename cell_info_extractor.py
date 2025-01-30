@@ -10,14 +10,14 @@ from Mappings.product_mapper import ProductMapper
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
     
-    def __init__(self, file_index: Dict[str, Path], product_mapper: ProductMapper, max_recursion_depth: int = 10):
+    def __init__(self, file_index: Dict[str, Path], product_mapper: ProductMapper, max_recursion_depth: int = 10, stop_on_multiplication: bool = True):
         self.file_index = file_index
         self.max_recursion_depth = max_recursion_depth
         self.excel_helper = ExcelHelper()
         self.parser = FormulaParser()
         self.cleaner = FormulaCleaner()
         self.logger = setup_logger()
-        self.resolver = RecursiveResolver(self, self.logger)
+        self.resolver = RecursiveResolver(self, self.logger, stop_on_multiplication)
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
         self.product_mapper = product_mapper
 

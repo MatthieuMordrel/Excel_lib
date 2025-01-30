@@ -1,23 +1,37 @@
-2025-01-30 10:50:04,455 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19
-2025-01-30 10:50:04,691 - WARNING - Multiplication found in 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
-2025-01-30 10:50:04,691 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33
-2025-01-30 10:50:04,829 - WARNING - Multiplication found in 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
-2025-01-30 10:50:04,829 - DEBUG - Extracting cell info: 2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65
-2025-01-30 10:50:04,996 - WARNING - Multiplication found in 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
-2025-01-30 10:50:04,996 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17
-2025-01-30 10:50:05,144 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57
-2025-01-30 10:50:05,159 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
-2025-01-30 10:50:05,173 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
-2025-01-30 10:50:05,188 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17
-2025-01-30 10:50:05,203 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57
-2025-01-30 10:50:05,219 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39
-2025-01-30 10:50:05,236 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_I3
-2025-01-30 10:50:05,333 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37
-2025-01-30 10:50:05,345 - WARNING - Cell has no formula: I37 in LADE 600x500
-2025-01-30 10:50:05,348 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-01-30 10:50:05,365 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_H37
-2025-01-30 10:50:05,383 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_G3
-2025-01-30 10:50:05,397 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_D3
-2025-01-30 10:50:05,410 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_CKP213A60_H58
-2025-01-30 10:50:05,426 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39
-2025-01-30 10:50:05,440 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33
+2025-01-30 10:52:49,293 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19
+2025-01-30 10:52:49,466 - WARNING - Multiplication found in 2022 - P1 berekening kolomkast 2137.xlsx OVERZICHT CK213!D19
+2025-01-30 10:52:49,466 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19
+2025-01-30 10:52:49,508 - WARNING - Cell has no formula: C19 in OVERZICHT CK213
+2025-01-30 10:52:49,515 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17
+2025-01-30 10:52:49,545 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57
+2025-01-30 10:52:49,563 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39
+2025-01-30 10:52:49,580 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33
+2025-01-30 10:52:49,700 - WARNING - Multiplication found in 2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx OVERZICHT COZ1323!G33
+2025-01-30 10:52:49,700 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I59
+2025-01-30 10:52:49,700 - ERROR - File calculatie cat 2022 .xlsx not found in index
+2025-01-30 10:52:49,701 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-01-30 10:52:49,715 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-01-30 10:52:49,732 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-01-30 10:52:49,744 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-01-30 10:52:49,747 - DEBUG - Extracting cell info: 2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65
+2025-01-30 10:52:49,974 - WARNING - Multiplication found in 2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx OVERZICHT COP!F65
+2025-01-30 10:52:49,974 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59
+2025-01-30 10:52:53,097 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37
+2025-01-30 10:52:53,113 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33
+2025-01-30 10:52:53,128 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17
+2025-01-30 10:52:53,272 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57
+2025-01-30 10:52:53,292 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
+2025-01-30 10:52:53,308 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
+2025-01-30 10:52:53,325 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17
+2025-01-30 10:52:53,339 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57
+2025-01-30 10:52:53,355 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39
+2025-01-30 10:52:53,368 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_I3
+2025-01-30 10:52:53,470 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37
+2025-01-30 10:52:53,483 - WARNING - Cell has no formula: I37 in LADE 600x500
+2025-01-30 10:52:53,486 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-01-30 10:52:53,500 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_H37
+2025-01-30 10:52:53,520 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_G3
+2025-01-30 10:52:53,535 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_D3
+2025-01-30 10:52:53,551 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_CKP213A60_H58
+2025-01-30 10:52:53,569 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39
+2025-01-30 10:52:53,584 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33

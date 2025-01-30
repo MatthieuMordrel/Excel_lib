@@ -18,25 +18,50 @@
   "elements": [
     {
       "cleaned_formula": "H55+H47+H26+H15+H9+H19",
-      "count": 2,
+      "count": 3,
       "unique_ids": [
         "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
+        "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57",
         "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H15+H11+H5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59"
+      ]
+    },
+    {
+      "cleaned_formula": "H35+H31+H11+H5+H20",
+      "count": 2,
+      "unique_ids": [
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_H37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37"
+      ]
+    },
+    {
+      "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33"
       ]
     },
     {
       "cleaned_formula": "H37+H29+H20+H11+H5+H15",
       "count": 2,
       "unique_ids": [
-        "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
-        "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39"
-      ]
-    },
-    {
-      "cleaned_formula": "H35+H31+H11+H5+H20",
-      "count": 1,
-      "unique_ids": [
-        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_H37"
+        "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
+        "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39"
       ]
     },
     {
@@ -52,17 +77,41 @@
       "unique_ids": [
         "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x666_H39"
       ]
-    },
+    }
+  ],
+  "base_materials": [
     {
-      "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+      "cleaned_formula": null,
       "count": 1,
       "unique_ids": [
-        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33"
+        "calculatiecat2022.xlsx_c.basis_I59"
       ]
     }
   ],
-  "base_materials": [],
   "other": [
+    {
+      "cleaned_formula": "Cell has no formula in file",
+      "count": 3,
+      "unique_ids": [
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37",
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19",
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33"
+      ]
+    },
+    {
+      "cleaned_formula": "SUM(CK213A30!H57+DE296x2137!H39)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17"
+      ]
+    },
+    {
+      "cleaned_formula": "'C1323OB60kl '!H59",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31"
+      ]
+    },
     {
       "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
       "count": 1,
@@ -89,13 +138,6 @@
       "count": 1,
       "unique_ids": [
         "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_I3"
-      ]
-    },
-    {
-      "cleaned_formula": "Cell has no formula in file",
-      "count": 1,
-      "unique_ids": [
-        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37"
       ]
     },
     {

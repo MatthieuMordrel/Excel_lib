@@ -4,16 +4,17 @@ import logging
 class RecursiveResolver:
     """Handles recursive resolution of Excel formulas."""
     
-    def __init__(self, extractor: Any, logger: logging.Logger):
+    def __init__(self, extractor: Any, logger: logging.Logger, stop_on_multiplication: bool):
         self.extractor = extractor
         self.logger = logger
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
         self.resolution_cache = {}  # Track resolved cells per instance
+        self.stop_on_multiplication = stop_on_multiplication
 
     def _is_base_case(self, result: Dict) -> bool:
         """Determines if we should stop recursion."""
         return (result.get('isElement', False) or 
-                result.get('isMultiplication', False) or
+                (self.stop_on_multiplication and result.get('isMultiplication', False)) or
                 isinstance(result.get('value'), (int, float, str)) and 
                 not result.get('formula'))
 

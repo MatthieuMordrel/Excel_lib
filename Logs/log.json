@@ -16,14 +16,135 @@
     "productID": "CK21330_1",
     "references": [
       {
+        "id": "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19",
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
-        "cell": "C19"
+        "cell": "C19",
+        "formula": "Cell has no formula in file",
+        "cleaned_formula": "Cell has no formula in file",
+        "value": 4.5,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": []
       },
       {
+        "id": "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17",
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
-        "cell": "D17"
+        "cell": "D17",
+        "formula": "=SUM(CK213A30!H57+DE296x2137!H39)",
+        "cleaned_formula": "SUM(CK213A30!H57+DE296x2137!H39)",
+        "value": 112.71272632083331,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "hReferenceCount": 2,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [
+          {
+            "id": "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57",
+            "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+            "sheet": "CK213A30",
+            "cell": "H57",
+            "formula": "=H55+H47+H26+H15+H9+H19",
+            "cleaned_formula": "H55+H47+H26+H15+H9+H19",
+            "value": 94.47141085416665,
+            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+            "isElement": true,
+            "isMultiplication": false,
+            "hReferenceCount": 6,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H55"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H47"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H26"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H15"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H9"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "CK213A30",
+                "cell": "H19"
+              }
+            ]
+          },
+          {
+            "id": "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39",
+            "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+            "sheet": "DE296x2137",
+            "cell": "H39",
+            "formula": "=H37+H29+H20+H15+H11+H5",
+            "cleaned_formula": "H37+H29+H20+H15+H11+H5",
+            "value": 18.241315466666666,
+            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+            "isElement": true,
+            "isMultiplication": false,
+            "hReferenceCount": 6,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H37"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H29"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H20"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H15"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H11"
+              },
+              {
+                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+                "sheet": "DE296x2137",
+                "cell": "H5"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -44,19 +165,105 @@
     "productID": "C132B60KL-GDB_1",
     "references": [
       {
+        "id": "calculatiecat2022.xlsx_c.basis_I59",
         "file": "calculatie cat 2022 .xlsx",
         "sheet": "c.basis",
-        "cell": "I59"
+        "cell": "I59",
+        "formula": "File not found",
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": true,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": "File calculatie cat 2022 .xlsx not found in index"
       },
       {
+        "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31",
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "G31"
+        "cell": "G31",
+        "formula": "='C1323OB60kl '!H59",
+        "cleaned_formula": "'C1323OB60kl '!H59",
+        "value": 93.09551725,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "hReferenceCount": 1,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [
+          {
+            "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59",
+            "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "C1323OB60kl ",
+            "cell": "H59",
+            "formula": "=H57+H49+H26+H15+H9+H19",
+            "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+            "value": 93.09551725,
+            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+            "isElement": true,
+            "isMultiplication": false,
+            "hReferenceCount": 6,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H57"
+              },
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H49"
+              },
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H26"
+              },
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H15"
+              },
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H9"
+              },
+              {
+                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+                "sheet": "C1323OB60kl ",
+                "cell": "H19"
+              }
+            ]
+          }
+        ]
       },
       {
+        "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33",
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "C33"
+        "cell": "C33",
+        "formula": "Cell has no formula in file",
+        "cleaned_formula": "Cell has no formula in file",
+        "value": 4.5,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+        "isElement": false,
+        "isMultiplication": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": []
       }
     ]
   },
@@ -77,19 +284,143 @@
     "productID": null,
     "references": [
       {
+        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "CO40",
-        "cell": "H59"
+        "cell": "H59",
+        "formula": "=H57+H49+H26+H15+H9+H19",
+        "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+        "value": 50.91389421666666,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+        "isElement": true,
+        "isMultiplication": false,
+        "hReferenceCount": 6,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H57"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H49"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H26"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H15"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H9"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "CO40",
+            "cell": "H19"
+          }
+        ]
       },
       {
+        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 40",
-        "cell": "H37"
+        "cell": "H37",
+        "formula": "=H35+H31+H11+H5+H20",
+        "cleaned_formula": "H35+H31+H11+H5+H20",
+        "value": 19.26181215,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+        "isElement": true,
+        "isMultiplication": false,
+        "hReferenceCount": 5,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "LADE 40",
+            "cell": "H35"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "LADE 40",
+            "cell": "H31"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "LADE 40",
+            "cell": "H11"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "LADE 40",
+            "cell": "H5"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "LADE 40",
+            "cell": "H20"
+          }
+        ]
       },
       {
+        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "FR396x196",
-        "cell": "H33"
+        "cell": "H33",
+        "formula": "=H31+H25+H20+H11+H5+H15",
+        "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+        "value": 3.7864829,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+        "isElement": true,
+        "isMultiplication": false,
+        "hReferenceCount": 6,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H31"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H25"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H20"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H11"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H5"
+          },
+          {
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "FR396x196",
+            "cell": "H15"
+          }
+        ]
       }
     ]
   },

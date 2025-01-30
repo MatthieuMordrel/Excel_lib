@@ -41,8 +41,11 @@ def main():
     indexer = FileIndexer(BASE_PATH)
     file_index = indexer.create_file_index() # type: Dict[str, Path]
     
+    # Control parameter for recursion on multiplication
+    stop_on_multiplication = False  # Set this to False if you don't want to stop on multiplication
+    
     # Process results directly with CellInfoExtractor
-    extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10)
+    extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, stop_on_multiplication=stop_on_multiplication)
     results = extractor.extract_batch(batch_requests)
     
     # Save results and log summary
