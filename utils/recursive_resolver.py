@@ -16,7 +16,8 @@ class RecursiveResolver:
         return (result.get('isElement', False) or 
                 (self.stop_on_multiplication and result.get('isMultiplication', False)) or
                 isinstance(result.get('value'), (int, float, str)) and 
-                not result.get('formula'))
+                not result.get('formula') or
+                result.get('isDivision', False))
 
     def _validate_reference(self, ref: Dict) -> bool:
         """Validates if a reference contains all required fields."""
