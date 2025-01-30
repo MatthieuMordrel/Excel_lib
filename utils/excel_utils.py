@@ -4,6 +4,8 @@ from pathlib import Path
 import pythoncom
 import win32com.client
 from utils.logging_utils import setup_logger
+from openpyxl import load_workbook
+from collections import OrderedDict
 
 def save_to_log(result: Dict, log_path: str) -> None:
     """
@@ -66,4 +68,34 @@ class ExcelHelper:
         for wb in self.cache.values():
             wb.Close(False)
         self.excel.Quit()
-        pythoncom.CoUninitialize() 
+        pythoncom.CoUninitialize()
+
+class ExcelUtils:
+    """Add LRU workbook caching with max size"""
+    _WORKBOOK_CACHE = OrderedDict()
+    MAX_CACHE_SIZE = 20  # Adjust based on available memory
+
+    @classmethod
+    def get_workbook(cls, file_path: Path):
+        """Get cached workbook or load new one"""
+        key = str(file_path)
+        
+        # Get from cache if exists
+        if key in cls._WORKBOOK_CACHE:
+            cls._WORKBOOK_CACHE.move_to_end(key)
+            return cls._WORKBOOK_CACHE[key]
+        
+        # Load new workbook with optimizations
+        wb = load_workbook(
+            filename=file_path,
+            read_only=True,  # Dramatically faster loading
+            data_only=True,  # Only needed for values
+            keep_links=False  # Reduce external link loading
+        )
+        
+        # Manage cache size
+        if len(cls._WORKBOOK_CACHE) >= cls.MAX_CACHE_SIZE:
+            cls._WORKBOOK_CACHE.popitem(last=False)
+            
+        cls._WORKBOOK_CACHE[key] = wb
+        return wb 

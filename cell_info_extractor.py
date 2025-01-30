@@ -1,6 +1,6 @@
 from typing import Dict, List, Tuple
 from pathlib import Path
-from utils.excel_utils import ExcelHelper
+from utils.excel_utils import ExcelHelper, ExcelUtils
 from utils.formula_parser import FormulaParser
 from utils.formula_cleaner import FormulaCleaner
 from utils.logging_utils import setup_logger
@@ -80,6 +80,15 @@ class CellInfoExtractor:
         }
         
         try:
+            wb = ExcelUtils.get_workbook(file_path)
+            
+            # Access specific sheet directly instead of loading all
+            if sheet_name not in wb.sheetnames:
+                raise ValueError(f"Sheet {sheet_name} not found")
+            
+            ws = wb[sheet_name]  # Direct sheet access
+            cell = ws[cell_ref]
+            
             formula, value = self.excel_helper.get_cell_info(file_path, sheet_name, cell_ref)
             result['formula'] = formula
             result['value'] = value

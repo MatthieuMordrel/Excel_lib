@@ -8,6 +8,7 @@ class RecursiveResolver:
         self.extractor = extractor
         self.logger = logger
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
+        self.resolution_cache = {}  # Track resolved cells per instance
 
     def _is_base_case(self, result: Dict) -> bool:
         """Determines if we should stop recursion."""
@@ -20,8 +21,13 @@ class RecursiveResolver:
         """Validates if a reference contains all required fields."""
         return all(key in ref for key in ['file', 'sheet', 'cell'])
 
-    def resolve_references(self, result: Dict, max_depth: int = 10) -> Dict:
+    def resolve_references(self, result: Dict, max_depth: int = 10, current_depth: int = 0) -> Dict:
         """Resolves references recursively."""
+        cache_key = f"{result['file']}|{result['sheet']}|{result['cell']}"
+        
+        if cache_key in self.resolution_cache:
+            return self.resolution_cache[cache_key]
+        
         if self._is_base_case(result):
             return result
         
@@ -34,4 +40,7 @@ class RecursiveResolver:
                 resolved_references.append(resolved_ref)
             
         result['references'] = resolved_references
+        
+        # Store before returning
+        self.resolution_cache[cache_key] = result
         return result 
