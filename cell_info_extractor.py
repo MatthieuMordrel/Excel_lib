@@ -106,9 +106,7 @@ class CellInfoExtractor:
                 if result['isMultiplication']:
                     self.logger.warning(f"Multiplication found in {filename} {sheet_name}!{cell_ref}")
 
-                # Perform recursive resolution unless it's a multiplication
-                if not result['isMultiplication']:
-                    result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
+                result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
                 
         except Exception as e:
             error_msg = str(e)
