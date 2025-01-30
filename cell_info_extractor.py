@@ -101,6 +101,7 @@ class CellInfoExtractor:
             result['cleaned_formula'] = cleaned_formula
             
             if cleaned_formula:
+                #Return file, sheet, cell dict
                 formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result.update(formula_info)
                 # Check for multiplication

@@ -33,7 +33,6 @@ class FormulaCleaner:
             return formula
         
         # Remove $ signs, single quotes, and handle "=+" pattern
-        # cleaned_formula = formula.replace('$', '').replace("'", "").replace("=+", "").replace("=", "")
         cleaned_formula = formula.replace('$', '').replace("=+", "").replace("=", "")
         
         # Remove the base URL
@@ -48,5 +47,8 @@ class FormulaCleaner:
         # Remove known folders
         for folder in FormulaCleaner.FOLDERS:
             cleaned_formula = cleaned_formula.replace(f"{folder}/", "")
+        
+        # Remove spaces not within single quotes
+        cleaned_formula = re.sub(r"(?:'[^']*')|\s+", lambda m: m.group(0) if m.group(0).startswith("'") else '', cleaned_formula)
         
         return cleaned_formula 
