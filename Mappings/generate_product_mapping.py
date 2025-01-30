@@ -58,5 +58,5 @@ def generate_product_mapping(excel_path: Path, output_path: Path) -> None:
 
 if __name__ == "__main__":
     excel_path = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\Analysis of Files\Batch File\File - Tab - Cell - (start of recursive resolver) - New.xlsx")
-    output_path = Path("product_mapping.json")
+    output_path = Path("Mappings/product_mapping.json")
     generate_product_mapping(excel_path, output_path) 
