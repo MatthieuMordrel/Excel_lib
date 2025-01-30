@@ -21,8 +21,21 @@ class RecursiveResolver:
         """Validates if a reference contains all required fields."""
         return all(key in ref for key in ['file', 'sheet', 'cell'])
 
+    def _classify_cell(self, result: Dict) -> str:
+        """Determine cell classification for logging"""
+        if result.get('isProduct'):
+            return 'Product'
+        if result.get('isElement'):
+            return 'Element'
+        if result.get('isBaseMaterial'):
+            return 'Base Material'
+        return 'Other'
+
     def resolve_references(self, result: Dict, max_depth: int = 10, current_depth: int = 0) -> Dict:
         """Resolves references recursively."""
+        # Add classification logging at resolution start
+        classification = self._classify_cell(result)
+        
         cache_key = f"{result['file']}|{result['sheet']}|{result['cell']}"
         
         if cache_key in self.resolution_cache:

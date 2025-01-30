@@ -32,15 +32,16 @@ class CellInfoExtractor:
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
         """Extracts formula and value from a specific cell."""
         # Create unique ID for the cell
-        self.logger.debug(f"Extracting cell info: {filename} {sheet_name}!{cell_ref}")
-        obj_id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
+        id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
+        self.logger.debug(f"Extracting cell info: {id}")
+        obj_id = id
         
         file_path = self.file_index.get(filename)
         if not file_path:
             error_msg = f"File {filename} not found in index"
             self.logger.error(error_msg)
             return {
-                "id": f"{filename}_{sheet_name}_{cell_ref}".replace(" ", ""),
+                "id": id,
                 "file": filename,
                 "sheet": sheet_name,
                 "cell": cell_ref,
