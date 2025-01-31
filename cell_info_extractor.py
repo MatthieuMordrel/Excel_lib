@@ -22,7 +22,7 @@ class CellInfoExtractor:
         self.cleaner = FormulaCleaner()
         self.logger = setup_logger()
         self.resolver = RecursiveResolver(self, self.logger, stop_on_multiplication)
-        self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
+        self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx".replace(" ", "")
         self.product_mapper = product_mapper
         
         # Add counters
@@ -70,11 +70,11 @@ class CellInfoExtractor:
                 "isMultiplication": False,
                 "isDivision": False,
                 "hReferenceCount": 0,
-                "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
+                "isBaseMaterial": filename.replace(" ", "") == self.BASE_MATERIAL_FILE,
                 "isProduct": False,
                 "productID": None,
+                "error": error_msg,
                 "references": [],
-                "error": error_msg
             })
         
         # Add product mapping immediately
@@ -96,8 +96,8 @@ class CellInfoExtractor:
             "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
             "isProduct": product_id is not None,
             "productID": product_id,
+            "error": None,
             "references": [],
-            "error": None
         }
         
         try:

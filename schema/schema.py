@@ -53,8 +53,8 @@ class FormulaResult(TypedDict):
     isBaseMaterial: bool
     isProduct: bool
     productID: str | None
-    references: List['FormulaResult']
     error: str | None
+    references: List['FormulaResult']
 
 class FormulaInfo(TypedDict):
     hReferenceCount: int
