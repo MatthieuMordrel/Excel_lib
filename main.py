@@ -8,7 +8,7 @@ from cell_info_extractor import CellInfoExtractor
 from typing import List
 
 # Configuration
-USE_BATCH_FILE = True
+USE_BATCH_FILE = False
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
 LOG_PATH = Path("Logs/log.json")
@@ -37,6 +37,10 @@ def main():
     
     # Get batch requests
     batch_requests = get_batch_requests(BATCH_FILE_PATH) if USE_BATCH_FILE else get_test_batch()
+    
+    # Log total number of products to process
+    total_products = len(batch_requests)
+    print(f"\nStarting processing of {total_products} products...")
     
     # Create file index
     indexer = FileIndexer(BASE_PATH)

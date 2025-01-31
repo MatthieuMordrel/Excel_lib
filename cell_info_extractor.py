@@ -29,13 +29,21 @@ class CellInfoExtractor:
         self.total_formulas = 0
         self.multiplication_count = 0
         self.division_count = 0
+        self.processed_products = 0  # New counter for progress tracking
 
     def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[FormulaResult]:
         """Processes a batch of cell extraction requests."""
         results: List[FormulaResult] = []
-        for file_name, sheet_name, cell_ref in requests:
+        total_products = len(requests)
+        
+        for i, (file_name, sheet_name, cell_ref) in enumerate(requests, 1):
             result = self.extract_cell_info(file_name, sheet_name, cell_ref)
             results.append(result)
+            
+            # Log progress every 10 products
+            if i % 10 == 0 or i == total_products:
+                print(f"Processed {i}/{total_products} products...")
+                
         return results
 
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> FormulaResult:
