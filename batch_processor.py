@@ -1,12 +1,10 @@
-import sys
 from pathlib import Path
 import win32com.client
-from typing import List, Tuple, Dict
-from cell_info_extractor import CellInfoExtractor
-from file_indexer import FileIndexer
-import json
+from typing import List, Tuple
 
-def get_batch_requests(file_path: Path) -> List[Tuple[str, str, str]]:
+BatchRequest = Tuple[str, str, str]  # (file_name, sheet_name, cell_ref)
+
+def get_batch_requests(file_path: Path) -> List[BatchRequest]:
     """
     Reads batch requests from an Excel file.
     
@@ -30,7 +28,7 @@ def get_batch_requests(file_path: Path) -> List[Tuple[str, str, str]]:
             raise ValueError("Excel file must have columns 'File', 'Tab', 'Cell' in the first row")
         
         # Read data
-        batch_requests = []
+        batch_requests: List[BatchRequest] = []
         row = 2
         while True:
             file_name = sheet.Cells(row, 1).Value

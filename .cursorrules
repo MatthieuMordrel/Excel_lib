@@ -18,7 +18,7 @@ Reverse engineering Excel formulas to extract these relationships, handling:
   * Mixed operations
 
 ## Workflow Overview:
-1. Input: Receive cell coordinates (file, sheet, cell)
+1. Input: Receive cell coordinates (file, sheet, cell) corresponding to a product cost calculation
 2. Extraction: Get formula and value from specified cell
 3. Parsing: Break down formula into components
 4. Resolution: 
@@ -40,7 +40,6 @@ Reverse engineering Excel formulas to extract these relationships, handling:
 
 ## Output Structure:
 The final output should provide a clear mapping of:
-- Product components
 - Material dependencies
 - Inter-product relationships
 - Formula derivation paths

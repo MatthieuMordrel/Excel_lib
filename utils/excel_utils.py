@@ -6,8 +6,10 @@ import win32com.client
 from utils.logging_utils import setup_logger
 from openpyxl import load_workbook
 from collections import OrderedDict
+from openpyxl.workbook.workbook import Workbook
+from win32com.client import CDispatch  # For Excel workbook type
 
-def save_to_log(result: Dict, log_path: str) -> None:
+def save_to_log(result: Dict[str, Any], log_path: str) -> None:
     """
     Saves extraction result to a JSON log file.
     
@@ -28,7 +30,7 @@ class ExcelHelper:
         self.excel = win32com.client.Dispatch("Excel.Application")
         self.excel.Visible = False
         self.excel.DisplayAlerts = False
-        self.cache = {}
+        self.cache: Dict[str, CDispatch] = {}  # Cache of Excel workbooks
         self.logger = setup_logger()  # Initialize the logger
 
     def get_cell_info(self, file_path: Path, sheet_name: str, cell_ref: str) -> Tuple[str, Any]:
@@ -72,11 +74,11 @@ class ExcelHelper:
 
 class ExcelUtils:
     """Add LRU workbook caching with max size"""
-    _WORKBOOK_CACHE = OrderedDict()
+    _WORKBOOK_CACHE: OrderedDict[str, Workbook] = OrderedDict()
     MAX_CACHE_SIZE = 20  # Adjust based on available memory
 
     @classmethod
-    def get_workbook(cls, file_path: Path):
+    def get_workbook(cls, file_path: Path) -> Workbook:
         """Get cached workbook or load new one"""
         key = str(file_path)
         

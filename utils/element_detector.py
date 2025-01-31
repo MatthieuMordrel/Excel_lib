@@ -1,15 +1,16 @@
 from typing import List, Dict
+from schema.schema import FormulaResult
 
 class ElementDetector:
     """Handles detection of element formulas based on references."""
     
     @staticmethod
-    def is_element(references: List[Dict]) -> bool:
+    def is_element(references: List[FormulaResult]) -> bool:
         """
         Determines if the formula represents an element based on references.
         
         Args:
-            references (List[Dict]): List of reference dictionaries
+            references (List[FormulaResult]): List of reference dictionaries
             
         Returns:
             bool: True if formula contains at least 4 H-references in the same sheet
@@ -18,7 +19,7 @@ class ElementDetector:
         h_references = [ref for ref in references if ref["cell"].startswith('H')]
         
         # Group H-references by sheet
-        sheet_counts = {}
+        sheet_counts: Dict[str, int] = {}
         for ref in h_references:
             sheet_counts[ref["sheet"]] = sheet_counts.get(ref["sheet"], 0) + 1
         

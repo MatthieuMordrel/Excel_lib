@@ -1,9 +1,11 @@
 from pathlib import Path
 import json
 import os
-from typing import List, Dict
-import logging
+from typing import List, Dict, Set, DefaultDict, TypedDict
 from collections import defaultdict
+from schema.schema import LogEntry, FormulaResult    
+
+
 
 class ResultManager:
     """Handles loading, saving, and managing results."""
@@ -13,7 +15,7 @@ class ResultManager:
         self.summary_logger = SummaryLogger()
         self.formula_summarizer = FormulaSummarizer()
         
-    def load_existing_results(self) -> list:
+    def load_existing_results(self) -> List[LogEntry]:
         """Loads existing results from the log file."""
         if not os.path.exists(self.log_path):
             return []
@@ -24,7 +26,7 @@ class ResultManager:
         except json.JSONDecodeError:
             return []
     
-    def save_results(self, results: List[Dict]):
+    def save_results(self, results: List[FormulaResult]) -> None:
         """Save results with classification tracking"""
         with open(self.log_path, 'w') as f:
             json.dump(results, f, indent=2)
@@ -47,7 +49,7 @@ class SummaryLogger:
             'other': 0
         }
     
-    def classify_result(self, result: Dict):
+    def classify_result(self, result: FormulaResult) -> None:
         """Categorize individual results"""
         if result.get('isProduct'):
             self.counts['products'] += 1
@@ -59,22 +61,31 @@ class SummaryLogger:
             self.counts['other'] += 1
     
 
+class FormulaData(TypedDict):
+    count: int
+    unique_ids: Set[str]
+
+class FormulaSummaryEntry(TypedDict):
+    cleaned_formula: str
+    count: int
+    unique_ids: List[str]
+
 class FormulaSummarizer:
     """Groups formulas by type and usage patterns"""
     def __init__(self):
-        self.formula_data = {
+        self.formula_data: Dict[str, DefaultDict[str, FormulaData]] = {
             'products': defaultdict(lambda: {'count': 0, 'unique_ids': set()}),
             'elements': defaultdict(lambda: {'count': 0, 'unique_ids': set()}),
             'base_materials': defaultdict(lambda: {'count': 0, 'unique_ids': set()}),
             'other': defaultdict(lambda: {'count': 0, 'unique_ids': set()})
         }
-        self.processed_ids = set()  # Track already processed IDs
+        self.processed_ids: Set[str] = set()  # Track already processed IDs
 
-    def process_result(self, result: Dict):
+    def process_result(self, result: FormulaResult) -> None:
         """Entry point for processing results and their nested references"""
         self._process_result_recursive(result)
 
-    def _process_result_recursive(self, result: Dict):
+    def _process_result_recursive(self, result: FormulaResult):
         """Recursively processes result and its references"""
         # Skip results without ID or already processed
         if 'id' not in result or result['id'] in self.processed_ids:
@@ -91,13 +102,16 @@ class FormulaSummarizer:
             if 'id' in ref:  # Only process references with IDs
                 self._process_result_recursive(ref)
 
-    def _categorize_formula(self, result: Dict):
+    def _categorize_formula(self, result: FormulaResult):
         """Handles formula categorization for a single result"""
         # Require both ID and formula to categorize
         if 'id' not in result or 'cleaned_formula' not in result:
             return
             
         formula = result['cleaned_formula']
+        if formula is None:
+            return
+            
         category = 'other'
         
         if result.get('isProduct'):
@@ -111,9 +125,9 @@ class FormulaSummarizer:
         self.formula_data[category][formula]['count'] += 1
         self.formula_data[category][formula]['unique_ids'].add(result['id'])
     
-    def save_formula_summary(self):
+    def save_formula_summary(self) -> None:
         """Save formatted summary to JSON file, overwriting previous"""
-        output = {}
+        output: Dict[str, List[FormulaSummaryEntry]] = {}
         
         for category, formulas in self.formula_data.items():
             output[category] = []

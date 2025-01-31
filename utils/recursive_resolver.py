@@ -1,42 +1,46 @@
 from typing import Dict, List, Any
-import logging
+from schema.schema import FormulaResult
+from logging import Logger
 
 class RecursiveResolver:
     """Handles recursive resolution of Excel formulas."""
     
-    def __init__(self, extractor: Any, logger: logging.Logger, stop_on_multiplication: bool):
+    def __init__(self, extractor: Any, logger: Logger, stop_on_multiplication: bool):
         self.extractor = extractor
         self.logger = logger
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
-        self.resolution_cache = {}  # Track resolved cells per instance
+        self.resolution_cache: Dict[str, FormulaResult] = {}
         self.stop_on_multiplication = stop_on_multiplication
 
-    def _is_base_case(self, result: Dict) -> bool:
+    def _is_base_case(self, result: FormulaResult) -> bool:
         """Determines if we should stop recursion."""
-        return (result.get('isElement', False) or 
-                (self.stop_on_multiplication and result.get('isMultiplication', False)) or
-                isinstance(result.get('value'), (int, float, str)) and 
-                not result.get('formula') or
-                result.get('isDivision', False))
+        return bool(
+            result.get('isElement', False) or 
+            (self.stop_on_multiplication and result.get('isMultiplication', False)) or
+            isinstance(result.get('value'), (int, float, str)) and 
+            not result.get('formula') or
+            result.get('isDivision', False)
+        )
 
-    def _validate_reference(self, ref: Dict) -> bool:
+    def _validate_reference(self, ref: FormulaResult) -> bool:
         """Validates if a reference contains all required fields."""
         return all(key in ref for key in ['file', 'sheet', 'cell'])
 
-    def _classify_cell(self, result: Dict) -> str:
+
+    def _classify_cell(self, result: FormulaResult) -> str:
         """Determine cell classification for logging"""
         if result.get('isProduct'):
             return 'Product'
+
         if result.get('isElement'):
             return 'Element'
         if result.get('isBaseMaterial'):
             return 'Base Material'
         return 'Other'
 
-    def resolve_references(self, result: Dict, max_depth: int = 10, current_depth: int = 0) -> Dict:
-        """Resolves references recursively."""
+    def resolve_references(self, result: FormulaResult, max_depth: int = 10, current_depth: int = 0) -> FormulaResult:
+        """Recursively resolves formula references."""
         # Add classification logging at resolution start
-        classification = self._classify_cell(result)
         
         cache_key = f"{result['file']}|{result['sheet']}|{result['cell']}"
         
@@ -47,7 +51,7 @@ class RecursiveResolver:
             return result
         
         # Process references
-        resolved_references = []
+        resolved_references: List[FormulaResult] = []
         for ref in result.get('references', []):
             if self._validate_reference(ref):
                 # Log when resolving a reference

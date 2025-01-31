@@ -1,6 +1,6 @@
-from typing import Dict
 from .reference_extractor import ReferenceExtractor
 from .element_detector import ElementDetector
+from schema.schema import FormulaInfo
 
 class FormulaParser:
     """Main parser that coordinates the formula parsing process."""
@@ -9,7 +9,7 @@ class FormulaParser:
         self.extractor = ReferenceExtractor()
         self.detector = ElementDetector()
     
-    def parse_formula(self, cleaned_formula: str, parent_file: str, parent_sheet: str) -> Dict:
+    def parse_formula(self, cleaned_formula: str, parent_file: str, parent_sheet: str) -> FormulaInfo:
         """
         Parses a cleaned Excel formula to extract references and determine if it's an element.
         
@@ -19,17 +19,16 @@ class FormulaParser:
             parent_sheet (str): The sheet containing the formula
             
         Returns:
-            Dict: Dictionary containing:
-                - isElement: True if formula contains at least 4 H-references in the same sheet
-                - references: List of dicts with file, sheet, cell for each reference
-                - hReferenceCount: Number of H-references found
+            FormulaInfo: Information about the formula
         """
         if not cleaned_formula:
-            return {
+            return FormulaInfo({
                 "isElement": False,
                 "hReferenceCount": 0,
-                "references": [],
-            }
+                "isBaseMaterial": False,
+                "isProduct": False,
+                "references": []
+            })
         
         # Extract references from the cleaned formula
         references = self.extractor.extract_references(cleaned_formula, parent_file, parent_sheet)
@@ -40,8 +39,10 @@ class FormulaParser:
         # Count H-references
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
         
-        return {
+        return FormulaInfo({
             "isElement": is_element,
             "hReferenceCount": h_reference_count,
-            "references": references,
-        }
+            "isBaseMaterial": False,
+            "isProduct": False,
+            "references": references
+        })

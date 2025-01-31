@@ -1,8 +1,8 @@
 import re
-from typing import List
 
 class FormulaCleaner:
     """Handles cleaning of Excel formulas."""
+
     
     # List of known folders
     FOLDERS = [
@@ -29,7 +29,7 @@ class FormulaCleaner:
         Returns:
             str: The cleaned formula
         """
-        if not formula or not isinstance(formula, str):
+        if not formula:  # Just check for empty string
             return formula
         
         # Remove $ signs, single quotes, and handle "=+" pattern

@@ -6,6 +6,9 @@ from utils.formula_cleaner import FormulaCleaner
 from utils.logging_utils import setup_logger
 from utils.recursive_resolver import RecursiveResolver
 from Mappings.product_mapper import ProductMapper
+from schema.schema import FormulaResult, FormulaInfo
+from openpyxl.workbook.workbook import Workbook
+from openpyxl.worksheet.worksheet import Worksheet
 
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
@@ -21,15 +24,15 @@ class CellInfoExtractor:
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
         self.product_mapper = product_mapper
 
-    def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[Dict]:
+    def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[FormulaResult]:
         """Processes a batch of cell extraction requests."""
-        results = []
+        results: List[FormulaResult] = []
         for file_name, sheet_name, cell_ref in requests:
             result = self.extract_cell_info(file_name, sheet_name, cell_ref)
             results.append(result)
         return results
 
-    def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> Dict:
+    def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> FormulaResult:
         """Extracts formula and value from a specific cell."""
         # Create unique ID for the cell
         id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
@@ -40,7 +43,7 @@ class CellInfoExtractor:
         if not file_path:
             error_msg = f"File {filename} not found in index"
             self.logger.error(error_msg)
-            return {
+            return FormulaResult({
                 "id": id,
                 "file": filename,
                 "sheet": sheet_name,
@@ -58,12 +61,12 @@ class CellInfoExtractor:
                 "productID": None,
                 "references": [],
                 "error": error_msg
-            }
+            })
         
         # Add product mapping immediately
         product_id = self.product_mapper.reverse_mapping.get(obj_id)
         
-        result = {
+        result: FormulaResult = {
             "id": obj_id,
             "file": filename,
             "sheet": sheet_name,
@@ -80,17 +83,18 @@ class CellInfoExtractor:
             "isProduct": product_id is not None,
             "productID": product_id,
             "references": [],
+            "error": None
         }
         
         try:
-            wb = ExcelUtils.get_workbook(file_path)
+            wb: Workbook = ExcelUtils.get_workbook(file_path)
             
-            # Access specific sheet directly instead of loading all
             if sheet_name not in wb.sheetnames:
                 raise ValueError(f"Sheet {sheet_name} not found")
             
-            ws = wb[sheet_name]  # Direct sheet access
-            cell = ws[cell_ref]
+            ws: Worksheet = wb[sheet_name]
+            # Verify cell exists
+            _ = ws[cell_ref]  # Will raise error if cell doesn't exist
             
             formula, value = self.excel_helper.get_cell_info(file_path, sheet_name, cell_ref)
             result['formula'] = formula
@@ -101,9 +105,12 @@ class CellInfoExtractor:
             result['cleaned_formula'] = cleaned_formula
             
             if cleaned_formula:
-                #Return file, sheet, cell dict
-                formula_info = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
-                result.update(formula_info)
+                formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
+                result['hReferenceCount'] = formula_info['hReferenceCount']
+                result['isElement'] = formula_info['isElement']
+                result['isBaseMaterial'] = formula_info['isBaseMaterial']
+                result['isProduct'] = formula_info['isProduct']
+                result['references'] = formula_info['references']
                 # Check for multiplication
                 result['isMultiplication'] = '*' in cleaned_formula
                 result['isDivision'] = '/' in cleaned_formula

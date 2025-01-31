@@ -1,0 +1,955 @@
+{
+  "products": [
+    {
+      "productID": "CKP213F102_1",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_1",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_10.964"
+                },
+                {
+                  "elementID": "FR596x394_H33_6.037"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_2",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_2",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_15.654"
+                },
+                {
+                  "elementID": "FR596x394_H33_9.201"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_3",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_3",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_27.443"
+                },
+                {
+                  "elementID": "FR596x394_H33_16.175"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_4",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_4",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_32.246"
+                },
+                {
+                  "elementID": "FR596x394_H33_19.016"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_5",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_5",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_44.762"
+                },
+                {
+                  "elementID": "FR596x394_H33_21.47"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          },
+          {
+            "productID": "CKP231F122_5",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_44.762"
+                },
+                {
+                  "elementID": "FR596x394_H33_21.47"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_6",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_6",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_45.126"
+                },
+                {
+                  "elementID": "FR596x394_H33_26.637"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_7",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_7",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_49.492"
+                },
+                {
+                  "elementID": "FR596x394_H33_29.22"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_8",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_8",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_53.859"
+                },
+                {
+                  "elementID": "FR596x394_H33_31.803"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_9",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_9",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_71.324"
+                },
+                {
+                  "elementID": "FR596x394_H33_42.135"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP213F102_10",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP213F122_10",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP213A60_H58_101.457"
+                },
+                {
+                  "elementID": "DE596x666_H39_84.423"
+                },
+                {
+                  "elementID": "FR596x394_H33_49.884"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_1",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_1",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_10.964"
+                },
+                {
+                  "elementID": "FR596x394_H33_6.037"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_2",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_2",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_17.035"
+                },
+                {
+                  "elementID": "FR596x394_H33_9.201"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_3",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_3",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_30.417"
+                },
+                {
+                  "elementID": "FR596x394_H33_16.175"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_4",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_4",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_35.869"
+                },
+                {
+                  "elementID": "FR596x394_H33_19.016"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_5",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_5",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_40.578"
+                },
+                {
+                  "elementID": "FR596x394_H33_21.47"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_6",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_6",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_50.49"
+                },
+                {
+                  "elementID": "FR596x394_H33_26.637"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_7",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_7",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_55.447"
+                },
+                {
+                  "elementID": "FR596x394_H33_29.22"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_8",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_8",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_60.403"
+                },
+                {
+                  "elementID": "FR596x394_H33_31.803"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_9",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_9",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_80.228"
+                },
+                {
+                  "elementID": "FR596x394_H33_42.135"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP222F102_10",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP222F122_10",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP222A60_H58_102.721"
+                },
+                {
+                  "elementID": "DE596x756_H39_95.097"
+                },
+                {
+                  "elementID": "FR596x394_H33_49.884"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_1",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_1",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_11.622"
+                },
+                {
+                  "elementID": "FR596x394_H33_6.037"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_2",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_2",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_18.417"
+                },
+                {
+                  "elementID": "FR596x394_H33_9.201"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_3",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_3",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_33.392"
+                },
+                {
+                  "elementID": "FR596x394_H33_16.175"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_4",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_4",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_39.493"
+                },
+                {
+                  "elementID": "FR596x394_H33_19.016"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_6",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_6",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_55.855"
+                },
+                {
+                  "elementID": "FR596x394_H33_26.637"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_7",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_7",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_55.855"
+                },
+                {
+                  "elementID": "FR596x394_H33_26.637"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_8",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_8",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_66.948"
+                },
+                {
+                  "elementID": "FR596x394_H33_31.803"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_9",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_9",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_89.133"
+                },
+                {
+                  "elementID": "FR596x394_H33_42.135"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CKP231F102_10",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CKP231F122_10",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CKP231A60_H58_104.427"
+                },
+                {
+                  "elementID": "DE596x756_H39_105.772"
+                },
+                {
+                  "elementID": "FR596x394_H33_49.884"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_1",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_1",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_2",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_2",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_3",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_3",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_5",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_5",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_6",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_6",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_7",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_7",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_8",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_8",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_9",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_9",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    },
+    {
+      "productID": "CO2PBL30_10",
+      "relationships": {
+        "productProduct": [
+          {
+            "productID": "CO2P30_10",
+            "relationships": {
+              "productElement": [
+                {
+                  "elementID": "CO30_H59_47.577"
+                }
+              ],
+              "productBaseMaterial": []
+            }
+          }
+        ],
+        "productBaseMaterial": [],
+        "productElement": []
+      }
+    }
+  ]
+}

@@ -17,14 +17,14 @@
     "productID": null,
     "references": [
       {
-        "id": "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19",
+        "id": "2022 - P1 berekening kolomkast 2137.xlsx_OVERZICHT CK213_C19",
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
         "cell": "C19",
-        "formula": "Cell has no formula in file",
-        "cleaned_formula": "Cellhasnoformulainfile",
-        "value": 4.5,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
         "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
@@ -32,126 +32,30 @@
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": []
+        "references": [],
+        "error": null
       },
       {
-        "id": "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17",
+        "id": "2022 - P1 berekening kolomkast 2137.xlsx_OVERZICHT CK213_D17",
         "file": "2022 - P1 berekening kolomkast 2137.xlsx",
         "sheet": "OVERZICHT CK213",
         "cell": "D17",
-        "formula": "=SUM(CK213A30!H57+DE296x2137!H39)",
-        "cleaned_formula": "SUM(CK213A30!H57+DE296x2137!H39)",
-        "value": 112.71272632083331,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
         "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
-        "hReferenceCount": 2,
+        "hReferenceCount": 0,
         "isBaseMaterial": false,
-        "isProduct": true,
-        "productID": "CK21330_1",
-        "references": [
-          {
-            "id": "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57",
-            "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-            "sheet": "CK213A30",
-            "cell": "H57",
-            "formula": "=H55+H47+H26+H15+H9+H19",
-            "cleaned_formula": "H55+H47+H26+H15+H9+H19",
-            "value": 94.47141085416665,
-            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
-            "isElement": true,
-            "isMultiplication": false,
-            "isDivision": false,
-            "hReferenceCount": 6,
-            "isBaseMaterial": false,
-            "isProduct": false,
-            "productID": null,
-            "references": [
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H55"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H47"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H26"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H15"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H9"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "CK213A30",
-                "cell": "H19"
-              }
-            ]
-          },
-          {
-            "id": "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39",
-            "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-            "sheet": "DE296x2137",
-            "cell": "H39",
-            "formula": "=H37+H29+H20+H15+H11+H5",
-            "cleaned_formula": "H37+H29+H20+H15+H11+H5",
-            "value": 18.241315466666666,
-            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 berekening kolomkast 2137.xlsx",
-            "isElement": true,
-            "isMultiplication": false,
-            "isDivision": false,
-            "hReferenceCount": 6,
-            "isBaseMaterial": false,
-            "isProduct": false,
-            "productID": null,
-            "references": [
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H37"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H29"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H20"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H15"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H11"
-              },
-              {
-                "file": "2022 - P1 berekening kolomkast 2137.xlsx",
-                "sheet": "DE296x2137",
-                "cell": "H5"
-              }
-            ]
-          }
-        ]
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33",
@@ -171,11 +75,11 @@
     "productID": null,
     "references": [
       {
-        "id": "calculatiecat2022.xlsx_c.basis_I59",
+        "id": "calculatie cat 2022 .xlsx_c.basis_I59",
         "file": "calculatie cat 2022 .xlsx",
         "sheet": "c.basis",
         "cell": "I59",
-        "formula": "File not found",
+        "formula": null,
         "cleaned_formula": null,
         "value": null,
         "path": null,
@@ -183,89 +87,21 @@
         "isMultiplication": false,
         "isDivision": false,
         "hReferenceCount": 0,
-        "isBaseMaterial": true,
-        "isProduct": false,
-        "productID": null,
-        "references": [],
-        "error": "File calculatie cat 2022 .xlsx not found in index"
-      },
-      {
-        "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31",
-        "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-        "sheet": "OVERZICHT COZ1323",
-        "cell": "G31",
-        "formula": "='C1323OB60kl '!H59",
-        "cleaned_formula": "'C1323OB60kl '!H59",
-        "value": 93.09551725,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-        "isElement": false,
-        "isMultiplication": false,
-        "isDivision": false,
-        "hReferenceCount": 1,
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": [
-          {
-            "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59",
-            "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-            "sheet": "C1323OB60kl ",
-            "cell": "H59",
-            "formula": "=H57+H49+H26+H15+H9+H19",
-            "cleaned_formula": "H57+H49+H26+H15+H9+H19",
-            "value": 93.09551725,
-            "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-            "isElement": true,
-            "isMultiplication": false,
-            "isDivision": false,
-            "hReferenceCount": 6,
-            "isBaseMaterial": false,
-            "isProduct": false,
-            "productID": null,
-            "references": [
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H57"
-              },
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H49"
-              },
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H26"
-              },
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H15"
-              },
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H9"
-              },
-              {
-                "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
-                "sheet": "C1323OB60kl ",
-                "cell": "H19"
-              }
-            ]
-          }
-        ]
+        "references": [],
+        "error": null
       },
       {
-        "id": "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33",
+        "id": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx_OVERZICHT COZ1323_G31",
         "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
         "sheet": "OVERZICHT COZ1323",
-        "cell": "C33",
-        "formula": "Cell has no formula in file",
-        "cleaned_formula": "Cellhasnoformulainfile",
-        "value": 4.5,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+        "cell": "G31",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
         "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
@@ -273,9 +109,30 @@
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": []
+        "references": [],
+        "error": null
+      },
+      {
+        "id": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx_OVERZICHT COZ1323_C33",
+        "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
@@ -291,152 +148,68 @@
     "isDivision": false,
     "hReferenceCount": 3,
     "isBaseMaterial": false,
-    "isProduct": true,
+    "isProduct": false,
     "productID": "CO4L40_2",
     "references": [
       {
-        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
+        "id": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_CO40_H59",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "CO40",
         "cell": "H59",
-        "formula": "=H57+H49+H26+H15+H9+H19",
-        "cleaned_formula": "H57+H49+H26+H15+H9+H19",
-        "value": 50.91389421666666,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "isElement": true,
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
-        "hReferenceCount": 6,
+        "hReferenceCount": 0,
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": [
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H57"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H49"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H26"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H15"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H9"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "CO40",
-            "cell": "H19"
-          }
-        ]
+        "references": [],
+        "error": null
       },
       {
-        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
+        "id": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_LADE 40_H37",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 40",
         "cell": "H37",
-        "formula": "=H35+H31+H11+H5+H20",
-        "cleaned_formula": "H35+H31+H11+H5+H20",
-        "value": 19.26181215,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "isElement": true,
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
-        "hReferenceCount": 5,
+        "hReferenceCount": 0,
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": [
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "LADE 40",
-            "cell": "H35"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "LADE 40",
-            "cell": "H31"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "LADE 40",
-            "cell": "H11"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "LADE 40",
-            "cell": "H5"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "LADE 40",
-            "cell": "H20"
-          }
-        ]
+        "references": [],
+        "error": null
       },
       {
-        "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
+        "id": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_FR396x196_H33",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "FR396x196",
         "cell": "H33",
-        "formula": "=H31+H25+H20+H11+H5+H15",
-        "cleaned_formula": "H31+H25+H20+H11+H5+H15",
-        "value": 3.7864829,
-        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\1- 2022-COMFORTLINE - KLEUR - MELAMINE A+ MDF BRUT + CORPUS KLEUR\\2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-        "isElement": true,
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
         "isMultiplication": false,
         "isDivision": false,
-        "hReferenceCount": 6,
+        "hReferenceCount": 0,
         "isBaseMaterial": false,
         "isProduct": false,
         "productID": null,
-        "references": [
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H31"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H25"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H20"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H11"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H5"
-          },
-          {
-            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-            "sheet": "FR396x196",
-            "cell": "H15"
-          }
-        ]
+        "references": [],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17",
@@ -452,7 +225,7 @@
     "isDivision": false,
     "hReferenceCount": 2,
     "isBaseMaterial": false,
-    "isProduct": true,
+    "isProduct": false,
     "productID": "CK21345_6",
     "references": [
       {
@@ -473,36 +246,121 @@
         "productID": null,
         "references": [
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H55",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H55"
+            "cell": "H55",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H47",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H47"
+            "cell": "H47",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H26",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H26"
+            "cell": "H26",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H15",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H15"
+            "cell": "H15",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H9",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H9"
+            "cell": "H9",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A45_H19",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A45",
-            "cell": "H19"
+            "cell": "H19",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           }
-        ]
+        ],
+        "error": null
       },
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
@@ -522,38 +380,124 @@
         "productID": null,
         "references": [
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H37",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H37"
+            "cell": "H37",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H29",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H29"
+            "cell": "H29",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H20",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H20"
+            "cell": "H20",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H11",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H11"
+            "cell": "H11",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H5",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H5"
+            "cell": "H5",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H15",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE446x2137",
-            "cell": "H15"
+            "cell": "H15",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           }
-        ]
+        ],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
@@ -573,36 +517,121 @@
     "productID": null,
     "references": [
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H37",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H37"
+        "cell": "H37",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H29",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H29"
+        "cell": "H29",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H20",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H20"
+        "cell": "H20",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H11",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H11"
+        "cell": "H11",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H5",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H5"
+        "cell": "H5",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE446x2137_H15",
         "file": "2022 - P6 berekening kolomkast 2137.xlsx",
         "sheet": "DE446x2137",
-        "cell": "H15"
+        "cell": "H15",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17",
@@ -618,7 +647,7 @@
     "isDivision": false,
     "hReferenceCount": 2,
     "isBaseMaterial": false,
-    "isProduct": true,
+    "isProduct": false,
     "productID": "CK21335_6",
     "references": [
       {
@@ -639,36 +668,121 @@
         "productID": null,
         "references": [
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H55",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H55"
+            "cell": "H55",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H47",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H47"
+            "cell": "H47",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H26",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H26"
+            "cell": "H26",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H15",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H15"
+            "cell": "H15",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H9",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H9"
+            "cell": "H9",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_CK213A35_H19",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "CK213A35",
-            "cell": "H19"
+            "cell": "H19",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           }
-        ]
+        ],
+        "error": null
       },
       {
         "id": "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
@@ -688,38 +802,124 @@
         "productID": null,
         "references": [
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H37",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H37"
+            "cell": "H37",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H29",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H29"
+            "cell": "H29",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H20",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H20"
+            "cell": "H20",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H11",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H11"
+            "cell": "H11",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H5",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H5"
+            "cell": "H5",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           },
           {
+            "id": "2022 - P6 berekening kolomkast 2137.xlsx_DE346x2137_H15",
             "file": "2022 - P6 berekening kolomkast 2137.xlsx",
             "sheet": "DE346x2137",
-            "cell": "H15"
+            "cell": "H15",
+            "formula": null,
+            "cleaned_formula": null,
+            "value": null,
+            "path": null,
+            "isElement": false,
+            "isMultiplication": false,
+            "isDivision": false,
+            "hReferenceCount": 0,
+            "isBaseMaterial": false,
+            "isProduct": false,
+            "productID": null,
+            "references": [],
+            "error": null
           }
-        ]
+        ],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   },
   {
     "id": "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36",
@@ -739,15 +939,44 @@
     "productID": null,
     "references": [
       {
+        "id": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_LADE 30_W13",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 30",
-        "cell": "W13"
+        "cell": "W13",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       },
       {
+        "id": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_LADE 30_Q36",
         "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
         "sheet": "LADE 30",
-        "cell": "Q36"
+        "cell": "Q36",
+        "formula": null,
+        "cleaned_formula": null,
+        "value": null,
+        "path": null,
+        "isElement": false,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 0,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "references": [],
+        "error": null
       }
-    ]
+    ],
+    "error": null
   }
 ]
