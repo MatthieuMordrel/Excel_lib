@@ -9,6 +9,7 @@ from Mappings.product_mapper import ProductMapper
 from schema.schema import FormulaResult, FormulaInfo
 from openpyxl.workbook.workbook import Workbook
 from openpyxl.worksheet.worksheet import Worksheet
+import json
 
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
@@ -23,6 +24,11 @@ class CellInfoExtractor:
         self.resolver = RecursiveResolver(self, self.logger, stop_on_multiplication)
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx"
         self.product_mapper = product_mapper
+        
+        # Add counters
+        self.total_formulas = 0
+        self.multiplication_count = 0
+        self.division_count = 0
 
     def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[FormulaResult]:
         """Processes a batch of cell extraction requests."""
@@ -105,6 +111,14 @@ class CellInfoExtractor:
             result['cleaned_formula'] = cleaned_formula
             
             if cleaned_formula:
+                self.total_formulas += 1  # Increment total formulas counter
+                
+                # Check for multiplication and division
+                if '*' in cleaned_formula:
+                    self.multiplication_count += 1
+                if '/' in cleaned_formula:
+                    self.division_count += 1
+
                 formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result['hReferenceCount'] = formula_info['hReferenceCount']
                 result['isElement'] = formula_info['isElement']
@@ -127,4 +141,25 @@ class CellInfoExtractor:
             result['error'] = error_msg
         
         return result
+
+    def log_operation_stats(self):
+        """Logs statistics about multiplication and division operations"""
+        if self.total_formulas == 0:
+            return
+            
+        multiplication_percent = (self.multiplication_count / self.total_formulas) * 100
+        division_percent = (self.division_count / self.total_formulas) * 100
+        
+        stats = {
+            "total_formulas": self.total_formulas,
+            "multiplication_count": self.multiplication_count,
+            "division_count": self.division_count,
+            "multiplication_percent": round(multiplication_percent, 2),
+            "division_percent": round(division_percent, 2)
+        }
+        
+        # Write to new log file
+        log_path = Path("Logs/operation_stats.json")
+        with open(log_path, 'w') as f:
+            json.dump(stats, f, indent=2)
 
