@@ -5,8 +5,7 @@ from result_manager import ResultManager
 from utils.logging_utils import setup_logger
 from file_indexer import FileIndexer
 from cell_info_extractor import CellInfoExtractor
-from typing import List, Dict
-from schema.schema import FormulaResult
+from typing import List
 
 # Configuration
 USE_BATCH_FILE = False
@@ -41,15 +40,15 @@ def main():
     
     # Create file index
     indexer = FileIndexer(BASE_PATH)
-    file_index: Dict[str, Path] = indexer.create_file_index()
+    file_index = indexer.create_file_index()
     
     # Control parameter for recursion on multiplication
     STOP_ON_MULTIPLICATION = True  # Set this to False if you don't want to stop on multiplication
     
     # Process results directly with CellInfoExtractor
     extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, stop_on_multiplication=STOP_ON_MULTIPLICATION)
-    results: List[FormulaResult] = extractor.extract_batch(batch_requests)
-    
+    results = extractor.extract_batch(batch_requests)
+
     # Save results and log summary
     result_manager.save_results(results)
     
