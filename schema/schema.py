@@ -62,5 +62,3 @@ class FormulaInfo(TypedDict):
     isBaseMaterial: bool
     isProduct: bool
     references: List[FormulaResult]
-
-# In cell_info_extractor.py:
