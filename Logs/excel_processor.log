@@ -1,766 +1,803 @@
-2025-02-03 18:00:18,938 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,261 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,262 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,337 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,337 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,403 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,404 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,473 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,473 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,546 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,547 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,603 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,604 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,669 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,669 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,731 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,731 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,820 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,821 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:21,896 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,897 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,898 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,898 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,899 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,900 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,901 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,901 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,903 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,903 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,904 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,905 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,906 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,906 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,908 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,908 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,911 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,911 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,912 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,913 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:21,914 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,914 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,915 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,916 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,917 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,917 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,919 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,919 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,920 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,920 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,922 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,922 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,923 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,924 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,925 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,925 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,926 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,926 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,927 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,927 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:21,930 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,930 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,931 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,931 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,933 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,933 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,935 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,935 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,936 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,936 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,938 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,938 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,939 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,940 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,941 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,941 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,942 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,943 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,944 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,944 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:21,945 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,945 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,947 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,947 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,950 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,950 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,951 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,952 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,953 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,953 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,954 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,955 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,956 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,956 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,958 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,958 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,959 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,959 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,960 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,961 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:21,962 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,962 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,963 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,964 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,965 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,965 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,966 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,966 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,970 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,970 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,971 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,971 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,972 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,972 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,974 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,974 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,975 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,975 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,976 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,977 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:21,977 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,978 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,979 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,979 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,980 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,981 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,982 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,982 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,983 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,983 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,984 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,985 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,987 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,987 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,989 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,989 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,990 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,990 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,991 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,992 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:21,993 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:21,993 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,026 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,026 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,085 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,085 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,116 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,116 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,146 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,146 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,176 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,176 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,204 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,204 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,235 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,235 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,265 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,266 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
-2025-02-03 18:00:22,297 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,297 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:22,359 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,360 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:22,450 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,451 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:22,511 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,512 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:22,572 - ERROR - Error: (-2147418111, 'Call was rejected by callee.', None, None)
-2025-02-03 18:00:22,573 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:24,743 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:24,743 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:26,922 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:26,922 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:29,543 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:29,543 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:31,731 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:31,731 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:33,890 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:33,890 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:36,100 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
-2025-02-03 18:00:36,101 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:38,234 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:38,235 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:40,429 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:40,429 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:42,633 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:42,633 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,940 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,940 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,956 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,956 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,973 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,974 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,992 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:45,992 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,014 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,014 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,035 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,036 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,056 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
-2025-02-03 18:00:46,056 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,074 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,074 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,090 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,091 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,108 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,108 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,125 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,126 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,142 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,142 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,159 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,159 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,176 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,176 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,194 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,194 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,209 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,210 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,226 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
-2025-02-03 18:00:46,226 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,241 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,242 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,261 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,261 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,278 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,279 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,296 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,297 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,312 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,313 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,329 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,329 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,350 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,351 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,368 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,368 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,387 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,387 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,406 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
-2025-02-03 18:00:46,406 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,422 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,422 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,439 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,439 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,455 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,455 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,472 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,473 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,490 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,490 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,506 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,507 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,522 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,522 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,539 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,539 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,558 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,558 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,577 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
-2025-02-03 18:00:46,577 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,593 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,594 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,611 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,611 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,626 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,627 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,641 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,642 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,658 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,659 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,676 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,676 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,693 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,694 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,709 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,709 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,724 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,725 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,741 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
-2025-02-03 18:00:46,741 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,759 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,759 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,776 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,776 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,792 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,792 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,809 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,810 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,828 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,828 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,848 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,848 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,869 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,869 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,891 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,892 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,915 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,915 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,937 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
-2025-02-03 18:00:46,937 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:49,256 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:49,257 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:51,534 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:51,535 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:53,988 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:53,988 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:56,750 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:56,750 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:59,026 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:00:59,026 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:01,353 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:01,353 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:03,687 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:03,688 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:06,036 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:06,036 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:08,396 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:08,396 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:10,944 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
-2025-02-03 18:01:10,944 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:10,971 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:10,972 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,000 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,001 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,030 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,030 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,059 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,060 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,089 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,090 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,118 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,118 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,145 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,146 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,173 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,173 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,205 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,206 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,233 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
-2025-02-03 18:01:11,234 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,261 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,262 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,287 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,287 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,316 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,316 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,349 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,349 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,376 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,377 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,404 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,405 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,434 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,434 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,460 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,460 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,486 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,487 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,513 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
-2025-02-03 18:01:11,513 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,539 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,540 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,567 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,568 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,609 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,610 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,636 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,636 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,662 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,662 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,688 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,688 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,711 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,711 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,738 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,738 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,768 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,768 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,806 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
-2025-02-03 18:01:11,806 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,846 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,848 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,873 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,873 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,903 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,903 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,928 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,929 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,958 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,958 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,983 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:11,984 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,009 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,009 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,033 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,033 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,062 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,062 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,092 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
-2025-02-03 18:01:12,092 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,117 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,118 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,147 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,147 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,173 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,173 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,200 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,200 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,228 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,228 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,251 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,252 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,281 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,281 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,314 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,315 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,344 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,345 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,371 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
-2025-02-03 18:01:12,372 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,401 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,401 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,426 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,426 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,455 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,456 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,487 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,487 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,516 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,516 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,544 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,545 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,573 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,573 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,601 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,601 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,627 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,627 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,653 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
-2025-02-03 18:01:12,653 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:14,555 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:14,582 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:14,614 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:14,638 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:14,661 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:14,661 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:14,661 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:16,587 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:16,624 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:16,660 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:16,695 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:16,735 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:16,735 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:16,735 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:18,690 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:18,732 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:18,769 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:18,808 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:18,851 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:18,851 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:18,851 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:21,746 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:21,773 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:21,801 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:21,828 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:21,852 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:21,852 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:21,853 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:23,834 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:23,884 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:23,930 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:23,971 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:24,014 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:24,014 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:24,014 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:26,782 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:26,824 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:26,869 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:26,908 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:26,950 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:26,950 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:26,950 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:28,943 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:28,986 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:29,030 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:29,077 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:29,120 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:29,120 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:29,121 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:31,262 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:31,297 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:31,339 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:31,379 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:31,414 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:31,415 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:31,415 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
-2025-02-03 18:01:33,438 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
-2025-02-03 18:01:33,484 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
-2025-02-03 18:01:33,530 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
-2025-02-03 18:01:33,578 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
-2025-02-03 18:01:33,621 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
-2025-02-03 18:01:33,621 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:33,622 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:40,066 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:40,120 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:40,167 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:40,213 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:40,258 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:40,258 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:40,258 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:40,309 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:40,366 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:40,422 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:40,477 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:40,529 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:40,529 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:40,529 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:40,586 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:40,637 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:40,684 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:40,729 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:40,773 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:40,773 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:40,774 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:40,828 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:40,885 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:40,939 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:40,984 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:41,031 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:41,032 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:41,032 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:41,085 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:41,130 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:41,176 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:41,222 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:41,274 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:41,274 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:41,275 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:41,323 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:41,378 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:41,433 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:41,478 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:41,523 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:41,523 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:41,523 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:41,570 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:41,617 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:41,662 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:41,707 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:41,751 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:41,751 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:41,752 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:41,797 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:41,845 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:41,891 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:41,935 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:41,981 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:41,981 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:41,981 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:42,032 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:42,082 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:42,135 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:42,181 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:42,231 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:42,231 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:42,231 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
-2025-02-03 18:01:42,278 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:42,323 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:42,375 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:42,425 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:42,472 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
-2025-02-03 18:01:42,472 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
-2025-02-03 18:01:42,473 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:42,518 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:42,564 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:42,613 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:42,659 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:42,704 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:42,749 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:42,794 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:42,846 - WARNING - Multiplication found in: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:42,846 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:42,879 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:42,890 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:42,940 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:42,984 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:42,984 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:42,985 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:43,035 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:43,085 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:43,132 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:43,176 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:43,225 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:43,271 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:43,316 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:43,365 - WARNING - Multiplication found in: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:43,365 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:43,398 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:43,410 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:43,457 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:43,503 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:43,503 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:43,503 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:43,551 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:43,599 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:43,647 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:43,693 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:43,737 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:43,781 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:43,828 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:43,873 - WARNING - Multiplication found in: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:43,874 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:43,904 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:43,914 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:43,965 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:44,010 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:44,010 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:44,010 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:44,059 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:44,107 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:44,155 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:44,207 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:44,253 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:44,298 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:44,350 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:44,401 - WARNING - Multiplication found in: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:44,401 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:44,436 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:44,447 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:44,495 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:44,539 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:44,539 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:44,540 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:44,587 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:44,634 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:44,680 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:44,727 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:44,787 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:44,838 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:44,884 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:44,931 - WARNING - Multiplication found in: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:44,931 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:44,965 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:44,975 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:45,024 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:45,072 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:45,072 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:45,073 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:45,120 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:45,167 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:45,213 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:45,257 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:45,301 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:45,351 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:45,403 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:45,451 - WARNING - Multiplication found in: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:45,451 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:45,483 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:45,493 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:45,541 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:45,589 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:45,589 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:45,590 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:45,637 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:45,683 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:45,729 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:45,773 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:45,818 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:45,865 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:45,912 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:45,957 - WARNING - Multiplication found in: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:45,957 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:46,001 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:46,018 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:46,073 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:46,119 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:46,119 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:46,119 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:46,164 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:46,212 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:46,258 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:46,308 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:46,361 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:46,418 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:46,465 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:46,512 - WARNING - Multiplication found in: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:46,512 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:46,546 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:46,555 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:46,605 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:46,650 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:46,650 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:46,650 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:46,699 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:46,745 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:46,791 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:46,840 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:46,885 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:46,933 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:46,979 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:47,024 - WARNING - Multiplication found in: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:47,024 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:47,061 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:47,071 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:47,119 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:47,165 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:47,165 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:47,166 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
-2025-02-03 18:01:47,211 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
-2025-02-03 18:01:47,255 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
-2025-02-03 18:01:47,301 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
-2025-02-03 18:01:47,353 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
-2025-02-03 18:01:47,402 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
-2025-02-03 18:01:47,450 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
-2025-02-03 18:01:47,496 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:47,542 - WARNING - Multiplication found in: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
-2025-02-03 18:01:47,543 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
-2025-02-03 18:01:47,576 - WARNING - Cell has no formula: R35 in LADE 30
-2025-02-03 18:01:47,586 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
-2025-02-03 18:01:47,635 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
-2025-02-03 18:01:47,680 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
-2025-02-03 18:01:47,680 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-03 18:01:47,681 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:47,729 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:47,773 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:47,818 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:47,862 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:47,908 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:47,953 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:47,997 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:48,043 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:48,090 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:48,139 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:48,187 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:48,232 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:48,279 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:48,323 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:48,371 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:48,420 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:48,466 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:48,512 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:48,556 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:48,603 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:48,647 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:48,699 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:48,749 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:48,799 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:48,851 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:48,899 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:48,948 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:48,998 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:49,050 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:49,105 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:49,154 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:49,203 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:49,254 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:49,302 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:49,358 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:49,409 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:49,459 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:49,506 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:49,550 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
-2025-02-03 18:01:49,595 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
-2025-02-03 18:01:49,640 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
-2025-02-03 18:01:49,684 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
-2025-02-03 18:01:49,731 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
-2025-02-03 18:01:49,774 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:26:14,109 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:16,555 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:16,555 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:19,011 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:19,012 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:21,438 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:21,438 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:23,857 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:23,857 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:26,267 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:26,268 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:28,871 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:28,871 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:31,388 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:31,389 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:33,864 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:33,864 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:36,525 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:36,526 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:39,823 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:26:39,824 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,831 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,831 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,837 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,838 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,843 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,844 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,850 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,850 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,856 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,857 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,862 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,863 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,868 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,868 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,876 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,877 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,882 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,883 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,889 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:26:39,890 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,895 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,896 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,901 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,902 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,909 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,909 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,914 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,914 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,921 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,921 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,927 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,928 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,933 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,933 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,940 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,940 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,946 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,946 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,954 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:26:39,954 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,961 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,962 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,968 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,968 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,974 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,975 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,980 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,981 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,988 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,988 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,994 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:39,994 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,001 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,001 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,007 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,007 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,013 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,014 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,020 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:26:40,020 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,026 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,027 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,034 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,035 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,041 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,042 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,050 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,050 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,056 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,056 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,062 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,063 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,069 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,070 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,075 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,075 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,081 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,081 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,086 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:26:40,087 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,092 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,092 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,098 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,098 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,104 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,104 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,111 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,111 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,118 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,118 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,124 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,124 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,129 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,130 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,135 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,135 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,140 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,140 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,145 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:26:40,145 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,151 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,151 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,157 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,158 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,164 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,164 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,168 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,169 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,174 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,174 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,182 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,182 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,188 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,188 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,193 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,193 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,198 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,199 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,204 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:26:40,205 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:42,138 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:42,148 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:42,156 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:42,161 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:44,540 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:26:44,559 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W37
+2025-02-03 18:26:44,568 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W36
+2025-02-03 18:26:44,579 - WARNING - Multiplication found in: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W36
+2025-02-03 18:26:44,579 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W35
+2025-02-03 18:26:44,589 - WARNING - Cell has no formula: W35 in PLADE 60
+2025-02-03 18:26:44,592 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W34
+2025-02-03 18:26:44,604 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE60_W18
+2025-02-03 18:26:44,617 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I113
+2025-02-03 18:26:44,617 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:26:44,617 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:46,596 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:46,610 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:46,616 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:46,621 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:46,627 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:48,640 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:48,655 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:48,661 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:48,667 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:48,673 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:50,551 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:50,574 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:50,587 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:50,601 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:50,611 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:52,498 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:52,512 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:52,521 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:52,529 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:52,538 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:54,318 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:54,329 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:54,339 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:54,347 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:54,356 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:56,148 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:56,159 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:56,183 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:56,191 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:56,199 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:26:58,079 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:26:58,090 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:26:58,102 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:26:58,110 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:26:58,120 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H3
+2025-02-03 18:27:00,191 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_KOLOMOVEN_H58
+2025-02-03 18:27:00,212 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_DE596x666_H39
+2025-02-03 18:27:00,250 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomBLade(2-3-5-6-8--26-27-29-34-36)2137-KLEUR.xlsx_OVERZICHTCKP213_H15
+2025-02-03 18:27:00,266 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y20
+2025-02-03 18:27:00,290 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:02,586 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:02,586 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:05,032 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:05,032 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:07,609 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:07,610 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:10,187 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:10,188 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:12,757 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:12,757 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:15,155 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:15,156 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:17,612 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:17,612 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:20,047 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:20,047 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:22,606 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:22,606 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:25,168 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_D3
+2025-02-03 18:27:25,168 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,193 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,193 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,210 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,210 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,224 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,225 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,241 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,241 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,263 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,264 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,286 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,286 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,303 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,304 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,319 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,320 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,338 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,338 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,352 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_E3
+2025-02-03 18:27:25,353 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,371 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,372 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,386 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,387 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,403 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,403 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,418 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,419 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,438 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,438 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,458 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,458 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,475 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,475 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,490 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,490 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,502 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,503 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,517 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_F3
+2025-02-03 18:27:25,517 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,529 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,530 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,541 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,541 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,559 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,559 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,575 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,575 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,590 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,591 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,608 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,609 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,624 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,624 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,638 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,638 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,650 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,651 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,664 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_G3
+2025-02-03 18:27:25,664 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,679 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,679 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,693 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,693 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,707 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,707 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,721 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,721 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,734 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,735 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,746 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,747 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,762 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,763 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,776 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,777 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,790 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,791 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,804 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_H3
+2025-02-03 18:27:25,804 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,816 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,817 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,831 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,831 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,843 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,844 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,854 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,855 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,868 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,868 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,881 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,882 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,899 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,899 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,913 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,914 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,927 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,927 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,938 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_I3
+2025-02-03 18:27:25,939 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,951 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,951 - DEBUG - Extracting cell info: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,964 - WARNING - Multiplication found in: 2022-P12BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,964 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,978 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,978 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,992 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:25,992 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,007 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,008 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,022 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,023 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,037 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,037 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,051 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,052 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,065 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,065 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,076 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2227-KLEUR.xlsx_OVERZICHTCKP222_J3
+2025-02-03 18:27:26,077 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:28,475 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:28,475 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:31,338 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:31,338 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:33,857 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:33,858 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:36,384 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:36,384 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:38,877 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:38,877 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:41,497 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:41,497 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:44,060 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:44,061 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:46,681 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:46,681 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:49,404 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:49,405 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:51,981 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_D3
+2025-02-03 18:27:51,982 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,011 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,011 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,029 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,029 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,052 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,052 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,070 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,070 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,090 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,091 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,114 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,114 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,133 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,134 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,155 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,155 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,178 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,178 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,200 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_E3
+2025-02-03 18:27:52,201 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,222 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,223 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,240 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,241 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,260 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,261 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,280 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,280 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,296 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,297 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,314 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,314 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,329 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,330 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,348 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,348 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,368 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,369 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,387 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_F3
+2025-02-03 18:27:52,388 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,404 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,405 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,419 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,419 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,435 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,435 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,452 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,453 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,475 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,476 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,493 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,494 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,511 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,511 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,532 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,533 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,548 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,548 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,564 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_G3
+2025-02-03 18:27:52,564 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,580 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,580 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,597 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,597 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,614 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,614 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,630 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,630 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,645 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,645 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,659 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,660 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,677 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,677 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,700 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,700 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,740 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,741 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,770 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_H3
+2025-02-03 18:27:52,771 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,799 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,799 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,829 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,829 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,856 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,856 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,886 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,886 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,915 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,915 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,942 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,943 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,967 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,967 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,984 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:52,984 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:53,006 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:53,007 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:53,028 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_I3
+2025-02-03 18:27:53,028 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,049 - WARNING - Multiplication found in: 2022-P1BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,050 - DEBUG - Extracting cell info: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,072 - WARNING - Multiplication found in: 2022-P2BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,072 - DEBUG - Extracting cell info: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,100 - WARNING - Multiplication found in: 2022-P3BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,100 - DEBUG - Extracting cell info: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,121 - WARNING - Multiplication found in: 2022-P4BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,122 - DEBUG - Extracting cell info: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,139 - WARNING - Multiplication found in: 2022-P5BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,140 - DEBUG - Extracting cell info: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,158 - WARNING - Multiplication found in: 2022-P6BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,158 - DEBUG - Extracting cell info: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,179 - WARNING - Multiplication found in: 2022-P7BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,179 - DEBUG - Extracting cell info: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,197 - WARNING - Multiplication found in: 2022-P8BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,197 - DEBUG - Extracting cell info: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,220 - WARNING - Multiplication found in: 2022-P9BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,220 - DEBUG - Extracting cell info: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,241 - WARNING - Multiplication found in: 2022-P10BerekeningKolomPLadeBLade(16-10)2317-KLEUR.xlsx_OVERZICHTCKP231_J3
+2025-02-03 18:27:53,241 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:27:55,317 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:27:55,343 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:27:55,366 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:27:55,382 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:27:55,399 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:27:55,399 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:27:55,399 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:27:57,544 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:27:57,562 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:27:57,583 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:27:57,602 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:27:57,622 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:27:57,622 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:27:57,622 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:27:59,732 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:27:59,752 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:27:59,771 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:27:59,791 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:27:59,812 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:27:59,812 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:27:59,812 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:01,852 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:01,881 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:01,897 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:01,910 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:01,922 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:01,922 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:01,923 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:04,010 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:04,030 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:04,047 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:04,058 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:04,069 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:04,069 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:04,070 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:06,178 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:06,202 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:06,222 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:06,240 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:06,284 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:06,285 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:06,285 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:08,428 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:08,451 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:08,474 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:08,492 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:08,513 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:08,513 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:08,513 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:10,608 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:10,635 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:10,650 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:10,663 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:10,676 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:10,676 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:10,677 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-02-03 18:28:12,996 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-02-03 18:28:13,018 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-02-03 18:28:13,040 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-02-03 18:28:13,061 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-02-03 18:28:13,080 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_W19
+2025-02-03 18:28:13,080 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:13,080 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:19,657 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:19,677 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:19,699 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:19,725 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:19,748 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:19,748 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:19,748 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:19,775 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:19,798 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:19,825 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:19,850 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:19,876 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:19,876 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:19,876 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:19,899 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:19,925 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:19,947 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:19,967 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:19,987 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:19,987 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:19,987 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,008 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,033 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,053 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,071 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,090 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,091 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,091 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,109 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,131 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,154 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,174 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,193 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,193 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,194 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,215 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,238 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,262 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,281 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,318 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,318 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,318 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,339 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,364 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,387 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,409 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,428 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,428 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,429 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,450 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,472 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,491 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,511 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,531 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,531 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,531 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,556 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,576 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,596 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,613 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,631 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,631 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,631 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-02-03 18:28:20,654 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:20,680 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:20,698 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:20,719 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:20,739 - DEBUG - Extracting cell info: BerekeningLadenkasten794.xlsx_OVERZICHTPO_Y19
+2025-02-03 18:28:20,739 - ERROR - File Berekening Ladenkasten 794.xlsx not found in index
+2025-02-03 18:28:20,739 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:20,761 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:20,782 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:20,801 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:20,820 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:20,838 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:20,857 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:20,880 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:20,900 - WARNING - Multiplication found in: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:20,900 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:20,915 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:20,922 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:20,945 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:20,968 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:20,968 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:20,968 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:20,989 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:21,019 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:21,041 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:21,060 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:21,082 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:21,103 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:21,129 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,151 - WARNING - Multiplication found in: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,151 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:21,170 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:21,179 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:21,204 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:21,228 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:21,228 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:21,229 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:21,254 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:21,296 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:21,329 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:21,353 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:21,377 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:21,401 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:21,421 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,446 - WARNING - Multiplication found in: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,447 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:21,469 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:21,474 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:21,501 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:21,522 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:21,522 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:21,522 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:21,546 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:21,568 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:21,588 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:21,611 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:21,630 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:21,650 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:21,671 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,697 - WARNING - Multiplication found in: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,697 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:21,711 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:21,717 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:21,739 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:21,768 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:21,769 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:21,769 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:21,801 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:21,823 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:21,845 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:21,867 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:21,888 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:21,909 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:21,928 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,947 - WARNING - Multiplication found in: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:21,948 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:21,965 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:21,971 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:21,998 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:22,022 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:22,022 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:22,022 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:22,045 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:22,067 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:22,087 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:22,109 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:22,129 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:22,151 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:22,174 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,194 - WARNING - Multiplication found in: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,194 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:22,208 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:22,216 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:22,261 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:22,306 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:22,307 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:22,307 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:22,347 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:22,385 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:22,405 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:22,425 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:22,444 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:22,465 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:22,484 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,505 - WARNING - Multiplication found in: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,505 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:22,518 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:22,524 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:22,552 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:22,570 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:22,570 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:22,571 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:22,591 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:22,610 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:22,629 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:22,647 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:22,665 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:22,687 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:22,708 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,728 - WARNING - Multiplication found in: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,728 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:22,741 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:22,750 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:22,776 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:22,799 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:22,799 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:22,799 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:22,819 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:22,841 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:22,860 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:22,880 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:22,901 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:22,921 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:22,941 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,962 - WARNING - Multiplication found in: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:22,962 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:22,978 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:22,982 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:23,003 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:23,026 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:23,026 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:23,027 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D11
+2025-02-03 18:28:23,047 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO30_H59
+2025-02-03 18:28:23,072 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE30_H39
+2025-02-03 18:28:23,092 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR296x790_H33
+2025-02-03 18:28:23,111 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_B28
+2025-02-03 18:28:23,130 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_H37
+2025-02-03 18:28:23,152 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R37
+2025-02-03 18:28:23,171 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:23,198 - WARNING - Multiplication found in: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R36
+2025-02-03 18:28:23,199 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R35
+2025-02-03 18:28:23,216 - WARNING - Cell has no formula: R35 in LADE 30
+2025-02-03 18:28:23,221 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_R34
+2025-02-03 18:28:23,246 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_LADE30_W4
+2025-02-03 18:28:23,269 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-02-03 18:28:23,269 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-03 18:28:23,269 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,289 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,310 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,346 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,366 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,384 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,402 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,421 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,440 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,460 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,478 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,498 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,518 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,539 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,559 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,577 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,601 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,619 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,638 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,656 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,683 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,703 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,722 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,741 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,761 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,779 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,797 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,816 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,839 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,858 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,877 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,894 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:23,913 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:23,935 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:23,954 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:23,972 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:23,990 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:24,010 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:24,038 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:24,060 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-02-03 18:28:24,083 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-02-03 18:28:24,107 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-02-03 18:28:24,133 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-02-03 18:28:24,156 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-02-03 18:28:24,178 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28

@@ -27,9 +27,16 @@ class ExcelHelper:
     
     def __init__(self):
         pythoncom.CoInitialize()
-        self.excel = win32com.client.Dispatch("Excel.Application")
-        self.excel.Visible = False
+        self.excel = win32com.client.gencache.EnsureDispatch("Excel.Application")
+        try:
+            # Some Excel versions might restrict changing visibility
+            self.excel.Visible = False
+        except AttributeError:
+            # If visibility can't be set, continue anyway
+            pass
         self.excel.DisplayAlerts = False
+        self.excel.AskToUpdateLinks = False
+        self.excel.AlertBeforeOverwriting = False
         self.cache: Dict[str, CDispatch] = {}  # Cache of Excel workbooks
         self.logger = setup_logger()  # Initialize the logger
 
