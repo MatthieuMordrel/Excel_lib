@@ -8,7 +8,7 @@ from cell_info_extractor import CellInfoExtractor
 from typing import List
 
 # Configuration
-USE_BATCH_FILE = False
+USE_BATCH_FILE = True
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
 LOG_PATH = Path("Logs/log.json")
