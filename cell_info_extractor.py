@@ -78,8 +78,9 @@ class CellInfoExtractor:
             })
         
         # Add product mapping immediately
-        product_id = self.product_mapper.reverse_mapping.get(obj_id)
+        product_id: str | None = self.product_mapper.reverse_mapping.get(obj_id)
         
+
         result: FormulaResult = {
             "id": obj_id,
             "file": filename,
