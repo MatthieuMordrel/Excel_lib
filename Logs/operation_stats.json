@@ -1,7 +1,7 @@
 {
-  "total_formulas": 2686,
-  "multiplication_count": 40,
-  "division_count": 17,
-  "multiplication_percent": 1.49,
-  "division_percent": 0.63
+  "total_formulas": 563,
+  "has_both": 273,
+  "has_multiplication": 13,
+  "has_division": 0,
+  "has_neither": 277
 }
