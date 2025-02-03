@@ -1,7 +1,6 @@
 from typing import List, Dict, Any
 import json
 from pathlib import Path
-import argparse
 
 def has_multiplication_or_division(result: Dict[str, Any]) -> bool:
     """Check if result or any nested reference has multiplication/division"""
@@ -42,8 +41,6 @@ def clean_result(result: Dict[str, Any], is_root: bool = True) -> Dict[str, Any]
             'references': []  # No need to show references for key components
         }
     
-
-
     # For root or intermediate objects, process references
     cleaned = {
         'productID': result.get('productID'),
@@ -85,53 +82,8 @@ def process_logs(input_path: Path, output_path: Path) -> None:
     with open(output_path, 'w') as f:
         json.dump(processed_data, f, indent=2)
 
-def analyze_operations(log_path: Path, output_path: Path) -> None:
-    """Analyzes a log file and generates operation statistics"""
-    with open(log_path, 'r') as f:
-        results: List[Dict[str, Any]] = json.load(f)
-
-    stats: Dict[str, int] = {
-        "total_formulas": 0,
-        "has_both": 0,
-        "has_multiplication": 0,
-        "has_division": 0,
-        "has_neither": 0
-    }
-
-    def check_references(refs: List[Dict[str, Any]]) -> bool:
-        for ref in refs:
-            if ref.get('isMultiplication'):
-                return True
-            if ref.get('isDivision'):
-                return True
-            if check_references(ref.get('references', [])):
-                return True
-        return False
-
-    for result in results:
-        stats["total_formulas"] += 1
-        
-        has_mul = result.get('isMultiplication') or check_references(result.get('references', []))
-        has_div = result.get('isDivision') or check_references(result.get('references', []))
-        
-        if has_mul and has_div:
-            stats["has_both"] += 1
-        elif has_mul:
-            stats["has_multiplication"] += 1
-        elif has_div:
-            stats["has_division"] += 1
-        if not has_mul and not has_div:
-            stats["has_neither"] += 1
-
-    with open(output_path, 'w') as f:
-        json.dump(stats, f, indent=2)
-    print(f"Generated operation stats in {output_path}")
-
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Analyze Excel formula log file')
-    parser.add_argument('--input', type=Path, required=True, help='Path to log.json file')
-    parser.add_argument('--output', type=Path, default=Path("Logs/operation_stats.json"), 
-                      help='Output path for statistics')
-    args = parser.parse_args()
-    
-    analyze_operations(args.input, args.output) 
+    # Use absolute path to avoid relative path issues
+    input_path = Path(__file__).parent.parent / "Logs" / "log.json"
+    output_path = Path(__file__).parent.parent /  "post_processing" /"processed_log.json"
+    process_logs(input_path, output_path) 

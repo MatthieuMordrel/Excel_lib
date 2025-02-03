@@ -1,4 +1,4 @@
-from typing import Dict, List, Tuple, Any
+from typing import Dict, List, Tuple
 from pathlib import Path
 from utils.excel_utils import ExcelHelper, ExcelUtils
 from utils.formula_parser import FormulaParser
@@ -9,7 +9,8 @@ from Mappings.product_mapper import ProductMapper
 from schema.schema import FormulaResult, FormulaInfo
 from openpyxl.workbook.workbook import Workbook
 from openpyxl.worksheet.worksheet import Worksheet
-import json
+
+
 
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
@@ -123,11 +124,7 @@ class CellInfoExtractor:
                 # Check for multiplication and division
                 result['isMultiplication'] = '*' in cleaned_formula
                 result['isDivision'] = '/' in cleaned_formula
-                if result['isMultiplication']:
-                    self.multiplication_count += 1
-                if result['isDivision']:
-                    self.division_count += 1
-                    
+
                 if self.stop_on_multiplication and result['isMultiplication']:
                     self.logger.warning(f"Multiplication found in: {result['id']}")
                     return result
@@ -152,48 +149,4 @@ class CellInfoExtractor:
             return result
         
         return result
-
-    def log_operation_stats(self) -> None:
-        """New approach: Analyze final results from log file"""
-        with open(Path("Logs/log.json"), 'r') as f:
-            results: List[Dict[str, Any]] = json.load(f)
-
-        stats: Dict[str, int] = {
-            "total_formulas": 0,
-            "has_both": 0,
-            "has_multiplication": 0,
-            "has_division": 0,
-            "has_neither": 0
-        }
-        
-
-        def check_references(refs: List[Dict[str, Any]]) -> bool:
-            for ref in refs:
-                if ref.get('isMultiplication'):
-                    return True
-                if ref.get('isDivision'):
-                    return True
-                if check_references(ref.get('references', [])):
-                    return True
-            return False
-        
-        for result in results:
-            stats["total_formulas"] += 1
-            
-            has_mul = result.get('isMultiplication') or check_references(result.get('references', []))
-            has_div = result.get('isDivision') or check_references(result.get('references', []))
-            
-            if has_mul and has_div:
-                stats["has_both"] += 1
-            elif has_mul:
-                stats["has_multiplication"] += 1
-            elif has_div:
-                stats["has_division"] += 1
-            if not has_mul and not has_div:
-                stats["has_neither"] += 1
-
-        # Write to stats file
-        log_path = Path("Logs/operation_stats.json")
-        with open(log_path, 'w') as f:
-            json.dump(stats, f, indent=2)
 

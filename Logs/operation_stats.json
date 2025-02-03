@@ -1,7 +1,7 @@
 {
-  "total_formulas": 563,
-  "has_both": 273,
-  "has_multiplication": 13,
+  "total_formulas": 257,
+  "has_both": 10,
+  "has_multiplication": 136,
   "has_division": 0,
-  "has_neither": 277
+  "has_neither": 111
 }

@@ -59,9 +59,6 @@ def main():
     extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, stop_on_multiplication=STOP_ON_MULTIPLICATION)
     results = extractor.extract_batch(batch_requests)
 
-    # Log operation statistics
-    extractor.log_operation_stats()
-
     # Save results and log summary
     result_manager.save_results(results)
     
