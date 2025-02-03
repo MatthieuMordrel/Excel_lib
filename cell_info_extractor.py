@@ -24,6 +24,7 @@ class CellInfoExtractor:
         self.resolver = RecursiveResolver(self, self.logger, stop_on_multiplication)
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx".replace(" ", "")
         self.product_mapper = product_mapper
+        self.stop_on_multiplication = stop_on_multiplication
         
         # Add counters
         self.total_formulas = 0
@@ -79,7 +80,9 @@ class CellInfoExtractor:
         
         # Add product mapping immediately
         product_id: str | None = self.product_mapper.reverse_mapping.get(obj_id)
-        
+        print(f"Product ID: {product_id}")
+        isProduct: bool = product_id is not None
+        print(f"Is Product: {isProduct}")
 
         result: FormulaResult = {
             "id": obj_id,
@@ -95,21 +98,19 @@ class CellInfoExtractor:
             "isDivision": False,
             "hReferenceCount": 0,
             "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
-            "isProduct": product_id is not None,
+            "isProduct": isProduct,
             "productID": product_id,
             "error": None,
             "references": [],
+
         }
         
         try:
             wb: Workbook = ExcelUtils.get_workbook(file_path)
-            
             if sheet_name not in wb.sheetnames:
                 raise ValueError(f"Sheet {sheet_name} not found")
-            
             ws: Worksheet = wb[sheet_name]
-            # Verify cell exists
-            _ = ws[cell_ref]  # Will raise error if cell doesn't exist
+            _ = ws[cell_ref]  # Verify cell exists
             
             formula, value = self.excel_helper.get_cell_info(file_path, sheet_name, cell_ref)
             result['formula'] = formula
@@ -118,36 +119,39 @@ class CellInfoExtractor:
             # Clean the formula before storing and parsing
             cleaned_formula = self.cleaner.clean_formula(formula)
             result['cleaned_formula'] = cleaned_formula
-            
+
             if cleaned_formula:
                 self.total_formulas += 1  # Increment total formulas counter
-                
                 # Check for multiplication and division
-                if '*' in cleaned_formula:
-                    self.multiplication_count += 1
-                if '/' in cleaned_formula:
-                    self.division_count += 1
-
-                formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
-                result['hReferenceCount'] = formula_info['hReferenceCount']
-                result['isElement'] = formula_info['isElement']
-                result['isBaseMaterial'] = formula_info['isBaseMaterial']
-                result['isProduct'] = formula_info['isProduct']
-                result['references'] = formula_info['references']
-                # Check for multiplication
                 result['isMultiplication'] = '*' in cleaned_formula
                 result['isDivision'] = '/' in cleaned_formula
                 if result['isMultiplication']:
-                    self.logger.warning(f"Multiplication found in: {id}")
+                    self.multiplication_count += 1
                 if result['isDivision']:
-                    self.logger.warning(f"Division found in: {id}")
+                    self.division_count += 1
+                    
+                if self.stop_on_multiplication and result['isMultiplication']:
+                    self.logger.warning(f"Multiplication found in: {result['id']}")
+                    return result
+                if result['isDivision']:
+                    self.logger.warning(f"Division found in: {result['id']}")
+                    return result
+            
+                formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
+                result['hReferenceCount'] = formula_info['hReferenceCount']
+                result['isElement'] = formula_info['isElement']
+                if not result['isElement']:
+                    result['references'] = formula_info['references']
+                    result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
 
-                result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
-                
-        except Exception as e:
-            error_msg = str(e)
-            self.logger.error(f"Error processing {filename} {sheet_name}!{cell_ref}: {error_msg}")
-            result['error'] = error_msg
+        except FileNotFoundError as e:
+            self.logger.error(f"File not found: {file_path}")
+            result['error'] = "File not found"
+            return result
+        except KeyError as e:
+            self.logger.error(f"Cell or sheet not found: {str(e)}")
+            result['error'] = "Cell or sheet not found"
+            return result
         
         return result
 
