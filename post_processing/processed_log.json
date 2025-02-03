@@ -1,833 +1,313 @@
 [
   {
-    "productID": "CK21330PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK23130PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21330PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK23135PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21335PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK23140PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21340PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK23145PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21345PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK23150PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21350PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK23155PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21355PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_2",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_3",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_4",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK23160PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_6",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_8",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_9",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
-    "productID": "CK21360PB4_10",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK213",
-    "cell": "J35",
-    "references": []
-  },
-  {
     "productID": "CKPL213F88_1",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 194.883283875,
     "sheet": "OVERZICHT CKP222",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_1",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 174.20777372499998,
+        "sheet": "OVERZICHT CKP222",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_2",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 210.091161675,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_2",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 189.415651525,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_3",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 247.847821275,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_3",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 227.172311125,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_4",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 263.230164075,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_4",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 242.554653925,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL231F88_5",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 287.8537446749999,
     "sheet": "OVERZICHT CKP231",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP231F102_5",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 267.17823452499994,
+        "sheet": "OVERZICHT CKP231",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_6",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 304.482810675,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_6",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 283.807300525,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_7",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 318.466758675,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_7",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 297.791248525,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_8",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 332.45070667499994,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_8",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 311.77519652499996,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_9",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 388.386498675,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_9",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 367.710988525,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL213F88_10",
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 430.3383426749999,
     "sheet": "OVERZICHT CKP213",
     "cell": "H3",
-    "references": []
-  },
-  {
-    "productID": "CK231M45PB3_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CKP231",
-    "cell": "H3",
-    "references": []
-  },
-  {
-    "productID": "CKPL213OM45_7",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CKP213",
-    "cell": "I3",
-    "references": []
-  },
-  {
-    "productID": "CK22230PB4_1",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK222",
-    "cell": "D35",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP213F102_10",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 409.66283252499994,
+        "sheet": "OVERZICHT CKP213",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL222F88_1",
@@ -1140,76 +620,6 @@
     ]
   },
   {
-    "productID": "CK23130PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "D35",
-    "references": []
-  },
-  {
-    "productID": "CK23135PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "E35",
-    "references": []
-  },
-  {
-    "productID": "CK23140PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "F35",
-    "references": []
-  },
-  {
-    "productID": "CK23145PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "G35",
-    "references": []
-  },
-  {
-    "productID": "CK23150PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "H35",
-    "references": []
-  },
-  {
-    "productID": "CK23155PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "I35",
-    "references": []
-  },
-  {
-    "productID": "CK23160PB4_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CK231",
-    "cell": "J35",
-    "references": []
-  },
-  {
     "productID": "CKPL231F88_1",
     "isElement": false,
     "isProduct": true,
@@ -1338,10 +748,31 @@
     "isElement": false,
     "isProduct": true,
     "isBaseMaterial": false,
-    "value": null,
+    "value": 287.8537446749999,
     "sheet": "OVERZICHT CKP231",
     "cell": "H3",
-    "references": []
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 20.675510149999997,
+        "sheet": "LADE 600x500",
+        "cell": "H37",
+        "references": []
+      },
+      {
+        "productID": "CKP231F102_5",
+        "isElement": false,
+        "isProduct": true,
+        "isBaseMaterial": false,
+        "value": 267.17823452499994,
+        "sheet": "OVERZICHT CKP231",
+        "cell": "G3",
+        "references": []
+      }
+    ]
   },
   {
     "productID": "CKPL231F88_6",
@@ -1497,16 +928,6 @@
         "references": []
       }
     ]
-  },
-  {
-    "productID": "CK231M45PB3_5",
-    "isElement": false,
-    "isProduct": true,
-    "isBaseMaterial": false,
-    "value": null,
-    "sheet": "OVERZICHT CKP231",
-    "cell": "H3",
-    "references": []
   },
   {
     "productID": "COPBL40FLES_1",
