@@ -27,6 +27,7 @@ def get_test_batch() -> List[BatchRequest]:
         ("2022 - P1 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "D35"), #Element + External reference
         ("2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx", "PLADE 30", "W18"), #Element + Base material reference
         ("2022 - P1 berekening kolomkast 2137.xlsx", "OVERZICHT CK213", "B28"), #Element + Division weird stuff
+        ("2022 - P5 berekening kolomkast 2317.xlsx", "OVERZICHT CK231", "D17"), #Product Kost
     ]
 
 def main():

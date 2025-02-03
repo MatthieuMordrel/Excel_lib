@@ -13,8 +13,8 @@
     "isDivision": false,
     "hReferenceCount": 0,
     "isBaseMaterial": false,
-    "isProduct": true,
-    "productID": "CK21330_1",
+    "isProduct": false,
+    "productID": null,
     "error": null,
     "references": []
   },
@@ -32,8 +32,8 @@
     "isDivision": false,
     "hReferenceCount": 0,
     "isBaseMaterial": false,
-    "isProduct": true,
-    "productID": "C132B60KL-GDB_1",
+    "isProduct": false,
+    "productID": null,
     "error": null,
     "references": []
   },
@@ -51,8 +51,8 @@
     "isDivision": false,
     "hReferenceCount": 0,
     "isBaseMaterial": false,
-    "isProduct": false,
-    "productID": null,
+    "isProduct": true,
+    "productID": "CO4L40_2",
     "error": null,
     "references": []
   },
@@ -70,8 +70,8 @@
     "isDivision": false,
     "hReferenceCount": 2,
     "isBaseMaterial": false,
-    "isProduct": false,
-    "productID": null,
+    "isProduct": true,
+    "productID": "CK21345_6",
     "error": null,
     "references": [
       {
@@ -147,8 +147,8 @@
     "isDivision": false,
     "hReferenceCount": 2,
     "isBaseMaterial": false,
-    "isProduct": false,
-    "productID": null,
+    "isProduct": true,
+    "productID": "CK21335_6",
     "error": null,
     "references": [
       {
@@ -224,8 +224,8 @@
     "isDivision": false,
     "hReferenceCount": 2,
     "isBaseMaterial": false,
-    "isProduct": false,
-    "productID": null,
+    "isProduct": true,
+    "productID": "CK21330PB4_1",
     "error": null,
     "references": [
       {
@@ -656,6 +656,64 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "2022-P5berekeningkolomkast2317.xlsx_OVERZICHTCK231_D17",
+    "file": "2022 - P5 berekening kolomkast 2317.xlsx",
+    "sheet": "OVERZICHT CK231",
+    "cell": "D17",
+    "formula": "=SUM(CK231A30!H57+DE296x2317!H39)",
+    "cleaned_formula": "SUM(CK231A30!H57+DE296x2317!H39)",
+    "value": 161.37227427083332,
+    "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\5 -2022- COMFORTLINE - POEDERLAK-5DUN FINEER + CORPUS KLEUR\\2022 - P5 berekening kolomkast 2317.xlsx",
+    "isElement": false,
+    "isMultiplication": false,
+    "isDivision": false,
+    "hReferenceCount": 2,
+    "isBaseMaterial": false,
+    "isProduct": true,
+    "productID": "CK23130_5",
+    "error": null,
+    "references": [
+      {
+        "id": "2022-P5berekeningkolomkast2317.xlsx_CK231A30_H57",
+        "file": "2022 - P5 berekening kolomkast 2317.xlsx",
+        "sheet": "CK231A30",
+        "cell": "H57",
+        "formula": "=H55+H47+H26+H15+H9+H19",
+        "cleaned_formula": "H55+H47+H26+H15+H9+H19",
+        "value": 97.23791860416667,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\5 -2022- COMFORTLINE - POEDERLAK-5DUN FINEER + CORPUS KLEUR\\2022 - P5 berekening kolomkast 2317.xlsx",
+        "isElement": true,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 6,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "error": null,
+        "references": []
+      },
+      {
+        "id": "2022-P5berekeningkolomkast2317.xlsx_DE296x2317_H39",
+        "file": "2022 - P5 berekening kolomkast 2317.xlsx",
+        "sheet": "DE296x2317",
+        "cell": "H39",
+        "formula": "=H37+H29+H20+H15+H11+H5",
+        "cleaned_formula": "H37+H29+H20+H15+H11+H5",
+        "value": 64.13435566666666,
+        "path": "C:\\Users\\matth\\OneDrive - Matthieu Mordrel\\Work\\Projects\\Kovera\\Project 2\\BASISMATERIALEN\\5 -2022- COMFORTLINE - POEDERLAK-5DUN FINEER + CORPUS KLEUR\\2022 - P5 berekening kolomkast 2317.xlsx",
+        "isElement": true,
+        "isMultiplication": false,
+        "isDivision": false,
+        "hReferenceCount": 6,
+        "isBaseMaterial": false,
+        "isProduct": false,
+        "productID": null,
+        "error": null,
+        "references": []
       }
     ]
   }

@@ -1,56 +1,6 @@
 {
   "products": [
     {
-      "cleaned_formula": "C19*D17",
-      "count": 1,
-      "unique_ids": [
-        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19"
-      ]
-    },
-    {
-      "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
-      "count": 1,
-      "unique_ids": [
-        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33"
-      ]
-    }
-  ],
-  "elements": [
-    {
-      "cleaned_formula": "H55+H47+H26+H15+H9+H19",
-      "count": 3,
-      "unique_ids": [
-        "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57",
-        "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
-        "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57"
-      ]
-    },
-    {
-      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
-      "count": 2,
-      "unique_ids": [
-        "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
-        "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39"
-      ]
-    },
-    {
-      "cleaned_formula": "H37+H29+H20+H15+H11+H5",
-      "count": 1,
-      "unique_ids": [
-        "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39"
-      ]
-    },
-    {
-      "cleaned_formula": "H5+H11+H20+H33+H37",
-      "count": 1,
-      "unique_ids": [
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_H39"
-      ]
-    }
-  ],
-  "base_materials": [],
-  "other": [
-    {
       "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
       "count": 1,
       "unique_ids": [
@@ -72,17 +22,76 @@
       ]
     },
     {
-      "cleaned_formula": "W13/100*Q36",
-      "count": 1,
-      "unique_ids": [
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36"
-      ]
-    },
-    {
       "cleaned_formula": "CK213A30!H57+DE296x2137!H39+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28",
       "count": 1,
       "unique_ids": [
         "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D35"
+      ]
+    },
+    {
+      "cleaned_formula": "SUM(CK231A30!H57+DE296x2317!H39)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P5berekeningkolomkast2317.xlsx_OVERZICHTCK231_D17"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H55+H47+H26+H15+H9+H19",
+      "count": 4,
+      "unique_ids": [
+        "2022-P5berekeningkolomkast2317.xlsx_CK231A30_H57",
+        "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57",
+        "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
+        "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 2,
+      "unique_ids": [
+        "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
+        "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H15+H11+H5",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39",
+        "2022-P5berekeningkolomkast2317.xlsx_DE296x2317_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H5+H11+H20+H33+H37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_H39"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "C19*D17",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19"
+      ]
+    },
+    {
+      "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33"
+      ]
+    },
+    {
+      "cleaned_formula": "W13/100*Q36",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36"
       ]
     },
     {

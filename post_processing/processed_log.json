@@ -1,0 +1,126 @@
+[
+  {
+    "productID": "CK21345_6",
+    "isElement": false,
+    "isProduct": true,
+    "isBaseMaterial": false,
+    "value": 211.8353296875,
+    "sheet": "OVERZICHT CK213",
+    "cell": "G17",
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 106.18894002083333,
+        "sheet": "CK213A45",
+        "cell": "H57",
+        "references": []
+      },
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 105.64638966666666,
+        "sheet": "DE446x2137",
+        "cell": "H39",
+        "references": []
+      }
+    ]
+  },
+  {
+    "productID": null,
+    "isElement": true,
+    "isProduct": false,
+    "isBaseMaterial": false,
+    "value": 105.64638966666666,
+    "sheet": "DE446x2137",
+    "cell": "H39",
+    "references": []
+  },
+  {
+    "productID": "CK21335_6",
+    "isElement": false,
+    "isProduct": true,
+    "isBaseMaterial": false,
+    "value": 182.05828802083334,
+    "sheet": "OVERZICHT CK213",
+    "cell": "E17",
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 97.68819835416667,
+        "sheet": "CK213A35",
+        "cell": "H57",
+        "references": []
+      },
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 84.37008966666667,
+        "sheet": "DE346x2137",
+        "cell": "H39",
+        "references": []
+      }
+    ]
+  },
+  {
+    "productID": null,
+    "isElement": false,
+    "isProduct": false,
+    "isBaseMaterial": false,
+    "value": 8.05,
+    "sheet": "PLADE 30",
+    "cell": "W18",
+    "references": [
+      {
+        "productID": null,
+        "isElement": false,
+        "isProduct": false,
+        "isBaseMaterial": true,
+        "value": null,
+        "sheet": "c.basis",
+        "cell": "I113",
+        "references": []
+      }
+    ]
+  },
+  {
+    "productID": "CK23130_5",
+    "isElement": false,
+    "isProduct": true,
+    "isBaseMaterial": false,
+    "value": 161.37227427083332,
+    "sheet": "OVERZICHT CK231",
+    "cell": "D17",
+    "references": [
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 97.23791860416667,
+        "sheet": "CK231A30",
+        "cell": "H57",
+        "references": []
+      },
+      {
+        "productID": null,
+        "isElement": true,
+        "isProduct": false,
+        "isBaseMaterial": false,
+        "value": 64.13435566666666,
+        "sheet": "DE296x2317",
+        "cell": "H39",
+        "references": []
+      }
+    ]
+  }
+]

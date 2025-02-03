@@ -80,9 +80,7 @@ class CellInfoExtractor:
         
         # Add product mapping immediately
         product_id: str | None = self.product_mapper.reverse_mapping.get(obj_id)
-        print(f"Product ID: {product_id}")
         isProduct: bool = product_id is not None
-        print(f"Is Product: {isProduct}")
 
         result: FormulaResult = {
             "id": obj_id,
