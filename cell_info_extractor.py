@@ -51,9 +51,9 @@ class CellInfoExtractor:
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> FormulaResult:
         """Extracts formula and value from a specific cell."""
         # Create unique ID for the cell
+        
         id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         self.logger.debug(f"Extracting cell info: {id}")
-        obj_id = id
         
         file_path = self.file_index.get(filename)
         if not file_path:
@@ -82,11 +82,11 @@ class CellInfoExtractor:
             })
         
         # Add product mapping immediately
-        product_id: str | None = self.product_mapper.reverse_mapping.get(obj_id)
+        product_id: str | None = self.product_mapper.reverse_mapping.get(id)
         isProduct: bool = product_id is not None
 
         result: FormulaResult = {
-            "id": obj_id,
+            "id": id,
             "file": filename,
             "sheet": sheet_name,
             "cell": cell_ref,

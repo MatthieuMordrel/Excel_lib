@@ -1,47 +1,43 @@
-2025-02-04 13:12:18,210 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19
-2025-02-04 13:12:18,431 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19
-2025-02-04 13:12:18,464 - WARNING - Cell has no formula: C19 in OVERZICHT CK213
-2025-02-04 13:12:18,476 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17
-2025-02-04 13:12:18,522 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57
-2025-02-04 13:12:18,560 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39
-2025-02-04 13:12:18,589 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33
-2025-02-04 13:12:18,722 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I59
-2025-02-04 13:12:18,722 - ERROR - File calculatie cat 2022 .xlsx not found in index
-2025-02-04 13:12:18,722 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
-2025-02-04 13:12:18,749 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
-2025-02-04 13:12:18,786 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
-2025-02-04 13:12:18,808 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
-2025-02-04 13:12:18,818 - DEBUG - Extracting cell info: 2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65
-2025-02-04 13:12:19,061 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59
-2025-02-04 13:12:19,265 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37
-2025-02-04 13:12:19,299 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33
-2025-02-04 13:12:19,341 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17
-2025-02-04 13:12:19,517 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57
-2025-02-04 13:12:19,551 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
-2025-02-04 13:12:19,584 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
-2025-02-04 13:12:19,625 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17
-2025-02-04 13:12:19,658 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57
-2025-02-04 13:12:19,704 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39
-2025-02-04 13:12:19,752 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36
-2025-02-04 13:12:19,792 - WARNING - Division found in: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36
-2025-02-04 13:12:19,792 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D35
-2025-02-04 13:12:19,829 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57
-2025-02-04 13:12:19,859 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39
-2025-02-04 13:12:19,893 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
-2025-02-04 13:12:19,933 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_S20
-2025-02-04 13:12:19,967 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_H39
-2025-02-04 13:12:19,976 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W37
-2025-02-04 13:12:20,014 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W36
-2025-02-04 13:12:20,058 - WARNING - Division found in: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W36
-2025-02-04 13:12:20,059 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W35
-2025-02-04 13:12:20,090 - WARNING - Cell has no formula: W35 in PLADE 30
-2025-02-04 13:12:20,098 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W34
-2025-02-04 13:12:20,132 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18
-2025-02-04 13:12:20,164 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I113
-2025-02-04 13:12:20,165 - ERROR - File calculatie cat 2022.xlsx not found in index
-2025-02-04 13:12:20,165 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18
-2025-02-04 13:12:20,192 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
-2025-02-04 13:12:20,226 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
-2025-02-04 13:12:20,256 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
-2025-02-04 13:12:20,282 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18
-2025-02-04 13:12:20,311 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
+2025-02-04 14:10:44,950 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19
+2025-02-04 14:10:45,144 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19
+2025-02-04 14:10:45,177 - WARNING - Cell has no formula: C19 in OVERZICHT CK213
+2025-02-04 14:10:45,192 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17
+2025-02-04 14:10:45,235 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57
+2025-02-04 14:10:45,276 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39
+2025-02-04 14:10:45,321 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33
+2025-02-04 14:10:45,471 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I59
+2025-02-04 14:10:45,471 - ERROR - File calculatie cat 2022 .xlsx not found in index
+2025-02-04 14:10:45,471 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-02-04 14:10:45,515 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-02-04 14:10:45,552 - DEBUG - Extracting cell info: 2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-02-04 14:10:45,584 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-02-04 14:10:45,598 - DEBUG - Extracting cell info: 2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65
+2025-02-04 14:10:45,799 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59
+2025-02-04 14:10:45,983 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37
+2025-02-04 14:10:46,022 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33
+2025-02-04 14:10:46,061 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17
+2025-02-04 14:10:46,212 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57
+2025-02-04 14:10:46,243 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
+2025-02-04 14:10:46,276 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39
+2025-02-04 14:10:46,316 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17
+2025-02-04 14:10:46,354 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57
+2025-02-04 14:10:46,385 - DEBUG - Extracting cell info: 2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39
+2025-02-04 14:10:46,414 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36
+2025-02-04 14:10:46,445 - WARNING - Division found in: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36
+2025-02-04 14:10:46,445 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D35
+2025-02-04 14:10:46,475 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57
+2025-02-04 14:10:46,521 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39
+2025-02-04 14:10:46,548 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
+2025-02-04 14:10:46,590 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_S20
+2025-02-04 14:10:46,616 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_H39
+2025-02-04 14:10:46,656 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W37
+2025-02-04 14:10:46,700 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W36
+2025-02-04 14:10:46,737 - WARNING - Division found in: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W36
+2025-02-04 14:10:46,737 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W35
+2025-02-04 14:10:46,748 - WARNING - Cell has no formula: W35 in PLADE 30
+2025-02-04 14:10:46,758 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W34
+2025-02-04 14:10:46,802 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18
+2025-02-04 14:10:46,844 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I113
+2025-02-04 14:10:46,844 - ERROR - File calculatie cat 2022.xlsx not found in index
+2025-02-04 14:10:46,844 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18
+2025-02-04 14:10:46,875 - DEBUG - Extracting cell info: 2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28
