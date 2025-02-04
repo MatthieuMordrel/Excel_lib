@@ -35,10 +35,14 @@ class FormulaParser:
         
         # Determine if it's an element
         is_element = self.detector.is_element(references)
+
+        # Add the quantity to the references
+        # updated_references = self.extractor.add_quantity(cleaned_formula, references)
         
         # Count H-references
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
         
+
         return FormulaInfo({
             "isElement": is_element,
             "hReferenceCount": h_reference_count,
