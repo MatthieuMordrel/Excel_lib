@@ -1,5 +1,4 @@
 from typing import TypedDict, List
-from sympy import Expr
 class ElementID(TypedDict):
     elementID: str
 
@@ -45,7 +44,7 @@ class FormulaResult(TypedDict):
     formula: str | None
     cleaned_formula: str | None
     updated_formula: str | None
-    expanded_formula: Expr | None
+    expanded_formula: str | None
     value: float | None
     path: str | None
     productID: str | None
@@ -64,5 +63,5 @@ class FormulaInfo(TypedDict):
     isBaseMaterial: bool
     isProduct: bool
     updated_formula: str | None
-    expanded_formula: Expr | None
+    expanded_formula: str | None
     references: List[FormulaResult]

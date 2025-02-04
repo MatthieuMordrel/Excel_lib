@@ -23,7 +23,6 @@ class AddQuantity:
         formula = formula.replace("'", "")
         return formula
 
-
     def convert_to_expr(self, formula: str) -> Expr:
         # Updated pattern to match Excel file references with special characters
 
