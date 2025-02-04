@@ -23,7 +23,7 @@ class ReferenceExtractor:
     def _create_reference(self, file: str, sheet: str, cell: str) -> FormulaResult:
         """Create a properly typed reference."""
         return FormulaResult({
-            "id": None,
+            "id": f"{file}_{sheet}_{cell}".replace(" ", ""),
             "file": file,
             "sheet": sheet,
             "cell": cell,

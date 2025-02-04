@@ -38,7 +38,7 @@ class LogEntry(TypedDict):
     references: List[Reference]
 
 class FormulaResult(TypedDict):
-    id: str | None
+    id: str
     file: str
     sheet: str
     cell: str
