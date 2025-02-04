@@ -66,6 +66,7 @@ class CellInfoExtractor:
                 "cell": cell_ref,
                 "formula": "File not found",
                 "cleaned_formula": None,
+                "updated_formula": None,
                 "value": None,
                 "path": None,
                 "isElement": False,
@@ -90,6 +91,7 @@ class CellInfoExtractor:
             "cell": cell_ref,
             "formula": None,
             "cleaned_formula": None,
+            "updated_formula": None,
             "value": None,
             "path": str(file_path),
             "isProduct": isProduct,
@@ -133,6 +135,7 @@ class CellInfoExtractor:
                 formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result['hReferenceCount'] = formula_info['hReferenceCount']
                 result['isElement'] = formula_info['isElement']
+                result['updated_formula'] = formula_info['updated_formula']
 
                 if not result['isElement']:  # Only resolve references if it's not an element
                     result['references'] = formula_info['references']

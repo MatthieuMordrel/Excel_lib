@@ -38,12 +38,13 @@ class LogEntry(TypedDict):
     references: List[Reference]
 
 class FormulaResult(TypedDict):
-    id: str
+    id: str | None
     file: str
     sheet: str
     cell: str
     formula: str | None
     cleaned_formula: str | None
+    updated_formula: str | None
     value: float | None
     path: str | None
     productID: str | None
@@ -61,4 +62,5 @@ class FormulaInfo(TypedDict):
     isElement: bool
     isBaseMaterial: bool
     isProduct: bool
+    updated_formula: str | None
     references: List[FormulaResult]

@@ -8,7 +8,7 @@ from cell_info_extractor import CellInfoExtractor
 from typing import List
 
 # Configuration
-USE_BATCH_FILE = True
+USE_BATCH_FILE = False
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
 LOG_PATH = Path("Logs/log.json")
@@ -53,7 +53,7 @@ def main():
     file_index = indexer.create_file_index()
     
     # Control parameter for recursion on multiplication
-    STOP_ON_MULTIPLICATION = True  # Set this to False if you don't want to stop on multiplication
+    STOP_ON_MULTIPLICATION = False  # Set this to False if you don't want to stop on multiplication
     
     # Process results directly with CellInfoExtractor
     extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, stop_on_multiplication=STOP_ON_MULTIPLICATION)

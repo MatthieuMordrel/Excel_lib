@@ -27,26 +27,29 @@ class FormulaParser:
                 "hReferenceCount": 0,
                 "isBaseMaterial": False,
                 "isProduct": False,
+                "updated_formula": None,
                 "references": []
             })
         
         # Extract references from the cleaned formula
-        references = self.extractor.extract_references(cleaned_formula, parent_file, parent_sheet)
+        references, updated_formula = self.extractor.extract_references(cleaned_formula, parent_file, parent_sheet)
+        print("Updated formula: ", updated_formula)
         
         # Determine if it's an element
         is_element = self.detector.is_element(references)
+
 
         # Add the quantity to the references
         # updated_references = self.extractor.add_quantity(cleaned_formula, references)
         
         # Count H-references
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
-        
 
         return FormulaInfo({
             "isElement": is_element,
             "hReferenceCount": h_reference_count,
             "isBaseMaterial": False,
             "isProduct": False,
+            "updated_formula": updated_formula,
             "references": references
         })
