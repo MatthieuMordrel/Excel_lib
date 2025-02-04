@@ -92,16 +92,15 @@ class CellInfoExtractor:
             "cleaned_formula": None,
             "value": None,
             "path": str(file_path),
+            "isProduct": isProduct,
+            "productID": product_id,
             "isElement": False,
+            "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
             "isMultiplication": False,
             "isDivision": False,
             "hReferenceCount": 0,
-            "isBaseMaterial": filename == self.BASE_MATERIAL_FILE,
-            "isProduct": isProduct,
-            "productID": product_id,
             "error": None,
             "references": [],
-
         }
         
         try:
@@ -124,7 +123,6 @@ class CellInfoExtractor:
                 # Check for multiplication and division
                 result['isMultiplication'] = '*' in cleaned_formula
                 result['isDivision'] = '/' in cleaned_formula
-
                 if self.stop_on_multiplication and result['isMultiplication']:
                     self.logger.warning(f"Multiplication found in: {result['id']}")
                     return result
@@ -135,7 +133,8 @@ class CellInfoExtractor:
                 formula_info: FormulaInfo = self.parser.parse_formula(cleaned_formula, filename, sheet_name)
                 result['hReferenceCount'] = formula_info['hReferenceCount']
                 result['isElement'] = formula_info['isElement']
-                if not result['isElement']:
+
+                if not result['isElement']:  # Only resolve references if it's not an element
                     result['references'] = formula_info['references']
                     result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
 

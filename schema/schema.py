@@ -46,13 +46,13 @@ class FormulaResult(TypedDict):
     cleaned_formula: str | None
     value: float | None
     path: str | None
+    productID: str | None
+    isProduct: bool
     isElement: bool
+    isBaseMaterial: bool
     isMultiplication: bool
     isDivision: bool
     hReferenceCount: int
-    isBaseMaterial: bool
-    isProduct: bool
-    productID: str | None
     error: str | None
     references: List['FormulaResult']
 

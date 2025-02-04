@@ -31,13 +31,13 @@ class ReferenceExtractor:
             "cleaned_formula": None,
             "value": None,
             "path": None,
+            "productID": None,
+            "isProduct": False,
+            "isBaseMaterial": False,
             "isElement": False,
             "isMultiplication": False,
             "isDivision": False,
             "hReferenceCount": 0,
-            "isBaseMaterial": False,
-            "isProduct": False,
-            "productID": None,
             "references": [],
             "error": None
         })
@@ -66,7 +66,6 @@ class ReferenceExtractor:
         # First, extract and remove all external references
         external_refs: List[FormulaResult] = []
         for match in re.findall(pattern1, cleaned_formula):
-
             file, sheet, cell = match
             if cell not in matched_cells and self._is_valid_cell(cell):
                 external_refs.append(self._create_reference(file, sheet, cell.upper()))
