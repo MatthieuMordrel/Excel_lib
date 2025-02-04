@@ -1,5 +1,5 @@
 import re
-from typing import List, Set
+from typing import List, Tuple
 from schema.schema import FormulaResult
 
 class ReferenceExtractor:
@@ -23,29 +23,30 @@ class ReferenceExtractor:
     def _create_reference(self, file: str, sheet: str, cell: str) -> FormulaResult:
         """Create a properly typed reference."""
         return FormulaResult({
-            "id": f"{file}_{sheet}_{cell}".replace(" ", ""),
+            "id": f"{file}_{sheet}_{cell}",
             "file": file,
             "sheet": sheet,
             "cell": cell,
             "formula": None,
             "cleaned_formula": None,
             "updated_formula": None,
+            "expanded_formula": None,
             "value": None,
             "path": None,
-            "productID": None,
-            "isProduct": False,
-            "isBaseMaterial": False,
             "isElement": False,
             "isMultiplication": False,
             "isDivision": False,
             "hReferenceCount": 0,
+            "isBaseMaterial": False,
+            "isProduct": False,
+            "productID": None,
             "references": [],
             "error": None
         })
 
-    def extract_references(self, cleaned_formula: str, parent_file: str, parent_sheet: str) -> tuple[List[FormulaResult], str]:
+    def extract_references(self, cleaned_formula: str, parent_file: str, parent_sheet: str) -> Tuple[List[FormulaResult], str]:
         """
-        Extracts references from a cleaned formula and creates an updated formula with reference IDs.
+        Extracts references from a cleaned formula.
         
         Args:
             cleaned_formula (str): The cleaned formula
@@ -53,49 +54,63 @@ class ReferenceExtractor:
             parent_sheet (str): The sheet containing the formula
             
         Returns:
-            tuple[List[FormulaResult], str]: List of reference dictionaries and updated formula
+            List[FormulaResult]: List of reference dictionaries
         """
         # Pattern 1: [filename]sheetname!cell (external reference)
         pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]\d{1,3})"
-        # Pattern 2: sheetname!cell (internal reference)
+        # Pattern 2:  
         pattern2 = r"'?([\w\s]+)'?!([A-Z]\d{1,3})"
         # Pattern 3: simple cell reference
         pattern3 = r"([A-Z]\d{1,3})"
         
         updated_formula = cleaned_formula
-        matched_cells: Set[str] = set()
         
         # First, extract and remove all external references
         external_refs: List[FormulaResult] = []
-        for match in re.finditer(pattern1, cleaned_formula):
-            file, sheet, cell = match.groups()
-            if cell not in matched_cells and self._is_valid_cell(cell):
-                ref = self._create_reference(file, sheet, cell.upper())
-                external_refs.append(ref)
-                matched_cells.add(cell)
-                # Replace the full match with the reference ID
-                updated_formula = updated_formula.replace(match.group(0),f"{ref['file']}_{ref['sheet']}_{ref['cell']}".replace(" ", ""))
+        for match in re.findall(pattern1, cleaned_formula):
+            file, sheet, cell = match
+            if self._is_valid_cell(cell):
+                external_refs.append(self._create_reference(file, sheet, cell.upper()))
+                # Construct the original reference string to replace
+                original_ref = f"'[{file}]{sheet}'!{cell}"
+                updated_formula = updated_formula.replace(original_ref, f"{file}_{sheet}_{cell}".replace(" ", ""))
 
+        # Remove external references from the formula
+        formula_without_externals = re.sub(pattern1, "", cleaned_formula)
+        
+        
         # Then extract internal references
         internal_refs: List[FormulaResult] = []
-        for match in re.finditer(pattern2, updated_formula):
-            sheet, cell = match.groups()
-            if cell not in matched_cells and self._is_valid_cell(cell):
-                ref = self._create_reference(parent_file, sheet, cell.upper())
-                internal_refs.append(ref)
-                matched_cells.add(cell)
-                # Replace the full match with the reference ID
-                updated_formula = updated_formula.replace(match.group(0),f"{ref['file']}_{ref['sheet']}_{ref['cell']}".replace(" ", ""))
+        for match in re.findall(pattern2, formula_without_externals):
+            sheet, cell = match
+            if self._is_valid_cell(cell):
+                internal_refs.append(self._create_reference(parent_file, sheet, cell.upper()))
+                # Construct the original reference string to replace
+                original_ref = f"'{sheet}'!{cell}" if " " in sheet else f"{sheet}!{cell}"
+                updated_formula = updated_formula.replace(original_ref, f"{parent_file}_{sheet}_{cell}".replace(" ", ""))
 
+        # Remove internal references from the formula
+        formula_without_refs = re.sub(pattern2, "", formula_without_externals)
+        
+        
         # Finally, extract simple cell references
         simple_refs: List[FormulaResult] = []
-        for match in re.finditer(pattern3, updated_formula):
-            cell = match.group(1)
-            if cell not in matched_cells and self._is_valid_cell(cell):
-                ref = self._create_reference(parent_file, parent_sheet, cell.upper())
-                simple_refs.append(ref)
-                matched_cells.add(cell)
-                # Replace the full match with the reference ID
-                updated_formula = updated_formula.replace(match.group(0),f"{ref['file']}_{ref['sheet']}_{ref['cell']}".replace(" ", ""))
+        for match in re.findall(pattern3, formula_without_refs):
+            cell = match
+            if self._is_valid_cell(cell):
+                simple_refs.append(self._create_reference(parent_file, parent_sheet, cell.upper()))
+                # Try both formats: with and without parent sheet reference
+                possible_refs = [
+                    f"'{parent_sheet}'!{cell}" if " " in parent_sheet else f"{parent_sheet}!{cell}",
+                    cell
+                ]
+                # Find which reference format actually exists in the formula
+                for possible_ref in possible_refs:
+                    if possible_ref in updated_formula:
+                        updated_formula = updated_formula.replace(
+                            possible_ref, 
+                            f"{parent_file}_{parent_sheet}_{cell}".replace(" ", "")
+                        )
+                        break
 
-        return external_refs + internal_refs + simple_refs, updated_formula 
+        return external_refs + internal_refs + simple_refs, updated_formula

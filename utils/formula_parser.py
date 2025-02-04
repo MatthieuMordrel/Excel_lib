@@ -1,6 +1,7 @@
 from .reference_extractor import ReferenceExtractor
 from .element_detector import ElementDetector
 from schema.schema import FormulaInfo
+from .add_quantity import AddQuantity
 
 class FormulaParser:
     """Main parser that coordinates the formula parsing process."""
@@ -8,6 +9,7 @@ class FormulaParser:
     def __init__(self):
         self.extractor = ReferenceExtractor()
         self.detector = ElementDetector()
+        self.add_quantity = AddQuantity()
     
     def parse_formula(self, cleaned_formula: str, parent_file: str, parent_sheet: str) -> FormulaInfo:
         """
@@ -28,6 +30,7 @@ class FormulaParser:
                 "isBaseMaterial": False,
                 "isProduct": False,
                 "updated_formula": None,
+                "expanded_formula": None,
                 "references": []
             })
         
@@ -38,10 +41,9 @@ class FormulaParser:
         # Determine if it's an element
         is_element = self.detector.is_element(references)
 
-
         # Add the quantity to the references
-        # updated_references = self.extractor.add_quantity(cleaned_formula, references)
-        
+        # expanded_formula = self.add_quantity.simpy_formula(updated_formula)
+
         # Count H-references
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
 
@@ -51,5 +53,8 @@ class FormulaParser:
             "isBaseMaterial": False,
             "isProduct": False,
             "updated_formula": updated_formula,
+            "expanded_formula": None,
             "references": references
+
+
         })

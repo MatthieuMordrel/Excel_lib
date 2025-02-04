@@ -67,6 +67,7 @@ class CellInfoExtractor:
                 "formula": "File not found",
                 "cleaned_formula": None,
                 "updated_formula": None,
+                "expanded_formula": None,
                 "value": None,
                 "path": None,
                 "isElement": False,
@@ -92,6 +93,7 @@ class CellInfoExtractor:
             "formula": None,
             "cleaned_formula": None,
             "updated_formula": None,
+            "expanded_formula": None,
             "value": None,
             "path": str(file_path),
             "isProduct": isProduct,
@@ -136,6 +138,7 @@ class CellInfoExtractor:
                 result['hReferenceCount'] = formula_info['hReferenceCount']
                 result['isElement'] = formula_info['isElement']
                 result['updated_formula'] = formula_info['updated_formula']
+                result['expanded_formula'] = formula_info['expanded_formula']
 
                 if not result['isElement']:  # Only resolve references if it's not an element
                     result['references'] = formula_info['references']
