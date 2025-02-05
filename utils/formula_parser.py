@@ -30,7 +30,7 @@ class FormulaParser:
                 "isBaseMaterial": False,
                 "isProduct": False,
                 "updated_formula": None,
-                "expanded_formula": None,
+                # "expanded_formula": None,
                 "references": []
             })
         
@@ -42,9 +42,9 @@ class FormulaParser:
         is_element = self.detector.is_element(references)
 
         # Add the quantity to the references
-        expanded_formula = self.add_quantity.simpy_formula(updated_formula)
+        # expanded_formula = self.add_quantity.simpy_formula(updated_formula)
         #Convert the expanded formula to a string because json cannot serialize a sympy expression
-        expanded_formula = str(expanded_formula)
+        # expanded_formula = str(expanded_formula)
 
         # Count H-references
         h_reference_count = len([ref for ref in references if ref["cell"].startswith('H')])
@@ -55,6 +55,6 @@ class FormulaParser:
             "isBaseMaterial": False,
             "isProduct": False,
             "updated_formula": updated_formula,
-            "expanded_formula": expanded_formula,
+            # "expanded_formula": expanded_formula,
             "references": references
         })

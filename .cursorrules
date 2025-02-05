@@ -38,12 +38,6 @@ Reverse engineering Excel formulas to extract these relationships, handling:
 - Identify special cases (e.g., base materials)
 - Maintain error handling throughout the process
 
-## Output Structure:
-The final output should provide a clear mapping of:
-- Material dependencies
-- Inter-product relationships
-- Formula derivation paths
-
 ## Note to LLM:
 When assisting with this project, focus on:
 - Understanding the relationship extraction goals

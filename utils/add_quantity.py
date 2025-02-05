@@ -19,7 +19,6 @@ class AddQuantity:
     #   }
 
     def clean_formula(self, formula: str) -> str:
-        # Remove the base URL
         formula = formula.replace("'", "")
         return formula
 

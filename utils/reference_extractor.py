@@ -32,7 +32,7 @@ class ReferenceExtractor:
             "formula": None,
             "cleaned_formula": None,
             "updated_formula": None,
-            "expanded_formula": None,
+            # "expanded_formula": None,
             "value": None,
             "path": None,
             "isElement": False,
@@ -60,8 +60,16 @@ class ReferenceExtractor:
         """
         # Pattern 1: [filename]sheetname!cell (external reference)
         pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]\d{1,3})"
-        # Pattern 2:  
-        pattern2 = r"'?([\w\s]+)'?!([A-Z]\d{1,3})"
+        # Pattern 2: Comprehensive sheet name and cell reference pattern
+        pattern2 = r"""(?x)                    # Enable free-spacing and comments
+            (?:
+                '(?P<quoted_sheet>(?:[^']|'')+)'  # Case 1: quoted sheet name
+                |                                  # OR
+                (?P<unquoted_sheet>[^!+]+)        # Case 2: unquoted sheet name
+            )
+            !                                      # Literal exclamation mark separator
+            (?P<cell>\$?[A-Za-z]+\$?\d+)          # Cell reference with optional $ anchors
+        """
         # Pattern 3: simple cell reference
         pattern3 = r"([A-Z]\d{1,3})"
         
@@ -81,14 +89,18 @@ class ReferenceExtractor:
                     original_ref = f"'[{file}]{sheet}'!{cell}"
                     updated_formula = updated_formula.replace(original_ref, f"{file}_{sheet}_{cell}".replace(" ", ""))
                     processed.add(cell_key)
+                elif cell_key in processed:
+                    print(f"Duplicate external reference found: {cell_key}")
 
         # Remove external references from the formula
         formula_without_externals = re.sub(pattern1, "", cleaned_formula)
         
         # Then extract internal references
         internal_refs: List[FormulaResult] = []
-        for match in re.findall(pattern2, formula_without_externals):
-            sheet, cell = match
+        for match in re.finditer(pattern2, formula_without_externals):
+            # Extract values using named groups - use the first non-None group
+            sheet = match.group('quoted_sheet') or match.group('unquoted_sheet')
+            cell = match.group('cell')
             if self._is_valid_cell(cell):
                 cell_key = (parent_file, sheet, cell.upper())
                 if cell_key not in processed:
@@ -97,6 +109,8 @@ class ReferenceExtractor:
                     original_ref = f"'{sheet}'!{cell}" if " " in sheet else f"{sheet}!{cell}"
                     updated_formula = updated_formula.replace(original_ref, f"{parent_file}_{sheet}_{cell}".replace(" ", ""))
                     processed.add(cell_key)
+                elif cell_key in processed:
+                    print(f"Duplicate internal reference found: {cell_key}")
 
         # Remove internal references from the formula
         formula_without_refs = re.sub(pattern2, "", formula_without_externals)
@@ -123,5 +137,7 @@ class ReferenceExtractor:
                             )
                             break
                     processed.add(cell_key)
+                elif cell_key in processed:
+                    print(f"Duplicate simple reference found: {cell_key}")
 
         return external_refs + internal_refs + simple_refs, updated_formula

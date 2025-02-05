@@ -15,7 +15,7 @@ from openpyxl.worksheet.worksheet import Worksheet
 class CellInfoExtractor:
     """Handles extraction of cell information from Excel files."""
     
-    def __init__(self, file_index: Dict[str, Path], product_mapper: ProductMapper, max_recursion_depth: int = 10, stop_on_multiplication: bool = True):
+    def __init__(self, file_index: Dict[str, Path], product_mapper: ProductMapper, max_recursion_depth: int = 10, stop_on_multiplication: bool = True, stop_on_division: bool = True):
         self.file_index = file_index
         self.max_recursion_depth = max_recursion_depth
         self.excel_helper = ExcelHelper()
@@ -26,6 +26,7 @@ class CellInfoExtractor:
         self.BASE_MATERIAL_FILE = "calculatie cat 2022 .xlsx".replace(" ", "")
         self.product_mapper = product_mapper
         self.stop_on_multiplication = stop_on_multiplication
+        self.stop_on_division = stop_on_division
         
         # Add counters
         self.total_formulas = 0
@@ -67,7 +68,7 @@ class CellInfoExtractor:
                 "formula": "File not found",
                 "cleaned_formula": None,
                 "updated_formula": None,
-                "expanded_formula": None,
+                # "expanded_formula": None,
                 "value": None,
                 "path": None,
                 "isElement": False,
@@ -93,7 +94,7 @@ class CellInfoExtractor:
             "formula": None,
             "cleaned_formula": None,
             "updated_formula": None,
-            "expanded_formula": None,
+            # "expanded_formula": None,
             "value": None,
             "path": str(file_path),
             "isProduct": isProduct,
@@ -110,7 +111,9 @@ class CellInfoExtractor:
         try:
             wb: Workbook = ExcelUtils.get_workbook(file_path)
             if sheet_name not in wb.sheetnames:
-                raise ValueError(f"Sheet {sheet_name} not found")
+                self.logger.error(f"Sheet {sheet_name} not found")
+                result['error'] = f"Sheet {sheet_name} not found"
+                return result
             ws: Worksheet = wb[sheet_name]
             _ = ws[cell_ref]  # Verify cell exists
             
@@ -130,7 +133,7 @@ class CellInfoExtractor:
                 if self.stop_on_multiplication and result['isMultiplication']:
                     self.logger.warning(f"Multiplication found in: {result['id']}")
                     return result
-                if result['isDivision']:
+                if self.stop_on_division and result['isDivision']:
                     self.logger.warning(f"Division found in: {result['id']}")
                     return result
             
@@ -138,7 +141,7 @@ class CellInfoExtractor:
                 result['hReferenceCount'] = formula_info['hReferenceCount']
                 result['isElement'] = formula_info['isElement']
                 result['updated_formula'] = formula_info['updated_formula']
-                result['expanded_formula'] = formula_info['expanded_formula']
+                # result['expanded_formula'] = formula_info['expanded_formula']
 
                 if not result['isElement']:  # Only resolve references if it's not an element
                     result['references'] = formula_info['references']
