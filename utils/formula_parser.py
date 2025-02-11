@@ -36,7 +36,7 @@ class FormulaParser:
         
         # Extract references from the cleaned formula
         references, updated_formula = self.extractor.extract_references(cleaned_formula, parent_file, parent_sheet)
-        print("Updated formula: ", updated_formula)
+        # print("Updated formula: ", updated_formula)
         
         # Determine if it's an element
         is_element = self.detector.is_element(references)

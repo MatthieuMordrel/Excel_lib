@@ -1,36 +1,5 @@
 {
-  "total_root_products": 28,
-  "products_by_sheet": {
-    "OVERZICHT PO": 28
-  },
-  "unique_product_ids": [
-    "COPBL50FLES_2",
-    "COPBL50FLES_3",
-    "COPBL50FLES_4",
-    "COPBL50FLES_5",
-    "COPBL50FLES_6",
-    "COPBL50FLES_7",
-    "COPBL50FLES_8",
-    "COPBL50FLES_9",
-    "COPBL50FLES_10",
-    "COPBL60FLES_1",
-    "COPBL60FLES_2",
-    "COPBL60FLES_3",
-    "COPBL60FLES_4",
-    "COPBL60FLES_5",
-    "COPBL60FLES_6",
-    "COPBL60FLES_7",
-    "COPBL60FLES_8",
-    "COPBL60FLES_9",
-    "COPBL60FLES_10",
-    "COPBL60_2",
-    "COPBL60_3",
-    "COPBL60_4",
-    "COPBL60_5",
-    "COPBL60_6",
-    "COPBL60_7",
-    "COPBL60_8",
-    "COPBL60_9",
-    "COPBL60_10"
-  ]
+  "total_root_products": 0,
+  "products_by_sheet": {},
+  "unique_product_ids": []
 }

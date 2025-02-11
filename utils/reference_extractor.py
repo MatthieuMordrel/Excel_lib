@@ -63,9 +63,9 @@ class ReferenceExtractor:
         # Pattern 2: Comprehensive sheet name and cell reference pattern
         pattern2 = r"""(?x)                    # Enable free-spacing and comments
             (?:
-                '(?P<quoted_sheet>(?:[^']|'')+)'  # Case 1: quoted sheet name
+                '(?P<quoted_sheet>[^']+)'  # Case 1: quoted sheet name
                 |                                  # OR
-                (?P<unquoted_sheet>[^!+]+)        # Case 2: unquoted sheet name
+                (?P<unquoted_sheet>[^!+']+)        # Case 2: unquoted sheet name
             )
             !                                      # Literal exclamation mark separator
             (?P<cell>\$?[A-Za-z]+\$?\d+)          # Cell reference with optional $ anchors
