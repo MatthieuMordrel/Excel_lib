@@ -1,345 +1,488 @@
 {
   "products": [
     {
-      "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
-      "count": 10,
-      "unique_ids": [
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
-      "count": 10,
-      "unique_ids": [
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_E65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
-      "count": 9,
-      "unique_ids": [
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
-      "count": 9,
-      "unique_ids": [
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_G65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
-      "count": 9,
-      "unique_ids": [
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_H65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
-      "count": 9,
-      "unique_ids": [
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_I65"
-      ]
-    },
-    {
-      "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
-      "count": 9,
-      "unique_ids": [
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_K65",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_J65"
-      ]
-    },
-    {
-      "cleaned_formula": "'C1323OB45LGLAS'!H59+('DE496x1319 glas'!H39*2)+'lade ondiep 45'!H37+'front lade 446x196'!H33",
+      "cleaned_formula": "SUM(CK213A30!H57+DE296x2137!H39)",
       "count": 1,
       "unique_ids": [
-        "2022-P5Berekeningopzetkast1413-KLEURmetlade.xlsx_OVERZICHTCOZ1323_G3"
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D17"
+      ]
+    },
+    {
+      "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65"
+      ]
+    },
+    {
+      "cleaned_formula": "SUM(CK213A45!H57+DE446x2137!H39)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_G17"
+      ]
+    },
+    {
+      "cleaned_formula": "CK213A35!H57+DE346x2137!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P6berekeningkolomkast2137.xlsx_OVERZICHTCK213_E17"
+      ]
+    },
+    {
+      "cleaned_formula": "CK213A30!H57+DE296x2137!H39+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28+'OVERZICHT CK213'!B28",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D35"
+      ]
+    },
+    {
+      "cleaned_formula": "SUM(CK231A30!H57+DE296x2317!H39)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P5berekeningkolomkast2317.xlsx_OVERZICHTCK231_D17"
+      ]
+    },
+    {
+      "cleaned_formula": "D3+B15",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D22"
+      ]
+    },
+    {
+      "cleaned_formula": "CKP222A30!H57+DE296x756!H39+DE296x1073!H39+'PLADE 300x500'!H39+FR296x394!H33+(3*B15)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_D3"
+      ]
+    },
+    {
+      "cleaned_formula": "D3",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP222_G3"
+      ]
+    },
+    {
+      "cleaned_formula": "CKP222A60!H58+DE596x756!H39+DE596x1073!H39+'PLADE 600x500'!H39+FR596x394!H33",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP222_D3"
+      ]
+    },
+    {
+      "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_D65"
+      ]
+    },
+    {
+      "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x863!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3"
       ]
     }
   ],
   "elements": [
     {
-      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
-      "count": 66,
+      "cleaned_formula": "H55+H47+H26+H15+H9+H19",
+      "count": 5,
       "unique_ids": [
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
+        "2022-P6berekeningkolomkast2137.xlsx_CK213A45_H57",
+        "2022-P5berekeningkolomkast2317.xlsx_CK231A30_H57",
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_CKP222A30_H57",
+        "2022-P6berekeningkolomkast2137.xlsx_CK213A35_H57",
+        "2022-P1berekeningkolomkast2137.xlsx_CK213A30_H57"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H15+H11+H5",
+      "count": 2,
+      "unique_ids": [
+        "2022-P5berekeningkolomkast2317.xlsx_DE296x2317_H39",
+        "2022-P1berekeningkolomkast2137.xlsx_DE296x2137_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+      "count": 5,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_C70OB45_H59",
         "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P5Berekeningopzetkast1413-KLEURmetlade.xlsx_C1323OB45LGLAS_H59",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_CO60_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO55_H59",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO50_H59",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_CO45_H59",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_CO35_H59"
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO30_H59",
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59",
+        "2022-P1BerekeningklapdeurHangkast494-565KLEUR.xlsx_494B30_H59"
       ]
     },
     {
       "cleaned_formula": "H35+H31+H11+H5+H20",
-      "count": 66,
+      "count": 2,
       "unique_ids": [
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P5Berekeningopzetkast1413-KLEURmetlade.xlsx_ladeondiep45_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
         "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE55_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_LADE35_H37",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37"
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_H37"
       ]
     },
     {
       "cleaned_formula": "H31+H25+H20+H11+H5+H15",
-      "count": 66,
+      "count": 4,
       "unique_ids": [
         "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P5Berekeningopzetkast1413-KLEURmetlade.xlsx_frontlade446x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR546x196_H33",
-        "2022-P7BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P8BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P5BerekeningLadenkasten794-KLEUR.xlsx_FR496x194_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P9BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR346x196_H33",
-        "2022-P6BerekeningLadenkasten794-KLEUR.xlsx_FR446x196_H33",
-        "2022-P3BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33",
-        "2022-P4BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33",
-        "2022-P10BerekeningLadenkasten794-KLEUR.xlsx_FR596x196_H33"
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_FR596x394_H33",
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_FR296x394_H33",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR296x196_H33"
       ]
     },
     {
       "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 9,
+      "unique_ids": [
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P1BerekeningklapdeurHangkast494-565KLEUR.xlsx_DE296x494_H39",
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_DE296x756_H39",
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x1073_H39",
+        "2022-P6berekeningkolomkast2137.xlsx_DE446x2137_H39",
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_DE296x1073_H39",
+        "2022-P6berekeningkolomkast2137.xlsx_DE346x2137_H39",
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H5+H11+H20+H33+H37",
       "count": 1,
       "unique_ids": [
-        "2022-P5Berekeningopzetkast1413-KLEURmetlade.xlsx_DE496x1319glas_H39"
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H33+H11+H5+H20",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_PLADE600x500_H39",
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_PLADE300x500_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H10+H16+H20+H27+H48+H56",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_CKP222A60_H58",
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H15+H5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_DE596x756_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H59+H49+H47+H45+H39+H37+H35+H33+H31+H28+H20+H21+H17+H11",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60"
       ]
     }
   ],
   "base_materials": [],
-  "other": []
+  "other": [
+    {
+      "cleaned_formula": "C19*D17",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_D19"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 21,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_S420",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_D340",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_G18",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_C33",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_Q36",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_D11",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W35",
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33",
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_C19",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_S420",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_D9",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_F11",
+        "2022-P1BerekeningklapdeurHangkast494-565KLEUR.xlsx_OVERZICHTC494_C5",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_F13",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_D340",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_D13",
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_C41",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_V36"
+      ]
+    },
+    {
+      "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33"
+      ]
+    },
+    {
+      "cleaned_formula": "'C1323OB60kl '!H59",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31"
+      ]
+    },
+    {
+      "cleaned_formula": "W13/100*Q36",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_R36"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I94",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE30_W13",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W13"
+      ]
+    },
+    {
+      "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]OVERZICHT COP'!S20",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningKolomPLadeBLade(16-10)2137-KLEUR.xlsx_OVERZICHTCKP222_B15",
+        "2022-P1berekeningkolomkast2137.xlsx_OVERZICHTCK213_B28"
+      ]
+    },
+    {
+      "cleaned_formula": "'PLADE 30'!H39+'PLADE 30'!W37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_S20"
+      ]
+    },
+    {
+      "cleaned_formula": "W36+W35+W34",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W37"
+      ]
+    },
+    {
+      "cleaned_formula": "W13/100*V36",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W36"
+      ]
+    },
+    {
+      "cleaned_formula": "W18+W18",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W34"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I113",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_PLADE30_W18"
+      ]
+    },
+    {
+      "cleaned_formula": "D3*C5+('[calculatie cat 2022 .xlsx]c.basis'!I56*3)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningklapdeurHangkast494-565KLEUR.xlsx_OVERZICHTC494_D5"
+      ]
+    },
+    {
+      "cleaned_formula": "'494B30'!H59+DE296x494!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningklapdeurHangkast494-565KLEUR.xlsx_OVERZICHTC494_D3"
+      ]
+    },
+    {
+      "cleaned_formula": "(D39*C41)+A42",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_D41"
+      ]
+    },
+    {
+      "cleaned_formula": "D31",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_D39"
+      ]
+    },
+    {
+      "cleaned_formula": "'C70OB45'!H59",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_D31"
+      ]
+    },
+    {
+      "cleaned_formula": "'\\\\LS420D340\\Zaak\\Kovera\\BASISMATERIALEN\\[calculatie cat 2022 .xlsx]c.basis'!I65*3",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_A42"
+      ]
+    },
+    {
+      "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_OVERZICHTC79B_D33"
+      ]
+    },
+    {
+      "cleaned_formula": "(H16*G18)*2",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H18"
+      ]
+    },
+    {
+      "cleaned_formula": "H14+H5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H16"
+      ]
+    },
+    {
+      "cleaned_formula": "H13+H11+H9",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H14"
+      ]
+    },
+    {
+      "cleaned_formula": "E13*F13",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H13"
+      ]
+    },
+    {
+      "cleaned_formula": "D13/60",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_E13"
+      ]
+    },
+    {
+      "cleaned_formula": "E11*F11",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H11"
+      ]
+    },
+    {
+      "cleaned_formula": "D11/60",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_E11"
+      ]
+    },
+    {
+      "cleaned_formula": "F9*E9",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H9"
+      ]
+    },
+    {
+      "cleaned_formula": "'\\\\LS420D340\\Zaak\\Kovera\\BASISMATERIALEN\\[calculatie cat 2022.xlsx]c.basis'!E192",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_F9"
+      ]
+    },
+    {
+      "cleaned_formula": "D9/60",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_E9"
+      ]
+    },
+    {
+      "cleaned_formula": "H3",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H5"
+      ]
+    },
+    {
+      "cleaned_formula": "'\\\\LS420D340\\Zaak\\Kovera\\BASISMATERIALEN\\[calculatie cat 2022 .xlsx]c.basis'!I64",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningGLASDEURHangkast970-KLEUR.xlsx_DarbyDoor4570_H3"
+      ]
+    },
+    {
+      "cleaned_formula": "COH90CA!H63+'DE310x790(2)'!H41",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5"
+      ]
+    },
+    {
+      "cleaned_formula": "J63+I63",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63"
+      ]
+    },
+    {
+      "cleaned_formula": "H61*3.5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63"
+      ]
+    },
+    {
+      "cleaned_formula": "H41",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61"
+      ]
+    },
+    {
+      "cleaned_formula": "D41*C41",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I143",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41"
+      ]
+    },
+    {
+      "cleaned_formula": "H60*G63",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63"
+      ]
+    },
+    {
+      "cleaned_formula": "H39*G41",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41"
+      ]
+    }
+  ]
 }

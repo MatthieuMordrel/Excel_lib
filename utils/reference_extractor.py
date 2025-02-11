@@ -60,22 +60,31 @@ class ReferenceExtractor:
         """
         # Pattern 1: [filename]sheetname!cell (external reference)
         pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]\d{1,3})"
-        # Pattern 2: Comprehensive sheet name and cell reference pattern
-        pattern2 = r"""(?x)                    # Enable free-spacing and comments
-            (?:
-                '(?P<quoted_sheet>[^']+)'  # Case 1: quoted sheet name
-                |                                  # OR
-                (?P<unquoted_sheet>[^!+']+)        # Case 2: unquoted sheet name
+        
+        # Updated Pattern 2 with special cases and SUM handling
+        pattern2 = r"""(?x)                           # Enable verbose mode for clarity
+            (
+              (?P<special>                # Capture group for special cases
+                FRIGO\+OVEN               # Match "FRIGO+OVEN"
+                | KOLOM\+BL              # Match "KOLOM+BL"
+                | LEGGERS\+OVEN          # Match "LEGGERS+OVEN"
+              )
+              |
+              '(?P<quoted_sheet>[^']+)'   # Capture a quoted sheet name (e.g. 'Sheet1')
+              |
+              SUM\((?P<sum_sheet>[^!+*']+)  # Capture sheet name inside SUM(...) call
+              |
+              (?P<unquoted_sheet>[^!+*']+)    # Capture an unquoted sheet name
             )
-            !                                      # Literal exclamation mark separator
-            (?P<cell>\$?[A-Za-z]+\$?\d+)          # Cell reference with optional $ anchors
+            !                              # Literal exclamation mark separator
+            (?P<cell>\$?[A-Za-z]+\$?\d+)    # Capture a cell reference (e.g. A1, $B$2)
         """
+        
         # Pattern 3: simple cell reference
         pattern3 = r"([A-Z]\d{1,3})"
         
         updated_formula = cleaned_formula
-        
-        processed: Set[Tuple[str, str, str]] = set()  # To track (parent_file, parent_sheet, cell)
+        processed: Set[Tuple[str, str, str]] = set()
 
         # First, extract and remove all external references
         external_refs: List[FormulaResult] = []
@@ -95,19 +104,22 @@ class ReferenceExtractor:
         # Remove external references from the formula
         formula_without_externals = re.sub(pattern1, "", cleaned_formula)
         
-        # Then extract internal references
+        # Then extract internal references with updated match handling
         internal_refs: List[FormulaResult] = []
         for match in re.finditer(pattern2, formula_without_externals):
             # Extract values using named groups - use the first non-None group
-            sheet = match.group('quoted_sheet') or match.group('unquoted_sheet')
+            sheet = match.group('quoted_sheet') or match.group('unquoted_sheet') or match.group('sum_sheet') or match.group('special')
             cell = match.group('cell')
             if self._is_valid_cell(cell):
                 cell_key = (parent_file, sheet, cell.upper())
                 if cell_key not in processed:
                     internal_refs.append(self._create_reference(parent_file, sheet, cell.upper()))
                     # Construct the original reference string to replace
-                    original_ref = f"'{sheet}'!{cell}" if " " in sheet else f"{sheet}!{cell}"
-                    updated_formula = updated_formula.replace(original_ref, f"{parent_file}_{sheet}_{cell}".replace(" ", ""))
+                    original_ref = match.group()
+                    updated_formula = updated_formula.replace(
+                        original_ref, 
+                        f"{parent_file}_{sheet}_{cell}".replace(" ", "")
+                    )
                     processed.add(cell_key)
                 elif cell_key in processed:
                     print(f"Duplicate internal reference found: {cell_key}")
