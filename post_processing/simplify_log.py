@@ -4,15 +4,40 @@ from typing import Dict, Any
 
 def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     """Process individual log entry to extract required properties"""
-    return {
-        "type": "product" if entry.get("isProduct", False) else "element" if entry.get("isElement", False) else "baseMaterial" if entry.get("isBaseMaterial", False) else "none",
+    # Determine entry type first
+    entry_type = "product" if entry.get("isProduct", False) else "element" if entry.get("isElement", False) else "baseMaterial" if entry.get("isBaseMaterial", False) else "none"
+    
+    # For elements, return only type and id
+    if entry_type == "element":
+        return {
+            "type": entry_type,
+            "id": f"{entry.get('sheet')}_{round(entry.get('value', 0), 3)}"
+        }
+    if entry_type == "baseMaterial":
+        return {
+            "type": entry_type,
+            "id": entry.get("cell")
+        }
+    if entry_type == "product" and not is_top:
+        return {
+            "type": entry_type,
+            "id": entry.get("productID")
+        }
+    
+    # Create initial dictionary for non-element entries
+    processed_entry = {
+        "type": entry_type,
         "file": entry.get("file"),
         "sheet": entry.get("sheet"),
         "cell": entry.get("cell"),
         "cleaned_formula": entry.get("cleaned_formula"),
-        "id": entry.get("productID") if entry.get("isProduct", False) else f"{entry.get('sheet')}_{round(entry.get('value', 0), 3)}" if entry.get("isElement",True) else entry.get("cell") if entry.get("isBaseMaterial",False) else None,
-        "references": [process_entry(ref, False) for ref in entry.get("references", [])] if (not entry.get("isProduct", False) or is_top) else None
+        "value": entry.get("value") if entry.get("cleaned_formula") == "Cellhasnoformulainfile" else None,
+        "id": entry.get("productID") if entry.get("isProduct", False) else entry.get("cell") if entry.get("isBaseMaterial",False) else None,
+        "references": [process_entry(ref, False) for ref in entry.get("references", [])] if entry.get("references") and (not entry.get("isProduct", False) or is_top) else None
     }
+    
+    # Remove null values
+    return {k: v for k, v in processed_entry.items() if v is not None}
 
 
 def simplify_log(input_path: Path, output_path: Path) -> None:

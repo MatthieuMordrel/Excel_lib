@@ -6,18 +6,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_3.445"
+        "id": "FR296x196_3.445",
+        "quantity": 4
       }
     ]
   },
@@ -28,18 +32,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_2",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_4.227"
+        "id": "FR296x196_4.227",
+        "quantity": 4
       }
     ]
   },
@@ -50,18 +58,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_5.95"
+        "id": "FR296x196_5.95",
+        "quantity": 4
       }
     ]
   },
@@ -72,18 +84,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_6.652"
+        "id": "FR296x196_6.652",
+        "quantity": 4
       }
     ]
   },
@@ -94,18 +110,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_7.259"
+        "id": "FR296x196_7.259",
+        "quantity": 4
       }
     ]
   },
@@ -116,18 +136,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_8.535"
+        "id": "FR296x196_8.535",
+        "quantity": 4
       }
     ]
   },
@@ -138,18 +162,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_9.173"
+        "id": "FR296x196_9.173",
+        "quantity": 4
       }
     ]
   },
@@ -160,18 +188,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_9.811"
+        "id": "FR296x196_9.811",
+        "quantity": 4
       }
     ]
   },
@@ -182,18 +214,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_12.364"
+        "id": "FR296x196_12.364",
+        "quantity": 4
       }
     ]
   },
@@ -204,18 +240,22 @@
     "cell": "D65",
     "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
     "id": "CO4L30_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO30_47.577"
+        "id": "CO30_47.577",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 30_18.65"
+        "id": "LADE 30_18.65",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR296x196_14.279"
+        "id": "FR296x196_14.279",
+        "quantity": 4
       }
     ]
   },
@@ -226,18 +266,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_3.616"
+        "id": "FR346x196_3.616",
+        "quantity": 4
       }
     ]
   },
@@ -248,18 +292,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_2",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_4.53"
+        "id": "FR346x196_4.53",
+        "quantity": 4
       }
     ]
   },
@@ -270,18 +318,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_6.544"
+        "id": "FR346x196_6.544",
+        "quantity": 4
       }
     ]
   },
@@ -292,18 +344,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_7.365"
+        "id": "FR346x196_7.365",
+        "quantity": 4
       }
     ]
   },
@@ -314,18 +370,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_8.073"
+        "id": "FR346x196_8.073",
+        "quantity": 4
       }
     ]
   },
@@ -336,18 +396,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_9.565"
+        "id": "FR346x196_9.565",
+        "quantity": 4
       }
     ]
   },
@@ -358,18 +422,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_10.311"
+        "id": "FR346x196_10.311",
+        "quantity": 4
       }
     ]
   },
@@ -380,18 +448,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_11.057"
+        "id": "FR346x196_11.057",
+        "quantity": 4
       }
     ]
   },
@@ -402,18 +474,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_14.041"
+        "id": "FR346x196_14.041",
+        "quantity": 4
       }
     ]
   },
@@ -424,18 +500,22 @@
     "cell": "E65",
     "cleaned_formula": "'CO35'!H59+4*('LADE 35'!H37+FR346x196!H33)",
     "id": "CO4L35_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO35_48.595"
+        "id": "CO35_48.595",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 35_19.006"
+        "id": "LADE 35_19.006",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR346x196_16.279"
+        "id": "FR346x196_16.279",
+        "quantity": 4
       }
     ]
   },
@@ -446,18 +526,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_3.786"
+        "id": "FR396x196_3.786",
+        "quantity": 4
       }
     ]
   },
@@ -468,18 +552,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_7.138"
+        "id": "FR396x196_7.138",
+        "quantity": 4
       }
     ]
   },
@@ -490,18 +578,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_8.077"
+        "id": "FR396x196_8.077",
+        "quantity": 4
       }
     ]
   },
@@ -512,18 +604,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_8.888"
+        "id": "FR396x196_8.888",
+        "quantity": 4
       }
     ]
   },
@@ -534,18 +630,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_10.595"
+        "id": "FR396x196_10.595",
+        "quantity": 4
       }
     ]
   },
@@ -556,18 +656,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_11.449"
+        "id": "FR396x196_11.449",
+        "quantity": 4
       }
     ]
   },
@@ -578,18 +682,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_12.303"
+        "id": "FR396x196_12.303",
+        "quantity": 4
       }
     ]
   },
@@ -600,18 +708,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_15.718"
+        "id": "FR396x196_15.718",
+        "quantity": 4
       }
     ]
   },
@@ -622,18 +734,22 @@
     "cell": "F65",
     "cleaned_formula": "'CO40'!H59+4*('LADE 40'!H37+FR396x196!H33)",
     "id": "CO4L40_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO40_50.914"
+        "id": "CO40_50.914",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 40_19.262"
+        "id": "LADE 40_19.262",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR396x196_18.279"
+        "id": "FR396x196_18.279",
+        "quantity": 4
       }
     ]
   },
@@ -644,18 +760,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_3.957"
+        "id": "FR446x196_3.957",
+        "quantity": 4
       }
     ]
   },
@@ -666,18 +786,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_7.731"
+        "id": "FR446x196_7.731",
+        "quantity": 4
       }
     ]
   },
@@ -688,18 +812,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_8.789"
+        "id": "FR446x196_8.789",
+        "quantity": 4
       }
     ]
   },
@@ -710,18 +838,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_9.702"
+        "id": "FR446x196_9.702",
+        "quantity": 4
       }
     ]
   },
@@ -732,18 +864,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_11.626"
+        "id": "FR446x196_11.626",
+        "quantity": 4
       }
     ]
   },
@@ -754,18 +890,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_12.587"
+        "id": "FR446x196_12.587",
+        "quantity": 4
       }
     ]
   },
@@ -776,18 +916,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_13.549"
+        "id": "FR446x196_13.549",
+        "quantity": 4
       }
     ]
   },
@@ -798,18 +942,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_17.395"
+        "id": "FR446x196_17.395",
+        "quantity": 4
       }
     ]
   },
@@ -820,18 +968,22 @@
     "cell": "G65",
     "cleaned_formula": "'CO45'!H59+4*('LADE 45'!H37+FR446x196!H33)",
     "id": "CO4L45_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO45_50.632"
+        "id": "CO45_50.632",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 45_19.668"
+        "id": "LADE 45_19.668",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR446x196_20.28"
+        "id": "FR446x196_20.28",
+        "quantity": 4
       }
     ]
   },
@@ -842,18 +994,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_4.114"
+        "id": "FR496x194_4.114",
+        "quantity": 4
       }
     ]
   },
@@ -864,18 +1020,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_8.268"
+        "id": "FR496x194_8.268",
+        "quantity": 4
       }
     ]
   },
@@ -886,18 +1046,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_9.433"
+        "id": "FR496x194_9.433",
+        "quantity": 4
       }
     ]
   },
@@ -908,18 +1072,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_10.438"
+        "id": "FR496x194_10.438",
+        "quantity": 4
       }
     ]
   },
@@ -930,18 +1098,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_12.555"
+        "id": "FR496x194_12.555",
+        "quantity": 4
       }
     ]
   },
@@ -952,18 +1124,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_13.614"
+        "id": "FR496x194_13.614",
+        "quantity": 4
       }
     ]
   },
@@ -974,18 +1150,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_14.672"
+        "id": "FR496x194_14.672",
+        "quantity": 4
       }
     ]
   },
@@ -996,18 +1176,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_18.906"
+        "id": "FR496x194_18.906",
+        "quantity": 4
       }
     ]
   },
@@ -1018,18 +1202,22 @@
     "cell": "H65",
     "cleaned_formula": "'CO50'!H59+4*('LADE 50'!H37+FR496x194!H33)",
     "id": "CO4L50_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO50_51.683"
+        "id": "CO50_51.683",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 50_20.064"
+        "id": "LADE 50_20.064",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR496x194_22.081"
+        "id": "FR496x194_22.081",
+        "quantity": 4
       }
     ]
   },
@@ -1040,18 +1228,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_4.298"
+        "id": "FR546x196_4.298",
+        "quantity": 4
       }
     ]
   },
@@ -1062,18 +1254,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_8.918"
+        "id": "FR546x196_8.918",
+        "quantity": 4
       }
     ]
   },
@@ -1084,18 +1280,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_10.213"
+        "id": "FR546x196_10.213",
+        "quantity": 4
       }
     ]
   },
@@ -1106,18 +1306,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_11.332"
+        "id": "FR546x196_11.332",
+        "quantity": 4
       }
     ]
   },
@@ -1128,18 +1332,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_13.686"
+        "id": "FR546x196_13.686",
+        "quantity": 4
       }
     ]
   },
@@ -1150,18 +1358,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_14.863"
+        "id": "FR546x196_14.863",
+        "quantity": 4
       }
     ]
   },
@@ -1172,18 +1384,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_16.04"
+        "id": "FR546x196_16.04",
+        "quantity": 4
       }
     ]
   },
@@ -1194,18 +1410,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_20.749"
+        "id": "FR546x196_20.749",
+        "quantity": 4
       }
     ]
   },
@@ -1216,18 +1436,22 @@
     "cell": "I65",
     "cleaned_formula": "'CO55'!H59+4*('LADE 55'!H37+FR546x196!H33)",
     "id": "CO4L55_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO55_52.669"
+        "id": "CO55_52.669",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 55_20.42"
+        "id": "LADE 55_20.42",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR546x196_24.281"
+        "id": "FR546x196_24.281",
+        "quantity": 4
       }
     ]
   },
@@ -1238,18 +1462,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_1",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_4.468"
+        "id": "FR596x196_4.468",
+        "quantity": 4
       }
     ]
   },
@@ -1260,18 +1488,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_3",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_9.512"
+        "id": "FR596x196_9.512",
+        "quantity": 4
       }
     ]
   },
@@ -1282,18 +1514,22 @@
     "cell": "K65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_4",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_10.925"
+        "id": "FR596x196_10.925",
+        "quantity": 4
       }
     ]
   },
@@ -1304,18 +1540,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_12.146"
+        "id": "FR596x196_12.146",
+        "quantity": 4
       }
     ]
   },
@@ -1326,18 +1566,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_6",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_14.716"
+        "id": "FR596x196_14.716",
+        "quantity": 4
       }
     ]
   },
@@ -1348,18 +1592,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_7",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_16.001"
+        "id": "FR596x196_16.001",
+        "quantity": 4
       }
     ]
   },
@@ -1370,18 +1618,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_8",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_17.286"
+        "id": "FR596x196_17.286",
+        "quantity": 4
       }
     ]
   },
@@ -1392,18 +1644,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_9",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_22.426"
+        "id": "FR596x196_22.426",
+        "quantity": 4
       }
     ]
   },
@@ -1414,18 +1670,22 @@
     "cell": "J65",
     "cleaned_formula": "'CO60'!H59+4*('LADE 60'!H37+FR596x196!H33)",
     "id": "CO4L60_10",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "CO60_53.766"
+        "id": "CO60_53.766",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "LADE 60_20.676"
+        "id": "LADE 60_20.676",
+        "quantity": 4
       },
       {
         "type": "element",
-        "id": "FR596x196_26.281"
+        "id": "FR596x196_26.281",
+        "quantity": 4
       }
     ]
   },
@@ -1436,22 +1696,27 @@
     "cell": "G3",
     "cleaned_formula": "'C1323OB45LGLAS'!H59+('DE496x1319 glas'!H39*2)+'lade ondiep 45'!H37+'front lade 446x196'!H33",
     "id": "C141BL45-G_5",
+    "quantity": 1,
     "references": [
       {
         "type": "element",
-        "id": "C1323OB45LGLAS_232.819"
+        "id": "C1323OB45LGLAS_232.819",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "DE496x1319 glas_49.813"
+        "id": "DE496x1319 glas_49.813",
+        "quantity": 2
       },
       {
         "type": "element",
-        "id": "lade ondiep 45_18.578"
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
       },
       {
         "type": "element",
-        "id": "front lade 446x196_9.702"
+        "id": "front lade 446x196_9.702",
+        "quantity": 1
       }
     ]
   }

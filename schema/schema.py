@@ -1,6 +1,8 @@
-from typing import TypedDict, List
+from typing import TypedDict, List, Literal, Optional
+
 class ElementID(TypedDict):
     elementID: str
+    quantity: int
 
 class ProductRelationships(TypedDict):
     productElement: List[ElementID]
@@ -30,6 +32,7 @@ class Reference(TypedDict):
     sheet: str
     cell: str
     value: float
+    quantity: int
     references: List['Reference']
 
 class LogEntry(TypedDict):
@@ -41,20 +44,20 @@ class FormulaResult(TypedDict):
     file: str
     sheet: str
     cell: str
-    formula: str | None
-    cleaned_formula: str | None
-    updated_formula: str | None
-    # expanded_formula: str | None
-    value: float | None
-    path: str | None
-    productID: str | None
+    formula: Optional[str]
+    cleaned_formula: Optional[str]
+    updated_formula: Optional[str]
+    value: Optional[float]
+    path: Optional[str]
+    productID: Optional[str]
     isProduct: bool
     isElement: bool
     isBaseMaterial: bool
     isMultiplication: bool
     isDivision: bool
     hReferenceCount: int
-    error: str | None
+    error: Optional[str]
+    quantity: int
     references: List['FormulaResult']
 
 class FormulaInfo(TypedDict):
@@ -62,6 +65,22 @@ class FormulaInfo(TypedDict):
     isElement: bool
     isBaseMaterial: bool
     isProduct: bool
-    updated_formula: str | None
-    # expanded_formula: str | None
+    updated_formula: Optional[str]
     references: List[FormulaResult]
+
+# Add types for LLM processing
+class LLMProcessedProduct(TypedDict):
+    type: Literal["product"]
+    file: str
+    sheet: str
+    cell: str
+    cleaned_formula: str
+    id: str
+    quantity: int
+    references: List['LLMProcessedReference'] 
+
+class LLMProcessedReference(TypedDict):
+    type: Literal["element", "product", "base_material"]
+    id: str
+    quantity: int
+
