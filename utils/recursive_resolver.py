@@ -40,7 +40,7 @@ class RecursiveResolver:
         """Recursively resolves formula references."""
         if current_depth >= max_depth:
             self.logger.warning(f"Max recursion depth {max_depth} reached for {result['id']}")
-            result['error'] = "Max recursion depth reached"
+            result['error'] = "Max Recursion Depth Error: Max recursion depth reached"
             return result
         # Add classification logging at resolution start
         
@@ -48,7 +48,7 @@ class RecursiveResolver:
         
         if cache_key in self.current_chain:
             self.logger.error(f"Circular reference detected: {cache_key}")
-            result['error'] = "Circular reference detected"
+            result['error'] = "Circular Error: Circular reference detected"
             return result
         
         self.current_chain.add(cache_key)

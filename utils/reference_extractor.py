@@ -74,7 +74,7 @@ class ReferenceExtractor:
               |
               SUM\((?P<sum_sheet>[^!+*']+)  # Capture sheet name inside SUM(...) call
               |
-              (?P<unquoted_sheet>[^!+*']+)    # Capture an unquoted sheet name
+              (?P<unquoted_sheet>[^()!+*']+)    # Capture an unquoted sheet name, taking the assumption that if there is a parenthesis, it adds quotes to the sheet name
             )
             !                              # Literal exclamation mark separator
             (?P<cell>\$?[A-Za-z]+\$?\d+)    # Capture a cell reference (e.g. A1, $B$2)

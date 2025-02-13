@@ -58,7 +58,7 @@ class CellInfoExtractor:
         
         file_path = self.file_index.get(filename)
         if not file_path:
-            error_msg = f"File {filename} not found in index"
+            error_msg = f"File Error: File {filename} not found in index" if filename != "calculatie cat 2022.xlsx" else None
             self.logger.error(error_msg)
             return FormulaResult({
                 "id": id,
@@ -111,8 +111,8 @@ class CellInfoExtractor:
         try:
             wb: Workbook = ExcelUtils.get_workbook(file_path)
             if sheet_name not in wb.sheetnames:
-                self.logger.error(f"Sheet {sheet_name} not found")
-                result['error'] = f"Sheet {sheet_name} not found"
+                self.logger.error(f"Sheet Error: Sheet {sheet_name} not found")
+                result['error'] = f"Sheet Error: Sheet {sheet_name} not found"
                 return result
             ws: Worksheet = wb[sheet_name]
             _ = ws[cell_ref]  # Verify cell exists

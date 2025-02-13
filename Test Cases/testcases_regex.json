@@ -33,5 +33,29 @@
         "cell": "H39"
       }
     ]
-  }
+  },
+  {
+    "formula": "G31+(DE596x1211!H39*2)",
+    "expected_references": [
+      {
+        "file": "2022-P2 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+        "sheet": "DE596x1211",
+        "cell": "H39"
+      }
+    ]
+  },
+  {
+    "formula": "'494B120'!H60+'DE596x494 (2stuks)'!H39",
+    "expected_references": [
+      {
+        "file": "2022-P2 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+        "sheet": "494B120",
+        "cell": "H60"
+      },
+      {
+        "file": "2022-P2 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+        "sheet": "DE596x494 (2stuks)",
+        "cell": "H39"
+      }
+    ]
 ]
