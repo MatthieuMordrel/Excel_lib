@@ -17,25 +17,55 @@ def analyze_operations(log_path: Path, output_path: Path) -> None:
         "has_both": 0,
         "has_multiplication": 0,
         "has_division": 0,
-        "has_neither": 0
+        "has_neither": 0,
+        # Error tracking statistics
+        "total_errors": 0,
+        "file_errors": 0,
+        "sheet_errors": 0,
+        "other_errors": 0
     }
 
-    def check_references(refs: List[Reference]) -> bool:  # Use Reference type
+    def check_references(refs: List[Reference], count_errors: bool = False) -> bool:  
         for ref in refs:
+            # Track errors in nested references only if count_errors is True
+            if count_errors and ref.get('error'):
+                stats["total_errors"] += 1
+                error_msg = ref.get('error', '').lower()
+                if 'file error' in error_msg:
+                    stats["file_errors"] += 1
+                elif 'sheet error' in error_msg:
+                    stats["sheet_errors"] += 1
+                else:
+                    stats["other_errors"] += 1
+                    
             if ref.get('isMultiplication'):
                 return True
             if ref.get('isDivision'):
                 return True
-            if check_references(ref.get('references', [])):
+            if check_references(ref.get('references', []), count_errors):
                 return True
         return False
 
     for result in results:
         stats["total_formulas"] += 1
         
-        # Use proper FormulaResult type for references
-        has_mul = result.get('isMultiplication') or check_references(result.get('references', []))
-        has_div = result.get('isDivision') or check_references(result.get('references', []))
+        # Check for errors in the entire formula tree
+        if result.get('error'):
+            stats["total_errors"] += 1
+            error_msg = result.get('error', '').lower()
+            if 'file error' in error_msg:
+                stats["file_errors"] += 1
+            elif 'sheet error' in error_msg:
+                stats["sheet_errors"] += 1
+            else:
+                stats["other_errors"] += 1
+        else:
+            # Only check references for errors if the main formula doesn't have an error
+            check_references(result.get('references', []), count_errors=True)
+        
+        # Check for multiplication/division (without counting errors again)
+        has_mul = result.get('isMultiplication') or check_references(result.get('references', []), count_errors=False)
+        has_div = result.get('isDivision') or check_references(result.get('references', []), count_errors=False)
         
         if has_mul and has_div:
             stats["has_both"] += 1
