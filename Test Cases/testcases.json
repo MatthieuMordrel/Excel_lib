@@ -1,0 +1,115 @@
+{
+  "type": "none",
+  "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+  "sheet": "OVERZICHT CK213",
+  "cell": "B28",
+  "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]OVERZICHT COP'!S20",
+  "id": null,
+  "references": [
+    {
+      "type": "none",
+      "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+      "sheet": "OVERZICHT COP",
+      "cell": "S20",
+      "cleaned_formula": "'PLADE 30'!H39+'PLADE 30'!W37",
+      "id": null,
+      "references": [
+        {
+          "type": "element",
+          "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+          "sheet": "PLADE 30",
+          "cell": "H39",
+          "cleaned_formula": "H5+H11+H20+H33+H37",
+          "id": "PLADE 30_36.756",
+          "references": []
+        },
+        {
+          "type": "none",
+          "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+          "sheet": "PLADE 30",
+          "cell": "W37",
+          "cleaned_formula": "W36+W35+W34",
+          "id": null,
+          "references": [
+            {
+              "type": "none",
+              "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+              "sheet": "PLADE 30",
+              "cell": "W36",
+              "cleaned_formula": "W13/100*V36",
+              "id": null,
+              "references": [
+                {
+                  "type": "none",
+                  "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+                  "sheet": "PLADE 30",
+                  "cell": "W13",
+                  "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I94",
+                  "id": null,
+                  "references": [
+                    {
+                      "type": "baseMaterial",
+                      "file": "calculatie cat 2022.xlsx",
+                      "sheet": "c.basis",
+                      "cell": "I94",
+                      "cleaned_formula": null,
+                      "id": "I94",
+                      "references": []
+                    }
+                  ]
+                },
+                {
+                  "type": "none",
+                  "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+                  "sheet": "PLADE 30",
+                  "cell": "V36",
+                  "cleaned_formula": "Cellhasnoformulainfile",
+                  "id": null,
+                  "references": []
+                }
+              ]
+            },
+            {
+              "type": "none",
+              "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+              "sheet": "PLADE 30",
+              "cell": "W35",
+              "cleaned_formula": "Cellhasnoformulainfile",
+              "id": null,
+              "references": []
+            },
+            {
+              "type": "none",
+              "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+              "sheet": "PLADE 30",
+              "cell": "W34",
+              "cleaned_formula": "W18+W18",
+              "id": null,
+              "references": [
+                {
+                  "type": "none",
+                  "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+                  "sheet": "PLADE 30",
+                  "cell": "W18",
+                  "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I113",
+                  "id": null,
+                  "references": [
+                    {
+                      "type": "baseMaterial",
+                      "file": "calculatie cat 2022.xlsx",
+                      "sheet": "c.basis",
+                      "cell": "I113",
+                      "cleaned_formula": null,
+                      "id": "I113",
+                      "references": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

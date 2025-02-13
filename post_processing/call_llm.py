@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).parent.parent))
 from dotenv import load_dotenv # type: ignore
-import openai
+from openai import OpenAI
 from schema.schema import LLMProcessedProduct
 import os
 
@@ -11,7 +11,7 @@ import os
 load_dotenv()
 
 # Initialize OpenAI client
-openai.api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 PROMPT = """You are an AI assistant tasked with extracting relationships from a product to build a structured database. You will receive a JSON object representing a product and must generate a new JSON object that details its relationships.
 
@@ -81,7 +81,7 @@ def process_product(product: LLMProcessedProduct) -> LLMProcessedProduct | None:
     Process a single product object with the LLM
     """
     try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": PROMPT},
@@ -116,6 +116,7 @@ def process_log_file(input_path: str, output_path: str, test_mode: bool = False)
 if __name__ == "__main__":
     # Normal mode
     # process_log_file('simplified_log.json', 'processed_log.json')
-    
-    # Test mode
-    process_log_file('Logs/Previous Logs/Multipled Element + Elements/simplified_log.json', 'Logs/Previous Logs/Multipled Element + Elements/processed_log.json', test_mode=False)
+    path = 'Logs/Previous Logs/Multipled Element + Elements/simplified_log.json'
+    process_log_file(path, 
+                     path.replace('simplified_log.json', 'processed_log.json'), 
+                     test_mode=False)

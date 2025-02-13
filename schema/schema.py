@@ -57,7 +57,6 @@ class FormulaResult(TypedDict):
     isDivision: bool
     hReferenceCount: int
     error: Optional[str]
-    quantity: int
     references: List['FormulaResult']
 
 class FormulaInfo(TypedDict):
