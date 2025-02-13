@@ -1,6 +1,18 @@
 import json
 from pathlib import Path
-from typing import Dict, Any
+from typing import Dict, Any, List
+
+def has_errors(entry: Dict[str, Any]) -> bool:
+    """Check if entry or any of its references have errors"""
+    if entry.get('error'):
+        return True
+    
+    # Check nested references
+    for ref in entry.get('references', []):
+        if has_errors(ref):
+            return True
+    
+    return False
 
 def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     """Process individual log entry to extract required properties"""
@@ -39,21 +51,34 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     # Remove null values
     return {k: v for k, v in processed_entry.items() if v is not None}
 
-
-def simplify_log(input_path: Path, output_path: Path) -> None:
-    """Main processing function"""
+def simplify_log(input_path: Path, output_path: Path, error_output_path: Path) -> None:
+    """Main processing function that separates entries with and without errors"""
     with open(input_path, 'r', encoding='utf-8') as f:
         log_data = json.load(f)
     
-    # True will be sent for every top object we processin log_data
-    simplified = [process_entry(entry, True) for entry in log_data]
-
+    # Separate entries with and without errors
+    valid_entries: List[Dict[str, Any]] = []
+    error_entries: List[Dict[str, Any]] = []
+    
+    for entry in log_data:
+        if has_errors(entry):
+            error_entries.append(entry)
+        else:
+            valid_entries.append(process_entry(entry, True))
+    
+    # Write valid entries to main output file
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(simplified, f, indent=2)
+        json.dump(valid_entries, f, indent=2)
+    
+    # Write error entries to error log file
+    with open(error_output_path, 'w', encoding='utf-8') as f:
+        json.dump(error_entries, f, indent=2)
 
 if __name__ == "__main__":
-    input_file = Path("Logs/log.json")
-    output_file = Path("Logs/simplified_log.json")
+    input_file = Path("Logs/Current Logs/log.json")
+    output_file = Path("Logs/Current Logs/simplified_log.json")
+    error_file = Path("Logs/Current Logs/error_log.json")
     
-    simplify_log(input_file, output_file)
-    print(f"Simplified log created at: {output_file}") 
+    simplify_log(input_file, output_file, error_file)
+    print(f"Simplified log created at: {output_file}")
+    print(f"Error log created at: {error_file}")

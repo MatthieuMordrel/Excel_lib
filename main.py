@@ -11,7 +11,7 @@ from typing import List
 USE_BATCH_FILE = True
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
-LOG_PATH = Path("Logs/log.json")
+LOG_PATH = Path("Logs/Current Logs/log.json")
 PRODUCT_MAPPING_PATH = Path("Mappings/product_mapping.json")
 
 def get_test_batch() -> List[BatchRequest]:
@@ -57,7 +57,7 @@ def get_test_batch() -> List[BatchRequest]:
 
 def main():
     # Initialize components
-    setup_logger(Path("Logs/excel_processor.log"))
+    setup_logger(Path("Logs/Current Logs/excel_processor.log"))
     product_mapper = ProductMapper(PRODUCT_MAPPING_PATH)
     result_manager = ResultManager(LOG_PATH)
     
