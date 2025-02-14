@@ -58,5 +58,15 @@
         "cell": "H39"
       }
     ]
+  },
+  {
+    "formula": "'\\\\LS420D340\\Zaak\\Kovera\\BASISMATERIALEN\\[calculatie cat 2022 .xlsx]c.basis'!I65*3",
+    "expected_references": [
+      {
+        "file": "[calculatie cat 2022 .xlsx]",
+        "sheet": "c.basis",
+        "cell": "I65"
+      }
+    ]
   }
 ]

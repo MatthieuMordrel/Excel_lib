@@ -139,10 +139,10 @@ class FormulaSummarizer:
                 })
         
         # Write to temporary file first to ensure atomic write
-        temp_path = Path('Logs/formula_summary.tmp')
+        temp_path = Path('Logs/Current Logs/formula_summary.tmp')
         with open(temp_path, 'w') as f:
             json.dump(output, f, indent=2)
         
         # Replace old file atomically
-        final_path = Path('Logs/formula_summary.json')
+        final_path = Path('Logs/Current Logs/formula_summary.json')
         temp_path.replace(final_path) 

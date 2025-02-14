@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 import json
 
-def setup_logger(log_file: Path = Path("Logs/excel_processor.log")) -> logging.Logger:
+def setup_logger(log_file: Path = Path("Logs/Current Logs/excel_processor.log")) -> logging.Logger:
     """
     Sets up and configures the logger, clearing the log file before each run.
     Only shows WARNING level and above in console, while maintaining DEBUG level for file logging.

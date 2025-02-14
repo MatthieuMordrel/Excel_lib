@@ -14,8 +14,63 @@ def has_errors(entry: Dict[str, Any]) -> bool:
     
     return False
 
+def is_drawer_formula(formula: str) -> tuple[bool, str]:
+    """
+    Check if formula matches drawer patterns and return type
+    Returns (is_drawer, drawer_type)
+    """
+    if not formula:
+        return (False, "")
+    
+    # Clean and split formula
+    parts = formula.strip("=+").split("+")
+    
+    # Check if we have exactly 3 parts
+    if len(parts) != 3:
+        return (False, "")
+    
+    # Check if parts follow pattern W36+W35+W34 or R36+R35+R34
+    parts = [p.strip() for p in parts]
+    
+    # Check for W pattern
+    if all(p.startswith('W') for p in parts) and parts == [f'W{i}' for i in range(36, 33, -1)]:
+        return (True, "binnenpottenlade")
+    
+    # Check for R pattern  
+    if all(p.startswith('R') for p in parts) and parts == [f'R{i}' for i in range(36, 33, -1)]:
+        return (True, "binnenlade")
+        
+    return (False, "")
+
+def get_drawer_size(references: List[Dict[str, Any]], formula_type: str) -> float:
+    """Extract drawer size from references recursively"""
+    size_cell = 'V36' if formula_type == 'binnenpottenlade' else 'Q36'
+    
+    def search_refs(refs: List[Dict[str, Any]]) -> float:
+        for ref in refs:
+            if ref.get('cell') == size_cell:
+                return float(ref.get('value', 0.0))
+            # Recursively search nested references
+            if ref.get('references'):
+                size = search_refs(ref['references'])
+                if size > 0:
+                    return size
+        return 0.0
+    
+    return search_refs(references)
+
 def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     """Process individual log entry to extract required properties"""
+    # Check for drawer formula pattern
+    is_drawer, drawer_type = is_drawer_formula(entry.get('cleaned_formula', ''))
+    
+    if is_drawer:
+        return {
+            "type": drawer_type,
+            "size": get_drawer_size(entry.get('references', []), drawer_type),
+            "value": entry.get('value', 0)
+        }
+    
     # Determine entry type first
     entry_type = "product" if entry.get("isProduct", False) else "element" if entry.get("isElement", False) else "baseMaterial" if entry.get("isBaseMaterial", False) else "none"
     

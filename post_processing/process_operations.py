@@ -83,8 +83,8 @@ def analyze_operations(log_path: Path, output_path: Path) -> None:
 def main():
     """Main entry point with simplified argument handling"""
     import sys
-    default_input = Path("Logs/log.json")
-    default_output = Path("Logs/operation_stats.json")
+    default_input = Path("Logs/Current Logs/log.json")
+    default_output = Path("Logs/Current Logs/operation_stats.json")
     
     # Simple argument handling without argparse
     input_path = Path(sys.argv[1]) if len(sys.argv) > 1 else default_input
