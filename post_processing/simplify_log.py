@@ -68,7 +68,8 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
         return {
             "type": drawer_type,
             "size": get_drawer_size(entry.get('references', []), drawer_type),
-            "value": entry.get('value', 0)
+            "value": entry.get('value', 0),
+            "cell": entry.get('cell')
         }
     
     # Determine entry type first
@@ -78,7 +79,8 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     if entry_type == "element":
         return {
             "type": entry_type,
-            "id": f"{entry.get('sheet')}_{round(entry.get('value', 0), 3)}"
+            "id": f"{entry.get('sheet')}_{round(entry.get('value', 0), 3)}",
+            "cell": entry.get('cell')
         }
     if entry_type == "baseMaterial":
         return {
@@ -121,19 +123,51 @@ def simplify_log(input_path: Path, output_path: Path, error_output_path: Path) -
         else:
             valid_entries.append(process_entry(entry, True))
     
-    # Write valid entries to main output file
+    # Find and remove entries with no formula
+    def find_and_remove_no_formula_entries(entries: List[Dict[str, Any]]) -> tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+        """Find and remove entries where any reference (at any depth) has 'Cellhasnoformulainfile'"""
+        no_formula_entries: List[Dict[str, Any]] = []
+        clean_entries: List[Dict[str, Any]] = []
+        
+        def has_no_formula(entry: Dict[str, Any]) -> bool:
+            """Helper function to check if entry or any reference has no formula"""
+            if entry.get('cleaned_formula') == "Cellhasnoformulainfile":
+                return True
+            if entry.get('references'):
+                return any(has_no_formula(ref) for ref in entry['references'])
+            return False
+        
+        for entry in entries:
+            if has_no_formula(entry):
+                no_formula_entries.append(entry)
+            else:
+                clean_entries.append(entry)
+        
+        return clean_entries, no_formula_entries
+    
+    # Process entries to separate and remove no formula entries
+    clean_entries, no_formula_entries = find_and_remove_no_formula_entries(valid_entries)
+    
+    # Write clean entries to main output file
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(valid_entries, f, indent=2)
+        json.dump(clean_entries, f, indent=2)
     
     # Write error entries to error log file
     with open(error_output_path, 'w', encoding='utf-8') as f:
         json.dump(error_entries, f, indent=2)
+    
+    # Write no formula entries to separate file
+    no_formula_path = output_path.parent / "no_formula_log.json"
+    with open(no_formula_path, 'w', encoding='utf-8') as f:
+        json.dump(no_formula_entries, f, indent=2)
+    
+    print(f"Simplified log created at: {output_path}")
+    print(f"Error log created at: {error_output_path}")
+    print(f"No formula log created at: {no_formula_path}")
 
 if __name__ == "__main__":
-    input_file = Path("Logs/Current Logs/log.json")
-    output_file = Path("Logs/Current Logs/simplified_log.json")
-    error_file = Path("Logs/Current Logs/error_log.json")
+    input_file = Path("Logs/Previous Logs/Local + Elements/log.json")
+    output_file = Path("Logs/Previous Logs/Local + Elements/simplified_log.json")
+    error_file = Path("Logs/Previous Logs/Local + Elements/error_log.json")
     
     simplify_log(input_file, output_file, error_file)
-    print(f"Simplified log created at: {output_file}")
-    print(f"Error log created at: {error_file}")

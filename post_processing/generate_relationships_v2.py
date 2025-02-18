@@ -23,11 +23,15 @@ def extract_relationships(data: List[Dict[str, Any]]) -> Dict[str, List[Dict[str
     - product_element: Product to Element relationships
     - product_product: Product to Product relationships
     - product_base_material: Product to Base Material relationships
+    - product_binnenlade: Product to Binnenlade relationships
+    - product_binnenpottenlade: Product to Binnenpottenlade relationships
     """
     relationships: Dict[str, List[Dict[str, Union[str, int]]]] = {
         'product_element': [],
         'product_product': [],
-        'product_base_material': []
+        'product_base_material': [],
+        'product_binnenlade': [],
+        'product_binnenpottenlade': []
     }
 
     for product in data:
@@ -51,6 +55,10 @@ def extract_relationships(data: List[Dict[str, Any]]) -> Dict[str, List[Dict[str
                 relationships['product_product'].append(relationship)
             elif ref.get('type') == 'base_material':
                 relationships['product_base_material'].append(relationship)
+            elif ref.get('type') == 'binnenlade':
+                relationships['product_binnenlade'].append(relationship)
+            elif ref.get('type') == 'binnenpottenlade':
+                relationships['product_binnenpottenlade'].append(relationship)
                 
     return relationships
 
@@ -106,6 +114,20 @@ def create_relationship_sheet(workbook: openpyxl.Workbook,
         relationships['product_base_material'],
         ['product_id', 'related_id', 'quantity']
     )
+    
+    # Add Product-Binnenlade relationships
+    add_relationship_table(
+        "Product-Binnenlade Relationships",
+        relationships['product_binnenlade'],
+        ['product_id', 'related_id', 'quantity']
+    )
+    
+    # Add Product-Binnenpottenlade relationships
+    add_relationship_table(
+        "Product-Binnenpottenlade Relationships",
+        relationships['product_binnenpottenlade'],
+        ['product_id', 'related_id', 'quantity']
+    )
 
 def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
     """
@@ -125,6 +147,8 @@ def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
         print(f"  - Product-Element: {len(relationships['product_element'])}")
         print(f"  - Product-Product: {len(relationships['product_product'])}")
         print(f"  - Product-BaseMaterial: {len(relationships['product_base_material'])}")
+        print(f"  - Product-Binnenlade: {len(relationships['product_binnenlade'])}")
+        print(f"  - Product-Binnenpottenlade: {len(relationships['product_binnenpottenlade'])}")
         
         # Create or load Excel workbook
         if excel_path.exists():
@@ -150,7 +174,7 @@ def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
 if __name__ == "__main__":
     try:
         # Define paths
-        path = 'Logs/Previous Logs/Multipled Element + Elements'
+        path = 'Logs/Previous Logs/Local + Elements'
         log_path = Path(path) / "processed_log.json"
         excel_path = Path(path) / "Relationships_v2.xlsx"
         

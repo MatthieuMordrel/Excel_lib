@@ -79,7 +79,8 @@ class LLMProcessedProduct(TypedDict):
     references: List['LLMProcessedReference'] 
 
 class LLMProcessedReference(TypedDict):
-    type: Literal["element", "product", "base_material"]
+    type: Literal["element", "product", "base_material", "binnenpottenlade", "binnenlade"]
     id: str
     quantity: int
+    size: Optional[float]
 

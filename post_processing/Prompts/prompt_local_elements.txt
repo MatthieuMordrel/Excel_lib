@@ -3,60 +3,14 @@ You will receive a JSON object representing a product and must generate a new JS
 
 A product can be composed of other products, elements, base materials, binnenpottenlade or binnenlade.
 Your objective is to analyze the provided formula, determine how each referenced component contributes to the product, and update the quantities accordingly.
+In this batch, you will receive objects where the quantity should generally be 1.
+You need to check the cleaned_formula in the parent, see the cell references, and compare the cell references in the child element to calculate the quantity.
 
-Example 1:
-Input:
-{
-  "type": "product",
-  "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-  "sheet": "OVERZICHT COP",
-  "cell": "D65",
-  "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
-  "id": "CO4L30_1",
-  "references": [
-    {
-      "type": "element",
-      "id": "CO30_47.577"
-    },
-    {
-      "type": "element",
-      "id": "LADE 30_18.65"
-    },
-    {
-      "type": "element",
-      "id": "FR296x196_3.445"
-    }
-  ]
-}
-Expected Output:
-{
-  "type": "product",
-  "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
-  "sheet": "OVERZICHT COP",
-  "cell": "D65",
-  "cleaned_formula": "'CO30'!H59+4*('LADE 30'!H37+FR296x196!H33)",
-  "id": "CO4L30_1",
-  "quantity": 1,
-  "references": [
-    {
-      "type": "element",
-      "id": "CO30_47.577",
-      "quantity": 1
-    },
-    {
-      "type": "element",
-      "id": "LADE 30_18.65",
-      "quantity": 4
-    },
-    {
-      "type": "element",
-      "id": "FR296x196_3.445",
-      "quantity": 4
-    }
-  ]
-}
+You must generate a valid JSON object
 
-Example 2:
+
+You
+Example:
 Input:
   {
     "type": "product",
@@ -86,12 +40,14 @@ Input:
             "references": [
               {
                 "type": "element",
-                "id": "PLADE 30_36.756"
+                "id": "PLADE 30_36.756",
+                "cell": "H39"
               },
               {
                 "type": "binnenpottenlade",
                 "size": 30.0,
-                "value": 23.348000000000003
+                "value": 23.348000000000003,
+                "cell": "W37"
               }
             ]
           }
@@ -128,7 +84,3 @@ Input:
       }
     ]
   }
-
-
-
-Your role is to process the cleaned_formula field to determine the correct quantity of each referenced component and update the JSON object accordingly to simplify the object.

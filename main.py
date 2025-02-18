@@ -8,7 +8,7 @@ from cell_info_extractor import CellInfoExtractor
 from typing import List
 
 # Configuration
-USE_BATCH_FILE = True
+USE_BATCH_FILE = False
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
 LOG_PATH = Path("Logs/Current Logs/log.json")
@@ -80,8 +80,15 @@ def main():
     STOP_ON_DIVISION = False
     
     # Process results directly with CellInfoExtractor
-    extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, stop_on_multiplication=STOP_ON_MULTIPLICATION, stop_on_division=STOP_ON_DIVISION)
-    results = extractor.extract_batch(batch_requests)
+    extractor = CellInfoExtractor(file_index, product_mapper, max_recursion_depth=10, 
+                                stop_on_multiplication=STOP_ON_MULTIPLICATION, 
+                                stop_on_division=STOP_ON_DIVISION)
+    try:
+        results = extractor.extract_batch(batch_requests)
+    finally:
+        # Ensure proper cleanup even if exceptions occur
+        #Without this, a excel process is still running after the script is closed, and files keep opening
+        extractor.excel_helper.cleanup()
 
     # Save results and log summary
     result_manager.save_results(results)
