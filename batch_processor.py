@@ -3,7 +3,7 @@ import win32com.client
 from typing import List, Tuple
 from utils.logging_utils import setup_logger
 
-BatchRequest = Tuple[str, str, str]  # (file_name, sheet_name, cell_ref)
+BatchRequest = Tuple[str, str, str, str]  # (file_name, sheet_name, cell_ref, product_id)
 
 def get_batch_requests(file_path: Path) -> List[BatchRequest]:
     """
@@ -27,24 +27,25 @@ def get_batch_requests(file_path: Path) -> List[BatchRequest]:
         sheet = wb.Sheets(1)
         
         # Verify columns
-        headers = sheet.Range("A1:C1").Value[0]
-        if headers != ('File', 'Tab', 'Cell'):
-            logger.error("Excel file must have columns 'File', 'Tab', 'Cell' in the first row")
-            raise ValueError("Excel file must have columns 'File', 'Tab', 'Cell' in the first row")
+        headers = sheet.Range("A1:D1").Value[0]
+        if headers != ('Product_Id', 'File', 'Tab', 'Cell'):
+            logger.error("Excel file must have columns 'Product_Id', 'File', 'Tab', 'Cell' in the first row")
+            raise ValueError("Excel file must have columns 'Product_Id', 'File', 'Tab', 'Cell' in the first row")
         
         # Read data
         batch_requests: List[BatchRequest] = []
         row = 2
         while True:
-            file_name = sheet.Cells(row, 1).Value
-            sheet_name = sheet.Cells(row, 2).Value
-            cell_ref = sheet.Cells(row, 3).Value
+            product_id = sheet.Cells(row, 1).Value
+            file_name = sheet.Cells(row, 2).Value
+            sheet_name = sheet.Cells(row, 3).Value
+            cell_ref = sheet.Cells(row, 4).Value
             
-            if not file_name or not sheet_name or not cell_ref:
+            if not file_name or not sheet_name or not cell_ref or not product_id:
                 break
                 
-            batch_requests.append((file_name, sheet_name, cell_ref))
-            logger.debug(f"Added batch request: {file_name}, {sheet_name}, {cell_ref}")
+            batch_requests.append((file_name, sheet_name, cell_ref, product_id))
+            logger.debug(f"Added batch request for {product_id}: {file_name}, {sheet_name}, {cell_ref}")
             row += 1
         
         wb.Close(False)

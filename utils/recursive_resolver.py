@@ -44,7 +44,7 @@ class RecursiveResolver:
             return result
         # Add classification logging at resolution start
         
-        cache_key = f"{result['file']}|{result['sheet']}|{result['cell']}"
+        cache_key = f"{result.get('productID','')}|{result['file']}|{result['sheet']}|{result['cell']}"
         
         if cache_key in self.current_chain:
             self.logger.error(f"Circular reference detected: {cache_key}")

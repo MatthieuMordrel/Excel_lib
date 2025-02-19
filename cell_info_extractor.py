@@ -1,4 +1,4 @@
-from typing import Dict, List, Tuple
+from typing import Dict, List    
 from pathlib import Path
 from utils.excel_utils import ExcelHelper, ExcelUtils
 from utils.formula_parser import FormulaParser
@@ -9,7 +9,7 @@ from Mappings.product_mapper import ProductMapper
 from schema.schema import FormulaResult, FormulaInfo
 from openpyxl.workbook.workbook import Workbook
 from openpyxl.worksheet.worksheet import Worksheet
-
+from batch_processor import BatchRequest
 
 
 class CellInfoExtractor:
@@ -34,13 +34,13 @@ class CellInfoExtractor:
         self.division_count = 0
         self.processed_products = 0  # New counter for progress tracking
 
-    def extract_batch(self, requests: List[Tuple[str, str, str]]) -> List[FormulaResult]:
+    def extract_batch(self, requests: List[BatchRequest]) -> List[FormulaResult]:
         """Processes a batch of cell extraction requests."""
         results: List[FormulaResult] = []
         total_products = len(requests)
         
-        for i, (file_name, sheet_name, cell_ref) in enumerate(requests, 1):
-            result = self.extract_cell_info(file_name, sheet_name, cell_ref)
+        for i, (file_name, sheet_name, cell_ref, product_id) in enumerate(requests, 1):
+            result = self.extract_cell_info(file_name, sheet_name, cell_ref, product_id, top_product=True)
             results.append(result)
             
             # Log progress every 10 products
@@ -49,9 +49,9 @@ class CellInfoExtractor:
                 
         return results
 
-    def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str) -> FormulaResult:
+    def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str, product_id: str | None = None, top_product: bool = False) -> FormulaResult:
+        self.logger.debug(f"Extracting cell info: {product_id}")
         """Extracts formula and value from a specific cell."""
-        # Create unique ID for the cell
         
         id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         self.logger.debug(f"Extracting cell info: {id}")
@@ -83,7 +83,14 @@ class CellInfoExtractor:
             })
         
         # Add product mapping immediately
-        product_id: str | None = self.product_mapper.reverse_mapping.get(id)
+        self.logger.debug(f"Product ID already exists: {product_id}")
+        if product_id is None:
+            self.logger.debug(f"Product ID is None, trying to reverse mapping: {id}")
+            product_id = self.product_mapper.reverse_mapping.get(id)
+            if product_id is not None:
+                self.logger.debug(f"Product ID found: {product_id}")
+            else:
+                self.logger.debug(f"Product ID not found in reverse mapping: {id}")
         isProduct: bool = product_id is not None
 
         result: FormulaResult = {
@@ -143,7 +150,7 @@ class CellInfoExtractor:
                 result['updated_formula'] = formula_info['updated_formula']
                 # result['expanded_formula'] = formula_info['expanded_formula']
 
-                if not result['isElement']:  # Only resolve references if it's not an element
+                if not result['isElement'] and not result['isBaseMaterial'] and (not result['isProduct'] or top_product):  # Only resolve references if it's not an element, not a base material, and not a product that is not the top product
                     result['references'] = formula_info['references']
                     result = self.resolver.resolve_references(result, max_depth=self.max_recursion_depth)
 

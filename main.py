@@ -8,7 +8,7 @@ from cell_info_extractor import CellInfoExtractor
 from typing import List
 
 # Configuration
-USE_BATCH_FILE = False
+USE_BATCH_FILE = True
 BATCH_FILE_PATH = Path(__file__).parent / "Batch File" / "File - Tab - Cell - (start of recursive resolver) - New.xlsx"
 BASE_PATH = Path(r"C:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\BASISMATERIALEN")
 LOG_PATH = Path("Logs/Current Logs/log.json")
@@ -48,10 +48,9 @@ def get_test_batch() -> List[BatchRequest]:
         # ("2022 -P2 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx", "OVERZICHT CK222", "H3"),
         # ("2022 - P1 Berekening klapdeurHangkast 494-565 KLEUR.xlsx", "OVERZICHT C494", "D5"), #Standard + Material
         # ("2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx", "OVERZICHT C79B", "D41"), #Standard + Hardocded
-        ("2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx", "OVERZICHT C79B", "D33"),
-        ("2022 - P1 Berekening Hoekonderkasten 794-KLEUR.xlsx", "OVERZICHT CO", "F5"),
-
-
+        # ("2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx", "OVERZICHT C79B", "D33", "GLAS DEUR HANGKAST 970-KLEUR"),
+        # ("2022 - P1 Berekening Hoekonderkasten 794-KLEUR.xlsx", "OVERZICHT CO", "F5", "HOEKENDERKASTEN 794-KLEUR"),
+        ("2022 - P5 berekening kolomkast 2317.xlsx", "OVERZICHT CK231", "E44", "CK231B30PB4_5")
     ]
 
 
