@@ -45,9 +45,8 @@ Input:
               },
               {
                 "type": "binnenpottenlade",
-                "size": 30.0,
-                "value": 23.348000000000003,
-                "cell": "W37"
+                "cell": "W37",
+                "id": "binnenpottenlade_30_23.348"
               }
             ]
           }
@@ -78,8 +77,7 @@ Input:
       },
       {
         "type": "binnenpottenlade",
-        "size": 30.0,
-        "value": 23.348000000000003,
+        "id": "binnenpottenlade_30_23.348",
         "quantity": 1
       }
     ]

@@ -71,9 +71,8 @@
           },
           {
             "type": "binnenlade",
-            "size": 55.0,
-            "value": 24.208,
-            "cell": "R37"
+            "cell": "R37",
+            "id": "binnenlade_55.0_24.208"
           }
         ]
       }

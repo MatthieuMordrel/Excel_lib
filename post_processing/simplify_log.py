@@ -49,15 +49,19 @@ def get_drawer_size(references: List[Dict[str, Any]], formula_type: str) -> floa
     def search_refs(refs: List[Dict[str, Any]]) -> float:
         for ref in refs:
             if ref.get('cell') == size_cell:
+                # Ensure we return a float value
                 return float(ref.get('value', 0.0))
             # Recursively search nested references
             if ref.get('references'):
                 size = search_refs(ref['references'])
                 if size > 0:
                     return size
+        # Return 0.0 instead of 0 to maintain float type
         return 0.0
     
-    return search_refs(references)
+    size = search_refs(references)
+    # Ensure we return the size even if it's 0
+    return size
 
 def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     """Process individual log entry to extract required properties"""
@@ -65,11 +69,12 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     is_drawer, drawer_type = is_drawer_formula(entry.get('cleaned_formula', ''))
     
     if is_drawer:
+        size = get_drawer_size(entry.get('references', []), drawer_type)
         return {
             "type": drawer_type,
-            "size": get_drawer_size(entry.get('references', []), drawer_type),
-            "value": entry.get('value', 0),
-            "cell": entry.get('cell')
+            "cell": entry.get('cell'),
+            # Use the actual size value
+            "id": f"{drawer_type}_{size}_{round(entry.get('value', 0), 3)}"
         }
     
     # Determine entry type first
