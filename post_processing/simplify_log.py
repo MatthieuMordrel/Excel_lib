@@ -171,8 +171,8 @@ def simplify_log(input_path: Path, output_path: Path, error_output_path: Path) -
     print(f"No formula log created at: {no_formula_path}")
 
 if __name__ == "__main__":
-    input_file = Path("Logs/Previous Logs/Local + Elements/log.json")
-    output_file = Path("Logs/Previous Logs/Local + Elements/simplified_log.json")
-    error_file = Path("Logs/Previous Logs/Local + Elements/error_log.json")
+    input_file = Path("Logs/Current Logs/log.json")
+    output_file = Path("Logs/Current Logs/simplified_log.json")
+    error_file = Path("Logs/Current Logs/error_log.json")
     
     simplify_log(input_file, output_file, error_file)

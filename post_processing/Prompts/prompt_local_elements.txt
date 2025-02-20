@@ -3,50 +3,55 @@ You will receive a JSON object representing a product and must generate a new JS
 
 A product can be composed of other products, elements, base materials, binnenpottenlade or binnenlade.
 Your objective is to analyze the provided formula, determine how each referenced component contributes to the product, and update the quantities accordingly.
-In this batch, you will receive objects where the quantity should generally be 1.
+In this batch, you will receive objects where the quantity should generally be 1 but not always.
 You need to check the cleaned_formula in the parent, see the cell references, and compare the cell references in the child element to calculate the quantity.
+It's very important to check the cleaned_formula thoroughly, and check how the references match in the child objects.
+It's also very import to keep the integrity of the id's.
 
 You must generate a valid JSON object
 
-
-You
-Example:
-Input:
+Example 1:
   {
     "type": "product",
-    "file": "2022 -P1 Berekening Kolom P Lade B Lade(16-10) 2137-KLEUR.xlsx",
-    "sheet": "OVERZICHT CKP222",
-    "cell": "D22",
-    "cleaned_formula": "D3+B15",
-    "id": "CKP213A30PB4_1",
+    "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+    "sheet": "OVERZICHT CK213",
+    "cell": "I35",
+    "cleaned_formula": "CK213A55!H57+'DE546x2137 '!H39+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28",
+    "id": "CK21355PB4_1",
     "references": [
       {
-        "type": "product",
-        "id": "CKP213B30PB3_1"
+        "type": "element",
+        "id": "CK213A55_111.643",
+        "cell": "H57"
+      },
+      {
+        "type": "element",
+        "id": "DE546x2137 _24.565",
+        "cell": "H39"
       },
       {
         "type": "none",
-        "file": "2022 -P1 Berekening Kolom P Lade B Lade(16-10) 2137-KLEUR.xlsx",
-        "sheet": "OVERZICHT CKP222",
-        "cell": "B15",
-        "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]OVERZICHT COP'!S20",
+        "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+        "sheet": "OVERZICHT CK213",
+        "cell": "G28",
+        "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]OVERZICHT COP'!X20",
         "references": [
           {
             "type": "none",
             "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
             "sheet": "OVERZICHT COP",
-            "cell": "S20",
-            "cleaned_formula": "'PLADE 30'!H39+'PLADE 30'!W37",
+            "cell": "X20",
+            "cleaned_formula": "SUM('PLADE 55'!H39+'PLADE 55'!W37)",
             "references": [
               {
                 "type": "element",
-                "id": "PLADE 30_36.756",
+                "id": "PLADE 55_38.77",
                 "cell": "H39"
               },
               {
                 "type": "binnenpottenlade",
                 "cell": "W37",
-                "id": "binnenpottenlade_30_23.348"
+                "id": "binnenpottenlade_55.0_29.388"
               }
             ]
           }
@@ -55,30 +60,90 @@ Input:
     ]
   },
 
-  Expected Output:
+  Expected Output 1:
   {
     "type": "product",
-    "file": "2022 -P1 Berekening Kolom P Lade B Lade(16-10) 2137-KLEUR.xlsx",
-    "sheet": "OVERZICHT CKP222",
-    "cell": "D22",
-    "cleaned_formula": "D3+B15",
-    "id": "CKP213A30PB4_1",
-    "quantity": 1,
+    "file": "2022 - P1 berekening kolomkast 2137.xlsx",
+    "sheet": "OVERZICHT CK213",
+    "cell": "I35",
+    "cleaned_formula": "CK213A55!H57+'DE546x2137 '!H39+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28+'OVERZICHT CK213'!G28",
+    "id": "CK21355PB4_1",
     "references": [
       {
-        "type": "product",
-        "id": "CKP213B30PB3_1",
+        "type": "element",
+        "id": "CK213A55_111.643",
         "quantity": 1
       },
       {
         "type": "element",
-        "id": "PLADE 30_36.756",
+        "id": "DE546x2137 _24.565",
         "quantity": 1
       },
       {
+        "type": "element",
+        "id": "PLADE 55_38.77",
+        "quantity": 4
+      },
+       {
         "type": "binnenpottenlade",
-        "id": "binnenpottenlade_30_23.348",
+        "id": "binnenpottenlade_55.0_29.388",
+        "quantity": 4
+      }
+    ]
+  },
+
+Example 2:
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "O15",
+    "cleaned_formula": "'OVERZICHT COZ1323'!G15+'DE596x1319 '!H39",
+    "id": "C132B60D131_4",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G15",
+        "cleaned_formula": "'1323B60'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "1323B60_93.098",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "id": "DE596x1319 _55.578",
+        "cell": "H39"
+      }
+    ]
+  },
+
+  Expected Output 2:
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "O15",
+    "cleaned_formula": "'OVERZICHT COZ1323'!G15+'DE596x1319 '!H39",
+    "id": "C132B60D131_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B60_93.098",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x1319 _55.578",
         "quantity": 1
       }
     ]
-  }
+  },
+
+
+
