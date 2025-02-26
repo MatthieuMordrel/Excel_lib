@@ -174,7 +174,7 @@ def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
 if __name__ == "__main__":
     try:
         # Define paths
-        path = 'Logs/Previous Logs/Local + Elements'
+        path = 'Logs/Previous Logs/Local + External'
         log_path = Path(path) / "processed_log.json"
         excel_path = Path(path) / "Relationships_v2.xlsx"
         

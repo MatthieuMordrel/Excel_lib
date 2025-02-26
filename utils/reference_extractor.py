@@ -18,8 +18,8 @@ class ReferenceExtractor:
         Returns:
             bool: True if the cell reference is valid
         """
-        # Pattern: One or more letters followed by 1 to 3 digits
-        cell_pattern = r"^[A-Z]\d{1,3}$"
+        # Pattern: One or two letters followed by 1 to 3 digits
+        cell_pattern = r"^[A-Z]{1,2}\d{1,3}$"
         return bool(re.match(cell_pattern, cell_ref))
     
     def _create_reference(self, file: str, sheet: str, cell: str) -> FormulaResult:
@@ -59,7 +59,7 @@ class ReferenceExtractor:
             List[FormulaResult]: List of reference dictionaries
         """
         # Pattern 1: [filename]sheetname!cell (external reference)
-        pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]\d{1,3})"
+        pattern1 = r"\[([^\]]+)\]([^\[]+)'!([A-Z]{1,2}\d{1,3})"
         
         # Updated Pattern 2 with special cases and SUM handling
         pattern2 = r"""(?x)                           # Enable verbose mode for clarity
@@ -77,11 +77,11 @@ class ReferenceExtractor:
               (?P<unquoted_sheet>[^()!+*']+)    # Capture an unquoted sheet name, taking the assumption that if there is a parenthesis, it adds quotes to the sheet name
             )
             !                              # Literal exclamation mark separator
-            (?P<cell>\$?[A-Za-z]+\$?\d+)    # Capture a cell reference (e.g. A1, $B$2)
+            (?P<cell>\$?[A-Za-z]{1,2}\$?\d+)    # Capture a cell reference (e.g. A1, $B$2, AA1)
         """
         
         # Pattern 3: simple cell reference
-        pattern3 = r"([A-Z]\d{1,3})"
+        pattern3 = r"([A-Z]{1,2}\d{1,3})"
         
         updated_formula = cleaned_formula
         processed: Set[Tuple[str, str, str]] = set()

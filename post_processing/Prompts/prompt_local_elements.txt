@@ -3,10 +3,10 @@ You will receive a JSON object representing a product and must generate a new JS
 
 A product can be composed of other products, elements, base materials, binnenpottenlade or binnenlade.
 Your objective is to analyze the provided formula, determine how each referenced component contributes to the product, and update the quantities accordingly.
-In this batch, you will receive objects where the quantity should generally be 1 but not always.
-You need to check the cleaned_formula in the parent, see the cell references, and compare the cell references in the child element to calculate the quantity.
-It's very important to check the cleaned_formula thoroughly, and check how the references match in the child objects.
-It's also very import to keep the integrity of the id's.
+You need to check the cleaned_formula in the parent, go through the references, and compare the cell property in the child element with the cleaned_formula to calculate the quantity.
+It's very important to check the cleaned_formula thoroughly, and check how the cell references match in the child objects cell property. 
+Generally there should always be a child with the correct cell property within the cleaned_formula, but be careful when assigning quantities, as sometimes cell references within formula are closed but not identical.
+It's also very important to keep the integrity of the id's.
 
 You must generate a valid JSON object
 
@@ -144,6 +144,89 @@ Example 2:
       }
     ]
   },
+
+Example 3:
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "D11",
+    "cleaned_formula": "'CO30'!H59+'PLADE 30'!H39+FR296x790!H33+B28",
+    "id": "COPBL30_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO30_47.577",
+        "cell": "H59"
+      },
+      {
+        "type": "element",
+        "id": "PLADE 30_36.756",
+        "cell": "H39"
+      },
+      {
+        "type": "element",
+        "id": "FR296x790_49.804",
+        "cell": "H33"
+      },
+      {
+        "type": "none",
+        "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+        "sheet": "OVERZICHT PO",
+        "cell": "B28",
+        "cleaned_formula": "SUM('LADE 30'!H37+'LADE 30'!R37)",
+        "references": [
+          {
+            "type": "element",
+            "id": "LADE 30_18.65",
+            "cell": "H37"
+          },
+          {
+            "type": "binnenlade",
+            "cell": "R37",
+            "id": "binnenlade_30.0_18.168"
+          }
+        ]
+      }
+    ]
+  }
+
+  Expected Output 3:
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "D11",
+    "cleaned_formula": "'CO30'!H59+'PLADE 30'!H39+FR296x790!H33+B28",
+    "id": "COPBL30_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO30_47.577",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 30_36.756",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR296x790_49.804",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 30_18.65",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_30.0_18.168",
+        "quantity": 1
+      }
+    ]
+  }
 
 
 

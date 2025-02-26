@@ -14,7 +14,7 @@ def create_element_id(ref: Reference) -> ElementID:
     """Create an element ID from a reference."""
     return {
         "elementID": f"{ref['sheet']}_{ref['cell']}_{round_value(ref['value'])}",
-        "quantity": ref['value']
+        "quantity": int(ref['value'])
     }
 
 def create_initial_relationship() -> RelationshipDict:

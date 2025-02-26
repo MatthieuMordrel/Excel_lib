@@ -1,0 +1,11 @@
+{
+  "total_formulas": 257,
+  "has_both": 229,
+  "has_multiplication": 0,
+  "has_division": 0,
+  "has_neither": 28,
+  "total_errors": 28,
+  "file_errors": 28,
+  "sheet_errors": 0,
+  "other_errors": 0
+}

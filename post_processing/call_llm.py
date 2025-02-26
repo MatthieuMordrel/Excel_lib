@@ -147,7 +147,7 @@ def process_log_file(input_path: str, output_path: str, test_mode: bool = False)
 if __name__ == "__main__":
     # Normal mode
     # process_log_file('simplified_log.json', 'processed_log.json')
-    path = 'Logs/Previous Logs/Local + Elements/simplified_log.json'
+    path = 'Logs/Previous Logs/Local + External/simplified_log.json'
     process_log_file(path, 
                      path.replace('simplified_log.json', 'processed_log.json'), 
                      test_mode=False)
