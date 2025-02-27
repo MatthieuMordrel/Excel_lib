@@ -1,0 +1,752 @@
+[
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_3",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_1",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_4",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_5",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_6",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_7",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_8",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_9",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_2",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "L11",
+    "cleaned_formula": "L3+AA19",
+    "id": "CO2PBL80_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P80_10",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 80_22.839",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_80.0_30.248",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_1",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_3",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_2",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_4",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_7",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_5",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_8",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_6",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_9",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_1",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_2",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M11",
+    "cleaned_formula": "M3+AB19",
+    "id": "CO2PBL90_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_10",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 90_23.781",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_90.0_32.664",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_4",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_7",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_6",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_3",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_10",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_9",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_5",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N11",
+    "cleaned_formula": "N3+AC19",
+    "id": "CO2PBL100_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_8",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 100_24.843",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_100.0_35.08",
+        "quantity": 1
+      }
+    ]
+  }
+]

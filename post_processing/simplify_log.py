@@ -29,22 +29,61 @@ def is_drawer_formula(formula: str) -> tuple[bool, str]:
     if len(parts) != 3:
         return (False, "")
     
-    # Check if parts follow pattern W36+W35+W34 or R36+R35+R34
+    # Check if parts follow pattern within W30-W40 or R30-R40 range
     parts = [p.strip() for p in parts]
     
-    # Check for W pattern
-    if all(p.startswith('W') for p in parts) and parts == [f'W{i}' for i in range(36, 33, -1)]:
-        return (True, "binnenpottenlade")
+    # Check for W pattern (binnenpottenlade)
+    if all(p.startswith('W') for p in parts):
+        # Extract numbers from each part
+        try:
+            numbers = [int(p[1:]) for p in parts]
+            # Check if all numbers are within range 30-40
+            if all(30 <= num <= 40 for num in numbers):
+                return (True, "binnenpottenlade")
+        except ValueError:
+            # If conversion to int fails, it's not a valid pattern
+            pass
     
-    # Check for R pattern  
-    if all(p.startswith('R') for p in parts) and parts == [f'R{i}' for i in range(36, 33, -1)]:
-        return (True, "binnenlade")
+    # Check for R pattern (binnenlade)
+    if all(p.startswith('R') for p in parts):
+        # Extract numbers from each part
+        try:
+            numbers = [int(p[1:]) for p in parts]
+            # Check if all numbers are within range 30-40
+            if all(30 <= num <= 40 for num in numbers):
+                return (True, "binnenlade")
+        except ValueError:
+            # If conversion to int fails, it's not a valid pattern
+            pass
         
     return (False, "")
 
-def get_drawer_size(references: List[Dict[str, Any]], formula_type: str) -> float:
+def get_drawer_size(references: List[Dict[str, Any]], formula_type: str, formula: str = "") -> float:
     """Extract drawer size from references recursively"""
-    size_cell = 'V36' if formula_type == 'binnenpottenlade' else 'Q36'
+    # Determine the size cell based on the formula
+    size_cell = None
+    
+    if formula:
+        # Extract the first cell number from the formula
+        parts = formula.strip("=+").split("+")
+        if len(parts) > 0:
+            try:
+                # Get the first part (e.g., W36 or R36)
+                first_part = parts[0].strip()
+                # Extract the number
+                cell_num = int(first_part[1:]) if len(first_part) > 1 else 36
+                # Determine the corresponding size cell
+                if formula_type == 'binnenpottenlade':
+                    size_cell = f'V{cell_num}'
+                else:  # binnenlade
+                    size_cell = f'Q{cell_num}'
+            except (ValueError, IndexError):
+                # Default to the original values if parsing fails
+                size_cell = 'V36' if formula_type == 'binnenpottenlade' else 'Q36'
+    
+    # If we couldn't determine the size cell from the formula, use the default
+    if not size_cell:
+        size_cell = 'V36' if formula_type == 'binnenpottenlade' else 'Q36'
     
     def search_refs(refs: List[Dict[str, Any]]) -> float:
         for ref in refs:
@@ -69,7 +108,7 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
     is_drawer, drawer_type = is_drawer_formula(entry.get('cleaned_formula', ''))
     
     if is_drawer:
-        size = get_drawer_size(entry.get('references', []), drawer_type)
+        size = get_drawer_size(entry.get('references', []), drawer_type, entry.get('cleaned_formula', ''))
         return {
             "type": drawer_type,
             "cell": entry.get('cell'),
