@@ -1,0 +1,2 @@
+2025-02-27 10:09:39,218 - INFO - Starting batch request processing for file: c:\Users\matth\OneDrive - Matthieu Mordrel\Work\Projects\Kovera\Project 2\Scripts\Project\Batch File\File - Tab - Cell - (start of recursive resolver) - New.xlsx
+2025-02-27 10:09:41,314 - ERROR - Error reading batch requests: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
