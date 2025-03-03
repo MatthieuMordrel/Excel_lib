@@ -52,7 +52,13 @@ class CellInfoExtractor:
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str, product_id: str | None = None, top_product: bool = False) -> FormulaResult:
         self.logger.debug(f"Extracting cell info: {product_id}")
         """Extracts formula and value from a specific cell."""
-        
+
+        # The file Berekening Ladenkasten 794.xlsx was renamed to 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx, so we need to update the filename to the existing one
+        # Also, the sheet name is different
+        if filename == "Berekening Ladenkasten 794.xlsx":
+            filename = "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx"
+            sheet_name = "OVERZICHT COP"
+            self.logger.debug(f"Updated filename and sheet name: {filename} {sheet_name}")
         id = f"{filename}_{sheet_name}_{cell_ref}".replace(" ", "")
         self.logger.debug(f"Extracting cell info: {id}")
         

@@ -41,7 +41,7 @@ def write_unique_products_to_file(product_ids:List[str], output_path: Path):
         json.dump(product_ids, f, indent=2)
 
 if __name__ == "__main__":
-    input_file = Path("Logs/Current Logs/simplified_log.json")
+    input_file = Path("Logs/Previous Logs/External + Elements/simplified_log.")
     output_file = Path("Logs/Current Logs/unique_products.json")
     product_ids = extract_top_level_products(input_file)
     logging.info(f"Found {len(product_ids)} unique top-level products.")

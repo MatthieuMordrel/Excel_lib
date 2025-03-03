@@ -1,0 +1,353 @@
+{
+  "products": [
+    {
+      "cleaned_formula": "'CO40'!H59+'PLADE 40'!H39+FR396x790!H33+D28",
+      "count": 9,
+      "unique_ids": [
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E11"
+      ]
+    },
+    {
+      "cleaned_formula": "'CO45'!H59+'PLADE 45'!H39+FR446x790!H33+E28",
+      "count": 9,
+      "unique_ids": [
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F11"
+      ]
+    },
+    {
+      "cleaned_formula": "'CO50'!H59+'PLADE 50'!H39+FR496x790!H33+'OVERZICHT PO'!F28",
+      "count": 9,
+      "unique_ids": [
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G11"
+      ]
+    },
+    {
+      "cleaned_formula": "'CO40'!H59+'PLADE 40'!H39+FR396x790!H33+'OVERZICHT PO'!D28+'OVERZICHT PO'!D28",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3"
+      ]
+    },
+    {
+      "cleaned_formula": "SUM('CO40'!H59+'PLADE 40'!H39+FR396x790!H33+'OVERZICHT PO'!D28+'OVERZICHT PO'!D28)",
+      "count": 9,
+      "unique_ids": [
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E3"
+      ]
+    },
+    {
+      "cleaned_formula": "'CO45'!H59+'PLADE 45'!H39+FR446x790!H33+E28+E28",
+      "count": 9,
+      "unique_ids": [
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3"
+      ]
+    },
+    {
+      "cleaned_formula": "H3+'LADE 600x500'!I37",
+      "count": 2,
+      "unique_ids": [
+        "2022-P6BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2317KLEUR.xlsx_OVERZICHTCKP231_I3",
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_I3"
+      ]
+    },
+    {
+      "cleaned_formula": "G3+'LADE 600x500'!H37",
+      "count": 2,
+      "unique_ids": [
+        "2022-P6BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2317KLEUR.xlsx_OVERZICHTCKP231_H3",
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_OVERZICHTCKP213_H3"
+      ]
+    },
+    {
+      "cleaned_formula": "'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]CO40'!H59+4*('[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]LADE 40'!H37+'[2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx]FR396x196'!H33)",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2Berekening2bLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_F65"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+      "count": 29,
+      "unique_ids": [
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_CO40_H59",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO40_H59",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H33+H11+H5+H20",
+      "count": 28,
+      "unique_ids": [
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE40_H39",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+      "count": 29,
+      "unique_ids": [
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_FR396x196_H33",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR396x790_H33",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33"
+      ]
+    },
+    {
+      "cleaned_formula": "H35+H31+H11+H5+H20",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_H37"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "'E:\\COMFORTLINE\\[Berekening Ladenkasten 794.xlsx]OVERZICHT PO'!U19",
+      "count": 10,
+      "unique_ids": [
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_D28"
+      ]
+    },
+    {
+      "cleaned_formula": "'LADE 40'!H37+'LADE 40'!R37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_U19"
+      ]
+    },
+    {
+      "cleaned_formula": "R36+R35+R34",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_R37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R37"
+      ]
+    },
+    {
+      "cleaned_formula": "W13/100*Q36",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_R36",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R36",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R36"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I94",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W13",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_W13",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_W13"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 8,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R35",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_Q36",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_Q36",
+        "2022-P6BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2317KLEUR.xlsx_LADE600x500_I37",
+        "2022-P7BerekeningKolomPLadeF+O(11-12-14-17-18-19-20-21-23)2137-KLEUR.xlsx_LADE600x500_I37",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R35",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_R35",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_Q36"
+      ]
+    },
+    {
+      "cleaned_formula": "W4+W4",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R34",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R34",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_R34"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I92",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_W4",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE40_W4",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W4"
+      ]
+    },
+    {
+      "cleaned_formula": "'E:\\COMFORTLINE\\[Berekening Ladenkasten 794.xlsx]OVERZICHT PO'!V19",
+      "count": 9,
+      "unique_ids": [
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28"
+      ]
+    },
+    {
+      "cleaned_formula": "'LADE 45'!H37+'LADE 45'!R37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_V19"
+      ]
+    },
+    {
+      "cleaned_formula": "'E:\\COMFORTLINE\\[Berekening Ladenkasten 794.xlsx]OVERZICHT PO'!W19",
+      "count": 9,
+      "unique_ids": [
+        "2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28",
+        "2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28"
+      ]
+    },
+    {
+      "cleaned_formula": "'LADE 50'!H37+'LADE 50'!R37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19"
+      ]
+    }
+  ]
+}

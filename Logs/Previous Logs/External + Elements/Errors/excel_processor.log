@@ -1,0 +1,854 @@
+2025-03-03 11:01:08,363 - DEBUG - Extracting cell info: COPBL60_2
+2025-03-03 11:01:08,363 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:08,363 - DEBUG - Product ID already exists: COPBL60_2
+2025-03-03 11:01:10,171 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:10,172 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:10,172 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:10,172 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:10,172 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:10,176 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:10,176 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:10,176 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:10,176 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:10,176 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:10,180 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:10,180 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:10,180 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:10,180 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:10,180 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:10,184 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:10,184 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:10,184 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:10,184 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:10,184 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:10,188 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:10,188 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:10,188 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:10,188 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:10,188 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:10,188 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:12,297 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,298 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37
+2025-03-03 11:01:12,298 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,298 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37
+2025-03-03 11:01:12,298 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_H37
+2025-03-03 11:01:12,304 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,305 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R37
+2025-03-03 11:01:12,305 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,305 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R37
+2025-03-03 11:01:12,305 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R37
+2025-03-03 11:01:12,330 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,330 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R36
+2025-03-03 11:01:12,330 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,330 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R36
+2025-03-03 11:01:12,330 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R36
+2025-03-03 11:01:12,339 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,339 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W13
+2025-03-03 11:01:12,339 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,339 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W13
+2025-03-03 11:01:12,339 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W13
+2025-03-03 11:01:12,344 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,344 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I94
+2025-03-03 11:01:12,344 - ERROR - None
+2025-03-03 11:01:12,345 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,345 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_Q36
+2025-03-03 11:01:12,345 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,345 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_Q36
+2025-03-03 11:01:12,345 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_Q36
+2025-03-03 11:01:12,349 - WARNING - Cell has no formula: Q36 in LADE 60
+2025-03-03 11:01:12,352 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,352 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R35
+2025-03-03 11:01:12,352 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,352 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R35
+2025-03-03 11:01:12,352 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R35
+2025-03-03 11:01:12,359 - WARNING - Cell has no formula: R35 in LADE 60
+2025-03-03 11:01:12,360 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,360 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R34
+2025-03-03 11:01:12,360 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,360 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R34
+2025-03-03 11:01:12,360 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_R34
+2025-03-03 11:01:12,367 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,367 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W4
+2025-03-03 11:01:12,367 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:12,367 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W4
+2025-03-03 11:01:12,367 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE60_W4
+2025-03-03 11:01:12,379 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:12,379 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-03-03 11:01:12,379 - ERROR - None
+2025-03-03 11:01:12,380 - DEBUG - Extracting cell info: COPBL60_3
+2025-03-03 11:01:12,380 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:12,380 - DEBUG - Product ID already exists: COPBL60_3
+2025-03-03 11:01:14,224 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:14,224 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:14,225 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:14,225 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:14,225 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:14,232 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:14,232 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:14,232 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:14,232 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:14,232 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:14,239 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:14,239 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:14,239 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:14,239 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:14,239 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:14,243 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:14,243 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:14,243 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:14,243 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:14,243 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:14,248 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:14,248 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:14,248 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:14,248 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:14,248 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:14,248 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:14,254 - DEBUG - Extracting cell info: COPBL60_4
+2025-03-03 11:01:14,254 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:14,254 - DEBUG - Product ID already exists: COPBL60_4
+2025-03-03 11:01:16,935 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:16,935 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:16,935 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:16,935 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:16,935 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:16,944 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:16,944 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:16,944 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:16,944 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:16,944 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:16,949 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:16,949 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:16,949 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:16,949 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:16,949 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:16,952 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:16,953 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:16,953 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:16,953 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:16,953 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:16,956 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:16,956 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:16,956 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:16,956 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:16,956 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:16,956 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:16,960 - DEBUG - Extracting cell info: COPBL60_5
+2025-03-03 11:01:16,960 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:16,960 - DEBUG - Product ID already exists: COPBL60_5
+2025-03-03 11:01:18,779 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,780 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:18,780 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,780 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:18,780 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:18,784 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,784 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:18,784 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,784 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:18,784 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:18,788 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,788 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:18,788 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,788 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:18,788 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:18,791 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,791 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:18,791 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,791 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:18,792 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:18,795 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,795 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:18,795 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:18,795 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,795 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:18,795 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:18,800 - DEBUG - Extracting cell info: COPBL50FLES_2
+2025-03-03 11:01:18,800 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:18,800 - DEBUG - Product ID already exists: COPBL50FLES_2
+2025-03-03 11:01:18,803 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,803 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:18,803 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,803 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:18,803 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:18,809 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,809 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:18,809 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,809 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:18,809 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:18,814 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,814 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:18,814 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,814 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:18,814 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:18,817 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,817 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:18,817 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,817 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:18,817 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:18,821 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,821 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:18,821 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:18,821 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,821 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:18,821 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:18,826 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,826 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37
+2025-03-03 11:01:18,826 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,826 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37
+2025-03-03 11:01:18,826 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_H37
+2025-03-03 11:01:18,832 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,832 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R37
+2025-03-03 11:01:18,832 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,832 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R37
+2025-03-03 11:01:18,832 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R37
+2025-03-03 11:01:18,837 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,837 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R36
+2025-03-03 11:01:18,837 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,837 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R36
+2025-03-03 11:01:18,837 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R36
+2025-03-03 11:01:18,842 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,842 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W13
+2025-03-03 11:01:18,842 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,842 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W13
+2025-03-03 11:01:18,842 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W13
+2025-03-03 11:01:18,847 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,847 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I94
+2025-03-03 11:01:18,847 - ERROR - None
+2025-03-03 11:01:18,848 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,848 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_Q36
+2025-03-03 11:01:18,848 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,848 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_Q36
+2025-03-03 11:01:18,848 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_Q36
+2025-03-03 11:01:18,854 - WARNING - Cell has no formula: Q36 in LADE 50
+2025-03-03 11:01:18,855 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,855 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R35
+2025-03-03 11:01:18,855 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,855 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R35
+2025-03-03 11:01:18,855 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R35
+2025-03-03 11:01:18,860 - WARNING - Cell has no formula: R35 in LADE 50
+2025-03-03 11:01:18,861 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,861 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R34
+2025-03-03 11:01:18,861 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,861 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R34
+2025-03-03 11:01:18,861 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_R34
+2025-03-03 11:01:18,867 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,867 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W4
+2025-03-03 11:01:18,867 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:18,867 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W4
+2025-03-03 11:01:18,867 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE50_W4
+2025-03-03 11:01:18,871 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:18,872 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I92
+2025-03-03 11:01:18,872 - ERROR - None
+2025-03-03 11:01:18,872 - DEBUG - Extracting cell info: COPBL60_6
+2025-03-03 11:01:18,873 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:18,873 - DEBUG - Product ID already exists: COPBL60_6
+2025-03-03 11:01:20,689 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:20,689 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:20,689 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:20,689 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:20,689 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:20,693 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:20,693 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:20,693 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:20,693 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:20,693 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:20,698 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:20,698 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:20,698 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:20,698 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:20,698 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:20,702 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:20,702 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:20,702 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:20,702 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:20,702 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:20,705 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:20,705 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:20,705 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:20,705 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:20,705 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:20,705 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:20,709 - DEBUG - Extracting cell info: COPBL60FLES_1
+2025-03-03 11:01:20,710 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:20,710 - DEBUG - Product ID already exists: COPBL60FLES_1
+2025-03-03 11:01:26,959 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:26,959 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:26,959 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:26,960 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:26,960 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:26,964 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:26,964 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:26,964 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:26,964 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:26,964 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:26,969 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:26,969 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:26,969 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:26,970 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:26,970 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:26,974 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:26,975 - DEBUG - Extracting cell info: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:26,975 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:26,975 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:26,975 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:26,979 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:26,979 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:26,979 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:26,979 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:26,979 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:26,979 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:26,983 - DEBUG - Extracting cell info: COPBL60_7
+2025-03-03 11:01:26,983 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:26,983 - DEBUG - Product ID already exists: COPBL60_7
+2025-03-03 11:01:28,746 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,746 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,746 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,746 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,746 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,751 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,751 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,751 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,751 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,751 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,756 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,756 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,756 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,756 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,756 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,762 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,762 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,762 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,762 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,762 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,766 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,766 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:28,766 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:28,766 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,766 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:28,766 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:28,770 - DEBUG - Extracting cell info: COPBL60FLES_2
+2025-03-03 11:01:28,770 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:28,770 - DEBUG - Product ID already exists: COPBL60FLES_2
+2025-03-03 11:01:28,774 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,774 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,774 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,774 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,774 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:28,779 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,779 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,779 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,779 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,779 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:28,784 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,784 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,784 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,784 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,784 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:28,788 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,788 - DEBUG - Extracting cell info: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,788 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,788 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,788 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:28,792 - DEBUG - Extracting cell info: COPBL50FLES_3
+2025-03-03 11:01:28,792 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:28,792 - DEBUG - Product ID already exists: COPBL50FLES_3
+2025-03-03 11:01:28,796 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,796 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:28,796 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,796 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:28,796 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:28,800 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,801 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:28,801 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,801 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:28,801 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:28,807 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,807 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:28,807 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,807 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:28,807 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:28,812 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,812 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:28,812 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,812 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:28,812 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:28,817 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:28,817 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:28,817 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:28,817 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:28,817 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:28,817 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:28,822 - DEBUG - Extracting cell info: COPBL60_8
+2025-03-03 11:01:28,822 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:28,822 - DEBUG - Product ID already exists: COPBL60_8
+2025-03-03 11:01:30,661 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,661 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,661 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,661 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,661 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,666 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,666 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,666 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,666 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,666 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,672 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,672 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,672 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,672 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,672 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,676 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,676 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,676 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,676 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,676 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,680 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,680 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:30,680 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:30,680 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,680 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:30,680 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:30,685 - DEBUG - Extracting cell info: COPBL50FLES_4
+2025-03-03 11:01:30,685 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:30,685 - DEBUG - Product ID already exists: COPBL50FLES_4
+2025-03-03 11:01:30,689 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,689 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,689 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,689 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,689 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,694 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,694 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,694 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,694 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,694 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,700 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,700 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,700 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,700 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,700 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,704 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,704 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,704 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,704 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,704 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,708 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,708 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:30,708 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,708 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,708 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,708 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,713 - DEBUG - Extracting cell info: COPBL50FLES_5
+2025-03-03 11:01:30,713 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:30,713 - DEBUG - Product ID already exists: COPBL50FLES_5
+2025-03-03 11:01:30,717 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,717 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,717 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,717 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,717 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,723 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,723 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,723 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,723 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,723 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,730 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,730 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,730 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,730 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,730 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,736 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,736 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,736 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,736 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,736 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,741 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,742 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:30,742 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,742 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,742 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,742 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,747 - DEBUG - Extracting cell info: COPBL60FLES_3
+2025-03-03 11:01:30,747 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:30,747 - DEBUG - Product ID already exists: COPBL60FLES_3
+2025-03-03 11:01:30,752 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,752 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,752 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,752 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,752 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,756 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,756 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,757 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,757 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,757 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,762 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,762 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,762 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,762 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,762 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,766 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,766 - DEBUG - Extracting cell info: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,766 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,766 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,766 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,770 - DEBUG - Extracting cell info: COPBL50FLES_6
+2025-03-03 11:01:30,770 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:30,770 - DEBUG - Product ID already exists: COPBL50FLES_6
+2025-03-03 11:01:30,776 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,776 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,776 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,776 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,776 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,781 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,781 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,781 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,781 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,781 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,787 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,787 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,787 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,787 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,787 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,792 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,792 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,792 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,792 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,792 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,797 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,797 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:30,797 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,797 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,797 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,797 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,801 - DEBUG - Extracting cell info: COPBL60FLES_4
+2025-03-03 11:01:30,802 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:30,802 - DEBUG - Product ID already exists: COPBL60FLES_4
+2025-03-03 11:01:30,806 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,806 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,806 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,806 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,806 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:30,811 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,811 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,811 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,811 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,811 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:30,817 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,817 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,817 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,817 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,817 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:30,822 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,822 - DEBUG - Extracting cell info: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,822 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,822 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,822 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:30,826 - DEBUG - Extracting cell info: COPBL50FLES_7
+2025-03-03 11:01:30,827 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:30,827 - DEBUG - Product ID already exists: COPBL50FLES_7
+2025-03-03 11:01:30,831 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,831 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,831 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,831 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,831 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:30,837 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,837 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,837 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,837 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,837 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:30,843 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,843 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,843 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,843 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,843 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:30,847 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,847 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,847 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,847 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,847 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:30,852 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:30,852 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:30,852 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,852 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:30,852 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,852 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:30,857 - DEBUG - Extracting cell info: COPBL60_9
+2025-03-03 11:01:30,857 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:30,857 - DEBUG - Product ID already exists: COPBL60_9
+2025-03-03 11:01:32,617 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,618 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,618 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,618 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,618 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,624 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,625 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,625 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,625 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,625 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,630 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,630 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,630 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,630 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,630 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,634 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,634 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,634 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,634 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,634 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,638 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,638 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:32,638 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:32,638 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,638 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:32,638 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:32,642 - DEBUG - Extracting cell info: COPBL60FLES_5
+2025-03-03 11:01:32,642 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:32,642 - DEBUG - Product ID already exists: COPBL60FLES_5
+2025-03-03 11:01:32,646 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,646 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,646 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,646 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,646 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,650 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,650 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,650 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,650 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,650 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,656 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,656 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,656 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,656 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,656 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,661 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,661 - DEBUG - Extracting cell info: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,661 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,661 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,661 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,665 - DEBUG - Extracting cell info: COPBL50FLES_8
+2025-03-03 11:01:32,666 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:32,666 - DEBUG - Product ID already exists: COPBL50FLES_8
+2025-03-03 11:01:32,670 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,670 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:32,670 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,670 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:32,670 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:32,675 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,675 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:32,676 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,676 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:32,676 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:32,682 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,682 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:32,682 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,682 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:32,682 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:32,687 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,687 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:32,687 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,687 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:32,687 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:32,691 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,691 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:32,691 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:32,691 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,691 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:32,691 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:32,697 - DEBUG - Extracting cell info: COPBL60FLES_6
+2025-03-03 11:01:32,697 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:32,697 - DEBUG - Product ID already exists: COPBL60FLES_6
+2025-03-03 11:01:32,701 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,702 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,702 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,702 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,702 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:32,707 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,707 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,707 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,707 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,707 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:32,714 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,714 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,714 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,714 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,714 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:32,719 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:32,719 - DEBUG - Extracting cell info: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,719 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:32,719 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,719 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:32,750 - DEBUG - Extracting cell info: COPBL60_10
+2025-03-03 11:01:32,750 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H11
+2025-03-03 11:01:32,750 - DEBUG - Product ID already exists: COPBL60_10
+2025-03-03 11:01:34,545 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,545 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,545 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,545 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,545 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,550 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,550 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,550 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,550 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,550 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,556 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,556 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,556 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,556 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,556 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,560 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,560 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,560 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,560 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,560 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,564 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,564 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:34,564 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:34,564 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,565 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:34,565 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_Y19
+2025-03-03 11:01:34,569 - DEBUG - Extracting cell info: COPBL60FLES_7
+2025-03-03 11:01:34,569 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:34,569 - DEBUG - Product ID already exists: COPBL60FLES_7
+2025-03-03 11:01:34,573 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,573 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,573 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,573 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,574 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,578 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,578 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,578 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,578 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,578 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,584 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,584 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,584 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,584 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,584 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,588 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,588 - DEBUG - Extracting cell info: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,588 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,588 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,588 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,594 - DEBUG - Extracting cell info: COPBL50FLES_9
+2025-03-03 11:01:34,594 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:34,594 - DEBUG - Product ID already exists: COPBL50FLES_9
+2025-03-03 11:01:34,599 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,599 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,599 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,599 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,599 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,605 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,606 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,606 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,606 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,606 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,612 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,612 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,612 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,612 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,612 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,616 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,617 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,617 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,617 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,617 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,621 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,622 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:34,622 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,622 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,622 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,622 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,627 - DEBUG - Extracting cell info: COPBL60FLES_8
+2025-03-03 11:01:34,628 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:34,628 - DEBUG - Product ID already exists: COPBL60FLES_8
+2025-03-03 11:01:34,632 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,632 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,632 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,632 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,632 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,637 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,638 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,638 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,638 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,638 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,644 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,644 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,644 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,644 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,644 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,648 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,648 - DEBUG - Extracting cell info: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,649 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,649 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,649 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,653 - DEBUG - Extracting cell info: COPBL50FLES_10
+2025-03-03 11:01:34,653 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_G3
+2025-03-03 11:01:34,653 - DEBUG - Product ID already exists: COPBL50FLES_10
+2025-03-03 11:01:34,659 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,659 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,659 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,659 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,659 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO50_H59
+2025-03-03 11:01:34,665 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,665 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,665 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,665 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,665 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE50_H39
+2025-03-03 11:01:34,673 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,673 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,673 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,673 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,673 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR496x790_H33
+2025-03-03 11:01:34,678 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,678 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,678 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,678 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,678 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F28
+2025-03-03 11:01:34,682 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,682 - DEBUG - Updated filename and sheet name: 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx OVERZICHT COP
+2025-03-03 11:01:34,682 - DEBUG - Extracting cell info: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,682 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,682 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,682 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_W19
+2025-03-03 11:01:34,687 - DEBUG - Extracting cell info: COPBL60FLES_9
+2025-03-03 11:01:34,687 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:34,687 - DEBUG - Product ID already exists: COPBL60FLES_9
+2025-03-03 11:01:34,697 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,697 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,697 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,697 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,697 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,705 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,705 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,705 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,705 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,705 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,711 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,711 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,711 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,711 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,711 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,716 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,716 - DEBUG - Extracting cell info: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,716 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,716 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,716 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,722 - DEBUG - Extracting cell info: COPBL60FLES_10
+2025-03-03 11:01:34,722 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H3
+2025-03-03 11:01:34,723 - DEBUG - Product ID already exists: COPBL60FLES_10
+2025-03-03 11:01:34,729 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,729 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,729 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,729 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,729 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO60_H59
+2025-03-03 11:01:34,736 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,736 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,736 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,736 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,736 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE60_H39
+2025-03-03 11:01:34,743 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,743 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,743 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,743 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,743 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR596x790_H33
+2025-03-03 11:01:34,750 - DEBUG - Extracting cell info: None
+2025-03-03 11:01:34,750 - DEBUG - Extracting cell info: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,750 - DEBUG - Product ID already exists: None
+2025-03-03 11:01:34,750 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28
+2025-03-03 11:01:34,750 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_H28

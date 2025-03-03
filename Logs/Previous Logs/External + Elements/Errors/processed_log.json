@@ -1,0 +1,982 @@
+[
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_15.517",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_13.442",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_35.199",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_29.501",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_50.477",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_55.657",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_9.173",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_15.517",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_25.08",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_60.836",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_29.821",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_33.916",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_29.501",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_35.199",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_42.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_81.553",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_51.157",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_40.119",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_46.847",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_50.477",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_55.657",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_97.09",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_68.398",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_60.836",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G3",
+    "cleaned_formula": "F28+F28+'CO50'!H59+'PLADE 50'!H39+FR496x790!H33",
+    "id": "COPBL50FLES_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 50_20.064",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_50.0_23.0",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO50_51.683",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 50_38.514",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR496x790_81.328",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_81.553",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H3",
+    "cleaned_formula": "H28+H28+'CO60'!H59+'PLADE 60'!H39+FR596x790!H33",
+    "id": "COPBL60FLES_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_97.09",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 2
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H11",
+    "cleaned_formula": "'CO60'!H59+'PLADE 60'!H39+FR596x790!H33+H28",
+    "id": "COPBL60_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO60_53.766",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "PLADE 60_39.113",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x790_40.119",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 60_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "binnenlade",
+        "id": "binnenlade_60.0_25.416",
+        "quantity": 1
+      }
+    ]
+  }
+]
