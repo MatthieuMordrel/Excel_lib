@@ -3,5 +3,9 @@
   "has_both": 0,
   "has_multiplication": 328,
   "has_division": 0,
-  "has_neither": 0
+  "has_neither": 0,
+  "total_errors": 0,
+  "file_errors": 0,
+  "sheet_errors": 0,
+  "other_errors": 0
 }

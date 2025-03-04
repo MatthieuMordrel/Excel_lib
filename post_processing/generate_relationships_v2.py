@@ -53,7 +53,7 @@ def extract_relationships(data: List[Dict[str, Any]]) -> Dict[str, List[Dict[str
                 relationships['product_element'].append(relationship)
             elif ref.get('type') == 'product':
                 relationships['product_product'].append(relationship)
-            elif ref.get('type') == 'base_material':
+            elif ref.get('type') == 'baseMaterial':
                 relationships['product_base_material'].append(relationship)
             elif ref.get('type') == 'binnenlade':
                 relationships['product_binnenlade'].append(relationship)

@@ -52,7 +52,10 @@ class CellInfoExtractor:
     def extract_cell_info(self, filename: str, sheet_name: str, cell_ref: str, product_id: str | None = None, top_product: bool = False) -> FormulaResult:
         self.logger.debug(f"Extracting cell info: {product_id}")
         """Extracts formula and value from a specific cell."""
-
+        print(filename)
+        if filename == "calculatie cat 2022 .xlsx":
+            filename = "calculatie cat 2022.xlsx"
+            self.logger.debug(f"Updated filename: {filename}")
         # The file Berekening Ladenkasten 794.xlsx was renamed to 2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx, so we need to update the filename to the existing one
         # Also, the sheet name is different
         if filename == "Berekening Ladenkasten 794.xlsx":
@@ -64,7 +67,7 @@ class CellInfoExtractor:
         
         file_path = self.file_index.get(filename)
         if not file_path:
-            error_msg = f"File Error: File {filename} not found in index" if filename != "calculatie cat 2022.xlsx" else None
+            error_msg = f"File Error: File {filename} not found in index" if filename != "calculatie cat 2022.xlsx" and filename != "calculatie cat 2022 .xlsx".replace(" ", "") else None
             self.logger.error(error_msg)
             return FormulaResult({
                 "id": id,
