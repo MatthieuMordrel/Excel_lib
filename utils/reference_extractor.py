@@ -85,7 +85,7 @@ class ReferenceExtractor:
         
         updated_formula = cleaned_formula
         processed: Set[Tuple[str, str, str]] = set()
-
+        
         # First, extract and remove all external references
         external_refs: List[FormulaResult] = []
         for match in re.findall(pattern1, cleaned_formula):

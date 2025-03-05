@@ -25,13 +25,15 @@ def extract_relationships(data: List[Dict[str, Any]]) -> Dict[str, List[Dict[str
     - product_base_material: Product to Base Material relationships
     - product_binnenlade: Product to Binnenlade relationships
     - product_binnenpottenlade: Product to Binnenpottenlade relationships
+    - product_hardcoded: Product to Hardcoded relationships
     """
     relationships: Dict[str, List[Dict[str, Union[str, int]]]] = {
         'product_element': [],
         'product_product': [],
         'product_base_material': [],
         'product_binnenlade': [],
-        'product_binnenpottenlade': []
+        'product_binnenpottenlade': [],
+        'product_hardcoded': []
     }
 
     for product in data:
@@ -59,6 +61,8 @@ def extract_relationships(data: List[Dict[str, Any]]) -> Dict[str, List[Dict[str
                 relationships['product_binnenlade'].append(relationship)
             elif ref.get('type') == 'binnenpottenlade':
                 relationships['product_binnenpottenlade'].append(relationship)
+            elif ref.get('type') == 'hardcoded':
+                relationships['product_hardcoded'].append(relationship)
                 
     return relationships
 
@@ -129,6 +133,13 @@ def create_relationship_sheet(workbook: openpyxl.Workbook,
         ['product_id', 'related_id', 'quantity']
     )
 
+    # Add Product-Hardcoded relationships
+    add_relationship_table(
+        "Product-Hardcoded Relationships",
+        relationships['product_hardcoded'],
+        ['product_id', 'related_id', 'quantity']
+    )
+
 def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
     """
     Main function to generate relationships from processed_log.json format
@@ -149,6 +160,7 @@ def generate_relationships_v2(log_path: Path, excel_path: Path) -> None:
         print(f"  - Product-BaseMaterial: {len(relationships['product_base_material'])}")
         print(f"  - Product-Binnenlade: {len(relationships['product_binnenlade'])}")
         print(f"  - Product-Binnenpottenlade: {len(relationships['product_binnenpottenlade'])}")
+        print(f"  - Product-Hardcoded: {len(relationships['product_hardcoded'])}")
         
         # Create or load Excel workbook
         if excel_path.exists():

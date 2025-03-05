@@ -248,3 +248,33 @@ class TestReferenceExtractor:
         # Check updated formula
         expected_id = "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx_OVERZICHT COP_Y20".replace(" ", "")
         assert expected_id in updated_formula
+
+    def test_handle_special_case_with_slashes(self):
+        """Test extracting references from formulas with slashes."""
+        formula = "'[calculatie cat 2022 .xlsx]c.basis'!I65*3"
+        parent_file = "test.xlsx"
+        parent_sheet = "Sheet1"
+
+        refs, updated_formula = self.extractor.extract_references(formula, parent_file, parent_sheet)
+
+        assert len(refs) == 1
+        assert refs[0]["file"] == "calculatie cat 2022 .xlsx"
+        assert refs[0]["sheet"] == "c.basis"
+        assert refs[0]["cell"] == "I65"
+
+        assert updated_formula == "calculatiecat2022.xlsx_c.basis_I65*3"
+    
+    def test_handle_special_case_with_slashes_second_case(self):
+        """Test extracting references from formulas with slashes and asterisk."""
+        formula = "'[calculatie cat 2022 .xlsx]c.basis'!I65*7"
+        parent_file = "test.xlsx"
+        parent_sheet = "Sheet1"
+
+        refs, updated_formula = self.extractor.extract_references(formula, parent_file, parent_sheet)
+
+        assert len(refs) == 1
+        assert refs[0]["file"] == "calculatie cat 2022 .xlsx"
+        assert refs[0]["sheet"] == "c.basis"
+        assert refs[0]["cell"] == "I65" 
+
+        assert updated_formula == "calculatiecat2022.xlsx_c.basis_I65*7"

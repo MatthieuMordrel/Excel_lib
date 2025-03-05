@@ -16,7 +16,7 @@ load_dotenv()
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-PROMPT = open('post_processing/Prompts/prompt_price_base_material.txt', 'r').read()
+PROMPT = open('post_processing/Prompts/prompt_price_hardcoded_BM.txt', 'r').read()
 
 # Configure logging
 logging.basicConfig(

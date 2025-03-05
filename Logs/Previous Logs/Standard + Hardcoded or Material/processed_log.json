@@ -1,0 +1,5082 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_160.522",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_144.313",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_86.478",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_174.521",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_104.528",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_218.726",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_203.991",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_292.402",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_233.461",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C70B45-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB45_336.608",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_90.889",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_110.07",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_169.57",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_184.445",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_152.346",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_215.761",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_231.419",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_247.077",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_309.708",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB50_356.682",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_95.299",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_115.611",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_160.379",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_194.369",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_244.111",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_178.617",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_227.53",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_260.692",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_327.015",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C70B55-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB55_376.757",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_121.152",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_168.411",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_99.71",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_187.665",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_256.804",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_204.293",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_239.3",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_274.307",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_344.321",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D25",
+    "cleaned_formula": "(D23*C25)+A26",
+    "id": "C132B45-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B45_82.763",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F25",
+    "cleaned_formula": "(F23*C25)+A26",
+    "id": "C132B55-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B55_89.653",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C70B60-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70OB60_396.831",
+        "quantity": 1
+      },
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E25",
+    "cleaned_formula": "(E23*C25)+A26",
+    "id": "C132B50-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B50_86.206",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G25",
+    "cleaned_formula": "(G23*C25)+A26",
+    "id": "C132B60-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B60_93.098",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_82.763",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_166.886",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_190.193",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_109.678",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_252.698",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_252.698",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_295.074",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_273.886",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_379.827",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_443.391",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _86.208",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _114.941",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _175.906",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _267.354",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _267.354",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _289.933",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _312.513",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _200.744",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _402.832",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _470.57",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _89.653",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _120.205",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _211.295",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _282.01",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _184.927",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _282.01",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _305.981",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _329.952",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _497.75",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _425.837",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _93.096",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _125.464",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _193.938",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _221.835",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _296.649",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _296.649",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _347.371",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _322.01",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _524.897",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _448.814",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D25",
+    "cleaned_formula": "(D23*C25)+A26",
+    "id": "C132BL45-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B45_96.572",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_3.957",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E25",
+    "cleaned_formula": "(E23*C25)+A26",
+    "id": "C132BL50-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B50_101.099",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_4.127",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F25",
+    "cleaned_formula": "(F23*C25)+A26",
+    "id": "C132BL55-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B55_105.634",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_4.308",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G25",
+    "cleaned_formula": "(G23*C25)+A26",
+    "id": "C132BL60-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B60_110.166",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_4.468",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_96.572",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_3.957",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_119.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_5.135",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_189.774",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_8.789",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_248.713",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_9.702",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_289.163",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_11.626",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_169.371",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_7.731",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_313.192",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_12.587",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_281.585",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_13.549",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_433.338",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_17.395",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _101.103",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_4.127",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132BL45KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_411.419",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_20.28",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _125.154",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_5.437",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _178.165",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_8.325",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _199.762",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_9.501",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _264.083",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_10.517",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _333.426",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_13.725",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _307.66",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_12.656",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _296.948",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_14.794",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _105.634",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_4.308",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _462.256",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_19.072",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132BL50KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _434.383",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_22.28",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _131.016",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_5.758",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _186.958",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_8.954",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _279.453",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_11.38",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _326.157",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_13.748",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _312.311",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_16.115",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _491.175",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_20.85",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _457.348",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_24.401",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _209.75",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_10.256",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _110.161",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_4.468",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _136.869",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_6.043",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _195.734",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_9.512",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _219.715",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_10.925",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _294.797",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_12.146",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _353.66",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_14.931",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _344.621",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_14.716",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _373.858",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_16.001",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _520.039",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_22.426",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_83.895",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _327.634",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_17.286",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132BL60KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _480.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_26.281",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _87.382",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _90.87",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _94.356",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_112.187",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_172.284",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_196.768",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_83.895",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_262.43",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_284.689",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_217.914",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_306.947",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_395.98",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141B45KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_462.755",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _87.382",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _117.561",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _181.549",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _230.133",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _207.619",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _277.532",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _301.231",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _324.93",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _490.826",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141B50KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _419.728",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _90.87",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _122.936",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _190.815",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _218.469",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _242.353",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _292.633",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _317.774",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _443.475",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _342.914",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141B55KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _518.896",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _128.306",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _200.071",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _229.309",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _254.559",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _334.298",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _360.877",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _94.356",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _307.718",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _546.934",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D25",
+    "cleaned_formula": "(D23*C25)+A26",
+    "id": "C141BL45-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B45_97.719",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_3.957",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E25",
+    "cleaned_formula": "(E23*C25)+A26",
+    "id": "C141BL50-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B50_102.289",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_4.127",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F25",
+    "cleaned_formula": "(F23*C25)+A26",
+    "id": "C141BL55-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B55_106.868",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_4.308",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141B60KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _467.195",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_97.719",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_3.957",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_173.232",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_7.731",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_194.395",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_8.789",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_121.287",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_5.135",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G25",
+    "cleaned_formula": "(G23*C25)+A26",
+    "id": "C141BL60-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "1323B60_111.442",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_4.468",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_248.713",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_9.702",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_324.011",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_12.587",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_349.11",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_13.549",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_449.508",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_17.395",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _102.294",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_4.127",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _182.086",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_8.325",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _204.449",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_9.501",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _264.083",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_10.517",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB45kl_366.584",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep 45_18.578",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 446x196_17.395",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _344.74",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_13.725",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _371.626",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_14.794",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _479.169",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_19.072",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _127.197",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_5.437",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _133.107",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_5.758",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _214.502",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_10.256",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _190.94",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_8.954",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB50kl _386.397",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep50_18.859",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 496x196 (2)_19.072",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _279.453",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_11.38",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _106.868",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_4.308",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _365.469",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_14.931",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _394.141",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_16.115",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _508.83",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_20.85",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _406.209",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_20.85",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _139.008",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_6.043",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _111.438",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_4.468",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _199.776",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_9.512",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _224.533",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_10.925",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _294.797",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_12.146",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _416.616",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_17.286",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _386.161",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_16.001",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _538.436",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_22.426",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB60kl _425.967",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep60_19.242",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (4)_22.426",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  }
+]

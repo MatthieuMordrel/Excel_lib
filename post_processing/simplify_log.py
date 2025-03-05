@@ -117,7 +117,7 @@ def process_entry(entry: Dict[str, Any], is_top: bool = True) -> Dict[str, Any]:
         }
     
     # Determine entry type first
-    entry_type = "product" if entry.get("isProduct", False) else "element" if entry.get("isElement", False) else "baseMaterial" if entry.get("isBaseMaterial", False) else "none"
+    entry_type = "product" if entry.get("isProduct", False) else "element" if entry.get("isElement", False) else "baseMaterial" if entry.get("isBaseMaterial", False) else "hardcoded" if entry.get("updated_formula") == "Cellhasnoformulainfile" else "none"
     
     # For elements, return only type and id
     if entry_type == "element":

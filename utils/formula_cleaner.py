@@ -38,7 +38,8 @@ class FormulaCleaner:
         # Remove the base URL
         base_urls = [
             "https://mordrel-my.sharepoint.com/Kovera/BASISMATERIALEN/",
-            "https://mordrel-my.sharepoint.com/personal/matthieu_mordrel_pro/Documents/Work/Projects/Kovera/Project 2/BASISMATERIALEN/"
+            "https://mordrel-my.sharepoint.com/personal/matthieu_mordrel_pro/Documents/Work/Projects/Kovera/Project 2/BASISMATERIALEN/",
+            "\\\\LS420D340\\Zaak\\Kovera\\BASISMATERIALEN\\"
         ]
         for base_url in base_urls:
             cleaned_formula = cleaned_formula.replace(base_url, "")
