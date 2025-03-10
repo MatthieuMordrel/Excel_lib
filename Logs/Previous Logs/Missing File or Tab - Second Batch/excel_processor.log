@@ -1,0 +1,312 @@
+2025-03-10 15:10:05,127 - DEBUG - Extracting cell info: C79B30_10
+2025-03-10 15:10:05,127 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_D12
+2025-03-10 15:10:05,127 - DEBUG - Product ID already exists: C79B30_10
+2025-03-10 15:10:06,984 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:06,985 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:06,985 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:06,985 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:06,985 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:06,987 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:06,988 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:06,988 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_D10
+2025-03-10 15:10:06,988 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:06,988 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_D10
+2025-03-10 15:10:06,988 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_D10
+2025-03-10 15:10:06,991 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:06,991 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO30_H59
+2025-03-10 15:10:06,991 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:06,991 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO30_H59
+2025-03-10 15:10:06,991 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO30_H59
+2025-03-10 15:10:06,995 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:06,995 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE296x790_H39
+2025-03-10 15:10:06,995 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:06,995 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE296x790_H39
+2025-03-10 15:10:06,995 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE296x790_H39
+2025-03-10 15:10:07,000 - DEBUG - Extracting cell info: C79B35_10
+2025-03-10 15:10:07,000 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_E12
+2025-03-10 15:10:07,000 - DEBUG - Product ID already exists: C79B35_10
+2025-03-10 15:10:07,003 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,003 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_E10
+2025-03-10 15:10:07,003 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,003 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_E10
+2025-03-10 15:10:07,003 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_E10
+2025-03-10 15:10:07,006 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,006 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO35_H59
+2025-03-10 15:10:07,006 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,006 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO35_H59
+2025-03-10 15:10:07,006 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO35_H59
+2025-03-10 15:10:07,011 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,011 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790_H39
+2025-03-10 15:10:07,011 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,011 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790_H39
+2025-03-10 15:10:07,011 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790_H39
+2025-03-10 15:10:07,015 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,015 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,015 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,015 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,015 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,018 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,019 - DEBUG - Extracting cell info: C79B40_10
+2025-03-10 15:10:07,019 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_F12
+2025-03-10 15:10:07,019 - DEBUG - Product ID already exists: C79B40_10
+2025-03-10 15:10:07,023 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,023 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,023 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,023 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,023 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,026 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,026 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,027 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_F10
+2025-03-10 15:10:07,027 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,027 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_F10
+2025-03-10 15:10:07,027 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_F10
+2025-03-10 15:10:07,030 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,031 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO40_H59
+2025-03-10 15:10:07,031 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,031 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO40_H59
+2025-03-10 15:10:07,031 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO40_H59
+2025-03-10 15:10:07,036 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,036 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790_H39
+2025-03-10 15:10:07,037 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,037 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790_H39
+2025-03-10 15:10:07,037 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790_H39
+2025-03-10 15:10:07,041 - DEBUG - Extracting cell info: C79B45_10
+2025-03-10 15:10:07,041 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_G12
+2025-03-10 15:10:07,041 - DEBUG - Product ID already exists: C79B45_10
+2025-03-10 15:10:07,045 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,045 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_G10
+2025-03-10 15:10:07,045 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,045 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_G10
+2025-03-10 15:10:07,045 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_G10
+2025-03-10 15:10:07,048 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,049 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO45_H59
+2025-03-10 15:10:07,049 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,049 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO45_H59
+2025-03-10 15:10:07,049 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_CO45_H59
+2025-03-10 15:10:07,053 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,053 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790_H39
+2025-03-10 15:10:07,054 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,054 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790_H39
+2025-03-10 15:10:07,054 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790_H39
+2025-03-10 15:10:07,057 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,057 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,057 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,057 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,058 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,060 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,060 - DEBUG - Extracting cell info: C79B50_10
+2025-03-10 15:10:07,060 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_H12
+2025-03-10 15:10:07,060 - DEBUG - Product ID already exists: C79B50_10
+2025-03-10 15:10:07,063 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,063 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_H10
+2025-03-10 15:10:07,063 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,063 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_H10
+2025-03-10 15:10:07,063 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_H10
+2025-03-10 15:10:07,067 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,067 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO50_H59
+2025-03-10 15:10:07,067 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,067 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO50_H59
+2025-03-10 15:10:07,067 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO50_H59
+2025-03-10 15:10:07,072 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,072 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790_H39
+2025-03-10 15:10:07,072 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,072 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790_H39
+2025-03-10 15:10:07,072 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790_H39
+2025-03-10 15:10:07,076 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,076 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,076 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,076 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,076 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,079 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,080 - DEBUG - Extracting cell info: C79B55_10
+2025-03-10 15:10:07,080 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_I12
+2025-03-10 15:10:07,080 - DEBUG - Product ID already exists: C79B55_10
+2025-03-10 15:10:07,083 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,083 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_I10
+2025-03-10 15:10:07,083 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,083 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_I10
+2025-03-10 15:10:07,083 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_I10
+2025-03-10 15:10:07,087 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,087 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO55_H59
+2025-03-10 15:10:07,087 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,088 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO55_H59
+2025-03-10 15:10:07,088 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO55_H59
+2025-03-10 15:10:07,091 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,091 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790_H39
+2025-03-10 15:10:07,091 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,091 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790_H39
+2025-03-10 15:10:07,091 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790_H39
+2025-03-10 15:10:07,095 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,095 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,096 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,096 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,096 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,099 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,099 - DEBUG - Extracting cell info: C79B60_10
+2025-03-10 15:10:07,100 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_J12
+2025-03-10 15:10:07,100 - DEBUG - Product ID already exists: C79B60_10
+2025-03-10 15:10:07,103 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,103 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_J10
+2025-03-10 15:10:07,103 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,103 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_J10
+2025-03-10 15:10:07,103 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_J10
+2025-03-10 15:10:07,106 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,106 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO60W_H59
+2025-03-10 15:10:07,106 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,106 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO60W_H59
+2025-03-10 15:10:07,106 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO60W_H59
+2025-03-10 15:10:07,110 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,110 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x790_H39
+2025-03-10 15:10:07,110 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,110 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x790_H39
+2025-03-10 15:10:07,110 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x790_H39
+2025-03-10 15:10:07,114 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,114 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,114 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,114 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,114 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,116 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,117 - DEBUG - Extracting cell info: C79B70_10
+2025-03-10 15:10:07,117 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_K12
+2025-03-10 15:10:07,117 - DEBUG - Product ID already exists: C79B70_10
+2025-03-10 15:10:07,120 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,120 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_K10
+2025-03-10 15:10:07,120 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,120 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_K10
+2025-03-10 15:10:07,121 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_K10
+2025-03-10 15:10:07,124 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,124 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO70_H59
+2025-03-10 15:10:07,124 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,124 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO70_H59
+2025-03-10 15:10:07,124 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO70_H59
+2025-03-10 15:10:07,129 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,129 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790(2stuks)_H39
+2025-03-10 15:10:07,129 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,129 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790(2stuks)_H39
+2025-03-10 15:10:07,129 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE346x790(2stuks)_H39
+2025-03-10 15:10:07,133 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,133 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,133 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,134 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,134 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,136 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,137 - DEBUG - Extracting cell info: C79B80_10
+2025-03-10 15:10:07,137 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_L12
+2025-03-10 15:10:07,137 - DEBUG - Product ID already exists: C79B80_10
+2025-03-10 15:10:07,140 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,140 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_L10
+2025-03-10 15:10:07,140 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,140 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_L10
+2025-03-10 15:10:07,140 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_L10
+2025-03-10 15:10:07,143 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,143 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO80_H59
+2025-03-10 15:10:07,143 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,143 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO80_H59
+2025-03-10 15:10:07,143 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO80_H59
+2025-03-10 15:10:07,147 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,148 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790(2stuks)_H39
+2025-03-10 15:10:07,148 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,148 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790(2stuks)_H39
+2025-03-10 15:10:07,148 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE396x790(2stuks)_H39
+2025-03-10 15:10:07,152 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,152 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,152 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,152 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,152 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,155 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,156 - DEBUG - Extracting cell info: C79B90_10
+2025-03-10 15:10:07,156 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_M12
+2025-03-10 15:10:07,156 - DEBUG - Product ID already exists: C79B90_10
+2025-03-10 15:10:07,158 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,158 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_M10
+2025-03-10 15:10:07,158 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,158 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_M10
+2025-03-10 15:10:07,159 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_M10
+2025-03-10 15:10:07,162 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,162 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO90W_H59
+2025-03-10 15:10:07,162 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,162 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO90W_H59
+2025-03-10 15:10:07,163 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO90W_H59
+2025-03-10 15:10:07,166 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,166 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790(2stuks)_H39
+2025-03-10 15:10:07,166 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,166 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790(2stuks)_H39
+2025-03-10 15:10:07,167 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE446x790(2stuks)_H39
+2025-03-10 15:10:07,170 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,170 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,170 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,170 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,170 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,173 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,174 - DEBUG - Extracting cell info: C79B100_10
+2025-03-10 15:10:07,175 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_N12
+2025-03-10 15:10:07,175 - DEBUG - Product ID already exists: C79B100_10
+2025-03-10 15:10:07,178 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,178 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_N10
+2025-03-10 15:10:07,178 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,178 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_N10
+2025-03-10 15:10:07,178 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_N10
+2025-03-10 15:10:07,182 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,182 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO100_H59
+2025-03-10 15:10:07,182 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,182 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO100_H59
+2025-03-10 15:10:07,182 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO100_H59
+2025-03-10 15:10:07,187 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,188 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790(2stuks)_H39
+2025-03-10 15:10:07,188 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,188 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790(2stuks)_H39
+2025-03-10 15:10:07,188 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE496x790(2stuks)_H39
+2025-03-10 15:10:07,192 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,193 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,193 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,193 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,193 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,195 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,196 - DEBUG - Extracting cell info: C79B110_10
+2025-03-10 15:10:07,196 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_O12
+2025-03-10 15:10:07,196 - DEBUG - Product ID already exists: C79B110_10
+2025-03-10 15:10:07,199 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,199 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_O10
+2025-03-10 15:10:07,199 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,199 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_O10
+2025-03-10 15:10:07,199 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_O10
+2025-03-10 15:10:07,203 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,203 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO110_H59
+2025-03-10 15:10:07,203 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,203 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO110_H59
+2025-03-10 15:10:07,203 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO110_H59
+2025-03-10 15:10:07,208 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,208 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790(2stuks)_H39
+2025-03-10 15:10:07,208 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,208 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790(2stuks)_H39
+2025-03-10 15:10:07,208 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE546x790(2stuks)_H39
+2025-03-10 15:10:07,211 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,211 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,211 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,211 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,211 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,214 - WARNING - Cell has no formula: C12 in OVERZICHT PO
+2025-03-10 15:10:07,214 - DEBUG - Extracting cell info: C79B120_10
+2025-03-10 15:10:07,214 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_P12
+2025-03-10 15:10:07,215 - DEBUG - Product ID already exists: C79B120_10
+2025-03-10 15:10:07,217 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,217 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_P10
+2025-03-10 15:10:07,217 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,217 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_P10
+2025-03-10 15:10:07,218 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_P10
+2025-03-10 15:10:07,221 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,221 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO120W_H59
+2025-03-10 15:10:07,221 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,221 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO120W_H59
+2025-03-10 15:10:07,221 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_PO120W_H59
+2025-03-10 15:10:07,226 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,226 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x718W(2stuks)_H39
+2025-03-10 15:10:07,226 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,226 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x718W(2stuks)_H39
+2025-03-10 15:10:07,226 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_DE596x718W(2stuks)_H39
+2025-03-10 15:10:07,230 - DEBUG - Extracting cell info: None
+2025-03-10 15:10:07,230 - DEBUG - Extracting cell info: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,230 - DEBUG - Product ID already exists: None
+2025-03-10 15:10:07,230 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,230 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHangkast790-KLEUR.xlsx_OVERZICHTPO_C12
+2025-03-10 15:10:07,233 - WARNING - Cell has no formula: C12 in OVERZICHT PO

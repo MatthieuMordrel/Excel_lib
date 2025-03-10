@@ -1,0 +1,690 @@
+2025-03-10 15:27:15,282 - DEBUG - Extracting cell info: COH90CA_1
+2025-03-10 15:27:15,282 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:15,282 - DEBUG - Product ID already exists: COH90CA_1
+2025-03-10 15:27:17,214 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,215 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:17,215 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,215 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:17,215 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:17,220 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,220 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:17,220 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,220 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:17,220 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:17,224 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,225 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:17,225 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,225 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:17,225 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:17,230 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,230 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:17,230 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,230 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:17,230 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:17,234 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,234 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:17,234 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,234 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:17,235 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:17,238 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,238 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:17,238 - ERROR - None
+2025-03-10 15:27:17,238 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,238 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:17,238 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,238 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:17,239 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:17,242 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:17,242 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,243 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:17,243 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,243 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:17,243 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:17,248 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,248 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:17,248 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,248 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:17,248 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:17,253 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,253 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:17,253 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,253 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:17,253 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:17,257 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:17,258 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,259 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:17,259 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,259 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:17,259 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:17,263 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,264 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:17,264 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,264 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:17,264 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:17,269 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:17,269 - DEBUG - Extracting cell info: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:17,269 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:17,269 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:17,269 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:17,272 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:17,273 - DEBUG - Extracting cell info: COH90CA_2
+2025-03-10 15:27:17,273 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:17,273 - DEBUG - Product ID already exists: COH90CA_2
+2025-03-10 15:27:19,056 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,056 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:19,056 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,056 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:19,056 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:19,069 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,069 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:19,069 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,069 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:19,069 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:19,076 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,077 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:19,077 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,077 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:19,077 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:19,082 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,083 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:19,083 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,083 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:19,083 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:19,089 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,089 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:19,089 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,089 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:19,089 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:19,095 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,095 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:19,095 - ERROR - None
+2025-03-10 15:27:19,096 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,096 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:19,096 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,096 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:19,096 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:19,104 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:19,106 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,106 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:19,106 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,106 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:19,106 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:19,113 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,113 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:19,113 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,113 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:19,113 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:19,122 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,123 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:19,123 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,123 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:19,123 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:19,131 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:19,132 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,132 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H41
+2025-03-10 15:27:19,132 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,132 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H41
+2025-03-10 15:27:19,132 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H41
+2025-03-10 15:27:19,146 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,147 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H39
+2025-03-10 15:27:19,147 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,147 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H39
+2025-03-10 15:27:19,147 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H39
+2025-03-10 15:27:19,155 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:19,155 - DEBUG - Extracting cell info: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_G41
+2025-03-10 15:27:19,155 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:19,155 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_G41
+2025-03-10 15:27:19,155 - DEBUG - Product ID not found in reverse mapping: 2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_G41
+2025-03-10 15:27:19,160 - WARNING - Cell has no formula: G41 in DE443x790
+2025-03-10 15:27:19,162 - DEBUG - Extracting cell info: COH90CA_3
+2025-03-10 15:27:19,162 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:19,162 - DEBUG - Product ID already exists: COH90CA_3
+2025-03-10 15:27:21,277 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,277 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:21,277 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,277 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:21,277 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:21,285 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,285 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:21,285 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,285 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:21,285 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:21,293 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,293 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:21,293 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,293 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:21,294 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:21,303 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,303 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:21,303 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,303 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:21,304 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:21,310 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,311 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:21,311 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,311 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:21,311 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:21,318 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,318 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:21,318 - ERROR - None
+2025-03-10 15:27:21,319 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,319 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:21,319 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,319 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:21,319 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:21,326 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:21,327 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,328 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:21,328 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,328 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:21,328 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:21,336 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,336 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:21,336 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,336 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:21,336 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:21,345 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,345 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:21,345 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,345 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:21,345 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:21,352 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:21,353 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,353 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:21,353 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,353 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:21,353 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:21,361 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,361 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:21,361 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,361 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:21,361 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:21,369 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:21,370 - DEBUG - Extracting cell info: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:21,370 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:21,370 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:21,370 - DEBUG - Product ID not found in reverse mapping: 2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:21,376 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:21,377 - DEBUG - Extracting cell info: COH90CA_4
+2025-03-10 15:27:21,377 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:21,377 - DEBUG - Product ID already exists: COH90CA_4
+2025-03-10 15:27:24,013 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,013 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:24,013 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,013 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:24,013 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:24,021 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,021 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:24,021 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,021 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:24,021 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:24,028 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,029 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:24,029 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,029 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:24,029 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:24,036 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,036 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:24,036 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,036 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:24,037 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:24,044 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,044 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:24,044 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,044 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:24,044 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:24,050 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,050 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:24,050 - ERROR - None
+2025-03-10 15:27:24,050 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,051 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:24,051 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,051 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:24,051 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:24,055 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:24,056 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,056 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:24,056 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,056 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:24,056 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:24,063 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,063 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:24,063 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,063 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:24,063 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:24,069 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,069 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:24,069 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,070 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:24,070 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:24,075 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:24,076 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,077 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:24,077 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,077 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:24,077 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:24,083 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,083 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:24,083 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,083 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:24,083 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:24,088 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:24,089 - DEBUG - Extracting cell info: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:24,089 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:24,089 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:24,089 - DEBUG - Product ID not found in reverse mapping: 2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:24,092 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:24,093 - DEBUG - Extracting cell info: COH90CA_5
+2025-03-10 15:27:24,094 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:24,094 - DEBUG - Product ID already exists: COH90CA_5
+2025-03-10 15:27:26,090 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,091 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:26,091 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,091 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:26,091 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:26,097 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,097 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:26,097 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,097 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:26,097 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:26,104 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,104 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:26,104 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,104 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:26,104 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:26,111 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,111 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:26,111 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,111 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:26,111 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:26,117 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,117 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:26,117 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,117 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:26,117 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:26,123 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,123 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:26,123 - ERROR - None
+2025-03-10 15:27:26,123 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,124 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:26,124 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,124 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:26,124 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:26,130 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:26,131 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,131 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:26,132 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,132 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:26,132 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:26,139 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,139 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:26,139 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,139 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:26,139 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:26,146 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,147 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:26,147 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,147 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:26,147 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:26,152 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:26,153 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,154 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:26,154 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,154 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:26,154 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:26,160 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,160 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:26,161 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,161 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:26,161 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:26,166 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:26,166 - DEBUG - Extracting cell info: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:26,166 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:26,166 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:26,166 - DEBUG - Product ID not found in reverse mapping: 2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:26,171 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:26,172 - DEBUG - Extracting cell info: COH90CA_6
+2025-03-10 15:27:26,172 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:26,172 - DEBUG - Product ID already exists: COH90CA_6
+2025-03-10 15:27:28,178 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,178 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:28,179 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,179 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:28,179 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:28,185 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,185 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:28,185 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,185 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:28,185 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:28,191 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,192 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:28,192 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,192 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:28,192 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:28,201 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,201 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:28,201 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,201 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:28,201 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:28,208 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,208 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:28,208 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,208 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:28,208 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:28,215 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,215 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:28,215 - ERROR - None
+2025-03-10 15:27:28,215 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,215 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:28,216 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,216 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:28,216 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:28,220 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:28,221 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,221 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:28,221 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,221 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:28,221 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:28,228 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,229 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:28,229 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,229 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:28,229 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:28,236 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,237 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:28,237 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,237 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:28,237 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:28,242 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:28,244 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,244 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:28,244 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,244 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:28,244 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:28,250 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,251 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:28,251 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,251 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:28,251 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:28,257 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:28,257 - DEBUG - Extracting cell info: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:28,257 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:28,257 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:28,257 - DEBUG - Product ID not found in reverse mapping: 2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:28,262 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:28,264 - DEBUG - Extracting cell info: COH90CA_7
+2025-03-10 15:27:28,264 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:28,264 - DEBUG - Product ID already exists: COH90CA_7
+2025-03-10 15:27:30,254 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,254 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:30,255 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,255 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:30,255 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:30,264 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,264 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:30,264 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,264 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:30,264 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:30,271 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,271 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:30,271 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,271 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:30,271 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:30,279 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,279 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:30,279 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,279 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:30,279 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:30,286 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,286 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:30,286 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,286 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:30,286 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:30,293 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,293 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:30,293 - ERROR - None
+2025-03-10 15:27:30,294 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,294 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:30,294 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,294 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:30,294 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:30,300 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:30,301 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,302 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:30,302 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,302 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:30,302 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:30,311 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,311 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:30,311 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,311 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:30,311 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:30,319 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,319 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:30,319 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,319 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:30,319 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:30,326 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:30,327 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,328 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:30,328 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,328 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:30,328 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:30,334 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,334 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:30,334 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,334 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:30,334 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:30,341 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:30,341 - DEBUG - Extracting cell info: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:30,341 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:30,341 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:30,341 - DEBUG - Product ID not found in reverse mapping: 2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:30,346 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:30,348 - DEBUG - Extracting cell info: COH90CA_8
+2025-03-10 15:27:30,348 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:30,348 - DEBUG - Product ID already exists: COH90CA_8
+2025-03-10 15:27:32,401 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,402 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:32,402 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,402 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:32,402 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:32,409 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,410 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:32,410 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,410 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:32,410 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:32,418 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,418 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:32,418 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,418 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:32,418 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:32,425 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,426 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:32,426 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,426 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:32,426 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:32,432 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,433 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:32,433 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,433 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:32,433 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:32,442 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,442 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:32,442 - ERROR - None
+2025-03-10 15:27:32,442 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,442 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:32,443 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,443 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:32,443 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:32,448 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:32,450 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,450 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:32,450 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,450 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:32,450 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:32,457 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,457 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:32,457 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,457 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:32,457 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:32,465 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,465 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:32,465 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,465 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:32,465 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:32,473 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:32,474 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,475 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:32,475 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,475 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:32,475 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:32,481 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,481 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:32,481 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,481 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:32,481 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:32,488 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:32,488 - DEBUG - Extracting cell info: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:32,488 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:32,488 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:32,488 - DEBUG - Product ID not found in reverse mapping: 2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:32,493 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:32,495 - DEBUG - Extracting cell info: COH90CA_9
+2025-03-10 15:27:32,495 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:32,495 - DEBUG - Product ID already exists: COH90CA_9
+2025-03-10 15:27:34,373 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,373 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:34,373 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,373 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:34,373 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:34,381 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,381 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:34,381 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,381 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:34,381 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:34,389 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,390 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:34,390 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,390 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:34,390 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:34,398 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,398 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:34,398 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,398 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:34,398 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:34,406 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,406 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:34,406 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,406 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:34,406 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:34,415 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,415 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:34,415 - ERROR - None
+2025-03-10 15:27:34,415 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,416 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:34,416 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,416 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:34,416 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:34,421 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:34,422 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,423 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:34,423 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,423 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:34,423 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:34,430 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,431 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:34,431 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,431 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:34,431 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:34,441 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,441 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:34,441 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,441 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:34,441 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:34,448 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:34,450 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,450 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:34,451 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,451 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:34,451 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:34,458 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,458 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:34,458 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,458 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:34,458 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:34,465 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:34,465 - DEBUG - Extracting cell info: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:34,465 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:34,465 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:34,466 - DEBUG - Product ID not found in reverse mapping: 2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:34,473 - WARNING - Cell has no formula: G41 in DE310x790(2)
+2025-03-10 15:27:34,474 - DEBUG - Extracting cell info: COH90CA_10
+2025-03-10 15:27:34,475 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5
+2025-03-10 15:27:34,475 - DEBUG - Product ID already exists: COH90CA_10
+2025-03-10 15:27:36,438 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,438 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:36,438 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,438 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:36,438 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63
+2025-03-10 15:27:36,446 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,446 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:36,446 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,446 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:36,446 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63
+2025-03-10 15:27:36,453 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,454 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:36,454 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,454 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:36,454 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61
+2025-03-10 15:27:36,462 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,462 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:36,462 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,462 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:36,462 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41
+2025-03-10 15:27:36,469 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,469 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:36,469 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,469 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:36,470 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41
+2025-03-10 15:27:36,478 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,478 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I143
+2025-03-10 15:27:36,478 - ERROR - None
+2025-03-10 15:27:36,478 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,479 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:36,479 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,479 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:36,479 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41
+2025-03-10 15:27:36,486 - WARNING - Cell has no formula: C41 in COH90CA
+2025-03-10 15:27:36,487 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,488 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:36,488 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,488 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:36,488 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63
+2025-03-10 15:27:36,496 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,496 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:36,496 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,496 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:36,496 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60
+2025-03-10 15:27:36,504 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,505 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:36,505 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,505 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:36,505 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63
+2025-03-10 15:27:36,511 - WARNING - Cell has no formula: G63 in COH90CA
+2025-03-10 15:27:36,513 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,513 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:36,513 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,514 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:36,514 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41
+2025-03-10 15:27:36,521 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,521 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:36,521 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,521 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:36,521 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39
+2025-03-10 15:27:36,528 - DEBUG - Extracting cell info: None
+2025-03-10 15:27:36,528 - DEBUG - Extracting cell info: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:36,529 - DEBUG - Product ID already exists: None
+2025-03-10 15:27:36,529 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:36,529 - DEBUG - Product ID not found in reverse mapping: 2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41
+2025-03-10 15:27:36,535 - WARNING - Cell has no formula: G41 in DE310x790(2)

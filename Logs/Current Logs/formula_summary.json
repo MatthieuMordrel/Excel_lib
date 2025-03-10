@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "cleaned_formula": "COH90CA!H63+'DE310x790(2)'!H41",
+      "count": 9,
+      "unique_ids": [
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5"
+      ]
+    },
+    {
+      "cleaned_formula": "COH90CA!H63+DE443x790!H41",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_OVERZICHTCO_F5"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H59+H49+H47+H45+H39+H37+H35+H33+H31+H28+H20+H21+H17+H11",
+      "count": 10,
+      "unique_ids": [
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H60"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 10,
+      "unique_ids": [
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H39",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H39"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "J63+I63",
+      "count": 10,
+      "unique_ids": [
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H63"
+      ]
+    },
+    {
+      "cleaned_formula": "H61*3.5",
+      "count": 10,
+      "unique_ids": [
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_J63"
+      ]
+    },
+    {
+      "cleaned_formula": "H41",
+      "count": 10,
+      "unique_ids": [
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H61"
+      ]
+    },
+    {
+      "cleaned_formula": "D41*C41",
+      "count": 10,
+      "unique_ids": [
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_H41"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I143",
+      "count": 10,
+      "unique_ids": [
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_D41"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 30,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_G41",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_C41",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_G41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_G63"
+      ]
+    },
+    {
+      "cleaned_formula": "H60*G63",
+      "count": 10,
+      "unique_ids": [
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_COH90CA_I63"
+      ]
+    },
+    {
+      "cleaned_formula": "H39*G41",
+      "count": 10,
+      "unique_ids": [
+        "2022-P1BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P9BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P6BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P7BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P2BerekeningHoekonderkasten794-KLEUR.xlsx_DE443x790_H41",
+        "2022-P8BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P10BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P3BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P4BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41",
+        "2022-P5BerekeningHoekonderkasten794-KLEUR.xlsx_DE310x790(2)_H41"
+      ]
+    }
+  ]
+}

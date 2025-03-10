@@ -1,0 +1,262 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "G12",
+    "cleaned_formula": "G10*C12",
+    "id": "C79B45_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO45_53.437",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x790_78.516",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "D12",
+    "cleaned_formula": "C12*D10",
+    "id": "C79B30_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO30_49.403",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x790_54.873",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "E12",
+    "cleaned_formula": "E10*C12",
+    "id": "C79B35_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO35_50.152",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x790_54.873",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "F12",
+    "cleaned_formula": "C12*F10",
+    "id": "C79B40_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO40_52.086",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x790_70.635",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "H12",
+    "cleaned_formula": "H10*C12",
+    "id": "C79B50_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO50_54.788",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x790_86.397",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "I12",
+    "cleaned_formula": "I10*C12",
+    "id": "C79B55_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO55_56.106",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x790_86.397",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "K12",
+    "cleaned_formula": "K10*C12",
+    "id": "C79B70_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO70_61.798",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x790 (2stuks)_108.443",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "M12",
+    "cleaned_formula": "M10*C12",
+    "id": "C79B90_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO90 W_68.864",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x790(2stuks)_157.032",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "L12",
+    "cleaned_formula": "L10*C12",
+    "id": "C79B80_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO80_66.226",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x790 (2stuks)_141.27",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "J12",
+    "cleaned_formula": "J10*C12",
+    "id": "C79B60_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO60 W_57.47",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x790_102.159",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "O12",
+    "cleaned_formula": "O10*C12",
+    "id": "C79B110_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO110_80.887",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x790 (2stuks)_171.251",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "P12",
+    "cleaned_formula": "P10*C12",
+    "id": "C79B120_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO120 W_77.906",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x718 W (2stuks)_204.318",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening Hangkast 790-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "N12",
+    "cleaned_formula": "N10*C12",
+    "id": "C79B100_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "PO100 _77.758",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x790(2stuks)_172.794",
+        "quantity": 1
+      }
+    ]
+  }
+]
