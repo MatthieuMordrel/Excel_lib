@@ -1,0 +1,4526 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "CK222O30_2",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "D3",
+        "cleaned_formula": "CK222A30!H57+DE296x829!H39+DE296x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A30_97.72",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE296x829_13.524",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE296x1396_20.447",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "CK222O30_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "D3",
+        "cleaned_formula": "CK222A30!H57+DE296x829!H39+DE296x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A30_97.72",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE296x829_20.812",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE296x1396_32.72",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "CK222O35_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "E3",
+        "cleaned_formula": "CK222A35!H57+DE346x829!H39+DE346x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A35_101.279",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE346x829_14.61",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE346x1396_22.235",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "CK222O35_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "E3",
+        "cleaned_formula": "CK222A35!H57+DE346x829!H39+DE346x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A35_101.279",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE346x829_23.129",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE346x1396_36.58",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "F5",
+    "cleaned_formula": "C5*F3",
+    "id": "CK222O40_2",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "F3",
+        "cleaned_formula": "CK222A40!H57+DE396x829!H39+DE396x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A40_105.525",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE396x829_15.696",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE396x1396_24.022",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "F5",
+    "cleaned_formula": "C5*F3",
+    "id": "CK222O40_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "F3",
+        "cleaned_formula": "CK222A40!H57+DE396x829!H39+DE396x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A40_105.525",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE396x829_25.446",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE396x1396_40.441",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "CK222O45_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "G3",
+        "cleaned_formula": "CK222A45!H57+DE446x829!H39+DE446x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A45_110.465",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE446x829_16.781",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE446x1396_25.81",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "CK222O45_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "G3",
+        "cleaned_formula": "CK222A45!H57+DE446x829!H39+DE446x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A45_110.465",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE446x829_27.763",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE446x1396_44.302",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "CK222O50_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "H3",
+        "cleaned_formula": "CK222A50!H57+DE496x829!H39+DE496x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A50_113.046",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE496x829_17.867",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE496x1396_27.597",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "CK222O50_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "H3",
+        "cleaned_formula": "CK222A50!H57+DE496x829!H39+DE496x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A50_113.046",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE496x829_30.08",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE496x1396_48.162",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "CK222O55_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "I3",
+        "cleaned_formula": "CK222A55!H57+DE546x829!H39+DE546x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A55_116.605",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE546x829_18.953",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE546x1396_29.385",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "CK222O55_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "I3",
+        "cleaned_formula": "CK222A55!H57+DE546x829!H39+DE546x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A55_116.605",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE546x829_32.396",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE546x1396_52.023",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "CK222O60_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "J3",
+        "cleaned_formula": "CK222A60!H57+DE596x829!H39+DE596x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A60_122.613",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE596x829_20.039",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE596x1396_31.172",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "CK222O60_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "J3",
+        "cleaned_formula": "CK222A60!H57+DE596x829!H39+DE596x1396!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "CK222A60_122.613",
+            "cell": "H57"
+          },
+          {
+            "type": "element",
+            "id": "DE596x829_34.713",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE596x1396_55.883",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P3 Berekening Open Kolomkast 2227-KLEUR.xlsx",
+        "sheet": "OVERZICHT CK222",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_33.602",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_4",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_39.27",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_44.164",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_54.469",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_7",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_59.622",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_8",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_64.774",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_85.384",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C74DK60_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_46.949",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_100.841",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_52.063",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_4",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_60.325",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_67.46",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_82.481",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_7",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_89.992",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_8",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_97.503",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_127.545",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C74DK90_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_55.913",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_150.077",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_3",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_46.481",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_4",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_54.724",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_61.844",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_76.831",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_7",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_84.325",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_8",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_91.819",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_121.795",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C79HB90_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "F3",
+        "cleaned_formula": "'C79HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB90_72.787",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_144.277",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_22.377",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_4",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_25.733",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_5",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_28.63",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_6",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_34.731",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_7",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_37.781",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_8",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_40.831",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_53.032",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB60_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_62.182",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_22.377",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_4",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_25.733",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_5",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_28.63",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_6",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_34.731",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_7",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_37.781",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_8",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_40.831",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_53.032",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C79SHB64_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "E3",
+        "cleaned_formula": "'C79SH60'!H59+DE351x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79SH60_98.186",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x790_62.182",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_17.691",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_18.575",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_4",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_20.033",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_21.108",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_5",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_22.055",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_23.296",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_6",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_26.313",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_27.901",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_7",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_28.442",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_30.204",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_8",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_30.571",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_32.507",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_39.088",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_41.719",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB60_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_45.475",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_48.627",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_3",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p3 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_17.691",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_18.575",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_4",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p4 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_20.033",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_21.108",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_5",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p5 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_22.055",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_23.296",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_6",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p6 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_26.313",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_27.901",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_7",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p7 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_28.442",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_30.204",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_8",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p8 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_30.571",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_32.507",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p9 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_39.088",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_41.719",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C79HB64_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - p10 Berekening Hoek Hangkasten 790+KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K",
+        "cell": "D3",
+        "cleaned_formula": "'C79HB60'!H61+DE245x790!H39+DE265x790!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C79HB60_89.309",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x790_45.475",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x790_48.627",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C70OB30_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB3043_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C70OB30_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "D3",
+        "cleaned_formula": "'C70OB30'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB30_42.746",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C70OB35_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB3543_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C70OB35_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "E3",
+        "cleaned_formula": "'C70OB35'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB35_43.878",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C70OB40_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB4043_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C70OB40_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "F3",
+        "cleaned_formula": "'C70OB40'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB40_45.01",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C70OB45_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB4543_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C70OB45_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "G3",
+        "cleaned_formula": "'C70OB45'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB45_46.143",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C70OB50_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB5043_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C70OB50_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "H3",
+        "cleaned_formula": "'C70OB50'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB50_47.275",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C70OB55_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB5543_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C70OB55_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "I3",
+        "cleaned_formula": "'C70OB55'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB55_48.408",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-43",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C70OB60_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "C70OB6043_1"
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P1 Berekening Open Hangkast 700-43-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+    "sheet": "OVERZICHT C70-",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C70OB60_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "J3",
+        "cleaned_formula": "'C70OB60'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB60_49.54",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 -P2 Berekening Open Hangkast 700-KLEUR.xlsx",
+        "sheet": "OVERZICHT C70-",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C66DK6043_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_49.37",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_85.384",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C66DK6043_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D12",
+        "cleaned_formula": "P74DK60!H60+DE596x745!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK60_49.37",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE596x745_100.841",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C66K9043_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_58.672",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_127.545",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C66K9043_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E12",
+        "cleaned_formula": "P74DK90!H61+'DE446x745 (2STUKS)'!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "P74DK90_58.672",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE446x745 (2STUKS)_150.077",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C14",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C70HB9043_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "F3",
+        "cleaned_formula": "'C70HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB90_76.857",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_121.795",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C70HB9043_10",
+    "references": [
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "F3",
+        "cleaned_formula": "'C70HB90'!H60+DE546x790!H40",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB90_76.857",
+            "cell": "H60"
+          },
+          {
+            "type": "element",
+            "id": "DE546x790_144.277",
+            "cell": "H40"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB6043_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E3",
+        "cleaned_formula": "'C70SH60'!H59+DE351x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70SH60_97.848",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x700_47.712",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB6043_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E3",
+        "cleaned_formula": "'C70SH60'!H59+DE351x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70SH60_97.848",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x700_55.82",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB6443_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E3",
+        "cleaned_formula": "'C70SH60'!H59+DE351x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70SH60_97.848",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x700_47.712",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB6443_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "E3",
+        "cleaned_formula": "'C70SH60'!H59+DE351x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70SH60_97.848",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "DE351x700_55.82",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB6043_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D3",
+        "cleaned_formula": "'C70HB60'!H61+DE245x700!H39+DE265x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB60_92.371",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x700_35.341",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x700_37.675",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB6043_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D3",
+        "cleaned_formula": "'C70HB60'!H61+DE245x700!H39+DE265x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB60_92.371",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x700_41.001",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x700_43.797",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB6443_9",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P9 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D3",
+        "cleaned_formula": "'C70HB60'!H61+DE245x700!H39+DE265x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB60_92.371",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x700_35.341",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x700_37.675",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB6443_10",
+    "references": [
+      {
+        "type": "hardcoded",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "~$2022 - P10 Berekening Hangkast 700-430 KLEUR.xlsx",
+        "sheet": "OVERZICHT HOEKHANG K43",
+        "cell": "D3",
+        "cleaned_formula": "'C70HB60'!H61+DE245x700!H39+DE265x700!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70HB60_92.371",
+            "cell": "H61"
+          },
+          {
+            "type": "element",
+            "id": "DE245x700_41.001",
+            "cell": "H39"
+          },
+          {
+            "type": "element",
+            "id": "DE265x700_43.797",
+            "cell": "H39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "L17",
+    "cleaned_formula": "(L15*K17)",
+    "id": "C141BL45D141_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "L15",
+        "cleaned_formula": "D15+DE446x1211!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE446x1211_56.317",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "D15",
+            "cleaned_formula": "'1323B45'!H59+'lade ondiep 45'!H37+'front lade 446x196'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B45_97.719",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep 45_18.578",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 446x196_11.626",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "M17",
+    "cleaned_formula": "(M15*K17)",
+    "id": "C141BL50D141_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "M15",
+        "cleaned_formula": "E15+'DE496x1319 glas'!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE496x1319 glas_61.827",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "E15",
+            "cleaned_formula": "'1323B50'!H59+'lade ondiep50'!H37+'front lade 496x196 (2)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B50_102.289",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep50_18.859",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 496x196 (2)_12.656",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "N17",
+    "cleaned_formula": "(N15*K17)",
+    "id": "C141BL55D141_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "N15",
+        "cleaned_formula": "F15+DE546x1211!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE546x1211_67.336",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F15",
+            "cleaned_formula": "'1323B55'!H59+'lade ondiep55'!H37+'front lade 549x196 (3)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B55_106.868",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep55_18.959",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (3)_13.748",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "O17",
+    "cleaned_formula": "(O15*K17)",
+    "id": "C141BL60D141_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "O15",
+        "cleaned_formula": "'OVERZICHT COZ1323'!G15+DE596x1211!H39",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "G15",
+            "cleaned_formula": "'1323B60'!H59+'lade ondiep60'!H37+'front lade 549x196 (4)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B60_111.442",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep60_19.242",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (4)_14.716",
+                "cell": "H33"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "id": "DE596x1211_72.846",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C141BL45-G_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G3",
+        "cleaned_formula": "D31+DE446x1211!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE446x1211_56.317",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "D31",
+            "cleaned_formula": "'C1323OB45kl'!H59+'lade ondiep 45'!H37+'front lade 446x196'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB45kl_298.912",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep 45_18.578",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 446x196_11.626",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C141BL50-G_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "H3",
+        "cleaned_formula": "E31+'DE496x1319 glas'!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE496x1319 glas_61.827",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "E31",
+            "cleaned_formula": "'C1323OB50kl '!H59+'lade ondiep50'!H37+'front lade 496x196 (2)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB50kl _317.854",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep50_18.859",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 496x196 (2)_12.656",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C141BL55-G_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "I3",
+        "cleaned_formula": "F31+'1323B55'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "1323B55_106.868",
+            "cell": "H59"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F31",
+            "cleaned_formula": "'C1323OB55kl '!H59+'lade ondiep55'!H37+'front lade 549x196 (3)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB55kl _336.797",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep55_18.959",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (3)_13.748",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C141BL60-G_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "J3",
+        "cleaned_formula": "G31+(DE596x1211!H39*2)",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE596x1211_72.846",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "G31",
+            "cleaned_formula": "'C1323OB60kl '!H59+'lade ondiep60'!H37+'front lade 549x196 (4)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB60kl _355.707",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep60_19.242",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (4)_14.716",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C5",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C141BL45KL-GST_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "D39",
+        "cleaned_formula": "D31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "D31",
+            "cleaned_formula": "'C1323OB45kl'!H59+'lade ondiep 45'!H37+'front lade 446x196'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB45kl_298.912",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep 45_18.578",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 446x196_11.626",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C141BL50KL-GST_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "E39",
+        "cleaned_formula": "E31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "E31",
+            "cleaned_formula": "'C1323OB50kl '!H59+'lade ondiep50'!H37+'front lade 496x196 (2)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB50kl _317.854",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep50_18.859",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 496x196 (2)_12.656",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C141BL55KL-GST_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F39",
+        "cleaned_formula": "F31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F31",
+            "cleaned_formula": "'C1323OB55kl '!H59+'lade ondiep55'!H37+'front lade 549x196 (3)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB55kl _336.797",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep55_18.959",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (3)_13.748",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C141BL60KL-GST_6",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G39",
+        "cleaned_formula": "G31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "G31",
+            "cleaned_formula": "'C1323OB60kl '!H59+'lade ondiep60'!H37+'front lade 549x196 (4)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB60kl _355.707",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep60_19.242",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (4)_14.716",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I60*3.5)",
+    "id": "C141BL45KL-GDB_6",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I60"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "D31",
+        "cleaned_formula": "'C1323OB45kl'!H59+'lade ondiep 45'!H37+'front lade 446x196'!H33",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB45kl_298.912",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "lade ondiep 45_18.578",
+            "cell": "H37"
+          },
+          {
+            "type": "element",
+            "id": "front lade 446x196_11.626",
+            "cell": "H33"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I60*3.5)",
+    "id": "C141BL50KL-GDB_6",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I60"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "E31",
+        "cleaned_formula": "'C1323OB50kl '!H59+'lade ondiep50'!H37+'front lade 496x196 (2)'!H33",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB50kl _317.854",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "lade ondiep50_18.859",
+            "cell": "H37"
+          },
+          {
+            "type": "element",
+            "id": "front lade 496x196 (2)_12.656",
+            "cell": "H33"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+    "id": "C141BL55KL-GDB_6",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I59"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F31",
+        "cleaned_formula": "'C1323OB55kl '!H59+'lade ondiep55'!H37+'front lade 549x196 (3)'!H33",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB55kl _336.797",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "lade ondiep55_18.959",
+            "cell": "H37"
+          },
+          {
+            "type": "element",
+            "id": "front lade 549x196 (3)_13.748",
+            "cell": "H33"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+    "id": "C141BL60KL-GDB_6",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I59"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G31",
+        "cleaned_formula": "'C1323OB60kl '!H59+'lade ondiep60'!H37+'front lade 549x196 (4)'!H33",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB60kl _355.707",
+            "cell": "H59"
+          },
+          {
+            "type": "element",
+            "id": "lade ondiep60_19.242",
+            "cell": "H37"
+          },
+          {
+            "type": "element",
+            "id": "front lade 549x196 (4)_14.716",
+            "cell": "H33"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P6 Berekening opzetkast 1413-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  }
+]
