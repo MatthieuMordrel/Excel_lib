@@ -1,0 +1,745 @@
+{
+  "products": [
+    {
+      "cleaned_formula": "D3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D5"
+      ]
+    },
+    {
+      "cleaned_formula": "E3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E5"
+      ]
+    },
+    {
+      "cleaned_formula": "F3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F5"
+      ]
+    },
+    {
+      "cleaned_formula": "G3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G5"
+      ]
+    },
+    {
+      "cleaned_formula": "H3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H5"
+      ]
+    },
+    {
+      "cleaned_formula": "I3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I5"
+      ]
+    },
+    {
+      "cleaned_formula": "J3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J5"
+      ]
+    },
+    {
+      "cleaned_formula": "K3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K5"
+      ]
+    },
+    {
+      "cleaned_formula": "L3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L5"
+      ]
+    },
+    {
+      "cleaned_formula": "M3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M5"
+      ]
+    },
+    {
+      "cleaned_formula": "N3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N5"
+      ]
+    },
+    {
+      "cleaned_formula": "O3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O5"
+      ]
+    },
+    {
+      "cleaned_formula": "P3*C5",
+      "count": 8,
+      "unique_ids": [
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P5"
+      ]
+    },
+    {
+      "cleaned_formula": "D12*C14",
+      "count": 10,
+      "unique_ids": [
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D14"
+      ]
+    },
+    {
+      "cleaned_formula": "E12*C14",
+      "count": 10,
+      "unique_ids": [
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E14"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+      "count": 56,
+      "unique_ids": [
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_70B30_H59",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B50_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B45_H59",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B55_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B60_H59",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B40_H59",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_70B35_H59",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_70B35_H59"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 104,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE546x700(2stuks)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE546x700_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE496x700(2stuks)_H39",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_DE446x700(2STUKS)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE446x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE296x700_H39",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE396x700(2STUKS)_H39",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_DE596x700(2stuks)_H39",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_DE346x700(2STUKS)_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE346x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE496x700_H39",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_DE596x700_H39",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_DE396x700_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H58+H50+H27+H16+H10+H20",
+      "count": 50,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B110_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B90_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B100_H60",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK60_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B80_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B70_H60",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B70_H60"
+      ]
+    },
+    {
+      "cleaned_formula": "H58+H50+H27+H20+H16+H10",
+      "count": 8,
+      "unique_ids": [
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_79B120_H60",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_79B120_H60"
+      ]
+    },
+    {
+      "cleaned_formula": "H38+H30+H21+H12+H6+H16",
+      "count": 20,
+      "unique_ids": [
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_DE446x565(2STUKS)_H40",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_DE596x565_H40"
+      ]
+    },
+    {
+      "cleaned_formula": "H59+H51+H28+H17+H11+H21",
+      "count": 10,
+      "unique_ids": [
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_P565DK90_H61"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "'70B30'!H59+DE296x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_D3"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 18,
+      "unique_ids": [
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_C14",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_C5"
+      ]
+    },
+    {
+      "cleaned_formula": "'70B35'!H59+DE346x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_E3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B40'!H59+DE396x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_F3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B45'!H59+DE446x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_G3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B50'!H59+DE496x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_H3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B55'!H59+DE546x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_I3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B60'!H59+DE596x700!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_J3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B70'!H60+'DE346x700 (2STUKS)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_K3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B80'!H60+'DE396x700 (2STUKS)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_L3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B90'!H60+'DE446x700 (2STUKS)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_M3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B100'!H60+'DE496x700 (2stuks)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_N3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B110'!H60+'DE546x700 (2stuks)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_O3"
+      ]
+    },
+    {
+      "cleaned_formula": "'79B120'!H60+'DE596x700 (2stuks)'!H39",
+      "count": 8,
+      "unique_ids": [
+        "2022-P2BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P6BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P1BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P9BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P7BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P8BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P3BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3",
+        "2022-P4BerekeningHangkast584-565KLEUR.xlsx_OVERZICHTC79B_P3"
+      ]
+    },
+    {
+      "cleaned_formula": "P565DK60!H60+DE596x565!H40",
+      "count": 10,
+      "unique_ids": [
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_D12"
+      ]
+    },
+    {
+      "cleaned_formula": "P565DK90!H61+'DE446x565 (2STUKS)'!H40",
+      "count": 10,
+      "unique_ids": [
+        "2022-p9BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p6BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p3BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p1BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p7BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p2BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p4BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p5BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p10BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12",
+        "2022-p8BerekeningHoekHangkasten584-584KLEUR.xlsx_OVERZICHTHOEKHANGK43_E12"
+      ]
+    }
+  ]
+}

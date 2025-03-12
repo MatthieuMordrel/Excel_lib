@@ -1,0 +1,2482 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_8.547",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_15.744",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_10.869",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_17.233",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_24.061",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_25.79",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_22.333",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D5",
+    "cleaned_formula": "D3*C5",
+    "id": "C58B3056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B30_46.841",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE296x700_32.705",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_11.615",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_17.314",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_8.906",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_19.06",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_25.021",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_29.062",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_37.145",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_9.266",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_12.361",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_18.883",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_27.709",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_20.887",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_30.021",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_32.334",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C58B4056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B40_49.919",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700_41.585",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_9.625",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_13.108",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "C58B3556_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "70B35_48.074",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700_27.041",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_22.713",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_33.001",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_20.453",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_46.025",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_35.606",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_9.984",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_13.854",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_22.023",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_24.54",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_33.085",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G5",
+    "cleaned_formula": "G3*C5",
+    "id": "C58B4556_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B45_51.458",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700_30.397",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_35.981",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_10.343",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_50.465",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_23.593",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_14.6",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_26.366",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_35.773",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_38.961",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_42.15",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_10.703",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "C58B5556_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B55_54.536",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_54.905",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_15.346",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_25.162",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_28.193",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_38.461",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "C58B5056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B50_52.997",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700_38.878",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_45.422",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_41.941",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "J5",
+    "cleaned_formula": "J3*C5",
+    "id": "C58B6056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B60_56.075",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700_59.345",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_17.812",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_38.12",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_50.042",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_34.627",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_54.083",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_74.289",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_18.531",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_24.723",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_37.767",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_41.773",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_58.124",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_55.418",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_60.043",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_83.169",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "C58B7056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B70_58.943",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE346x700 (2STUKS)_23.23",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_19.25",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_26.215",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_45.426",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_40.906",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "C58B8056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B80_62.223",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE396x700 (2STUKS)_64.668",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_60.794",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_66.003",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_71.212",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "C58B9056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B90_65.247",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x700 (2STUKS)_92.049",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_27.037",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_48.409",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_19.298",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_43.375",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_65.499",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_77.085",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_100.259",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_20.016",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_46.515",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_52.062",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "N5",
+    "cleaned_formula": "N3*C5",
+    "id": "C58B10056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B100_68.27",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE496x700 (2stuks)_71.292",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_28.529",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_70.875",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_109.139",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_77.252",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_20.735",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "O5",
+    "cleaned_formula": "O3*C5",
+    "id": "C58B11056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B110_71.293",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700 (2stuks)_83.629",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_30.022",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_49.654",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_55.715",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_76.251",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_83.212",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_90.173",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p1 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_12.104",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening Hangkast 584-565 KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "P5",
+    "cleaned_formula": "P3*C5",
+    "id": "C58B12056_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "79B120_74.317",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x700 (2stuks)_118.019",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p3 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_28.184",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_17.122",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p4 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_32.691",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p6 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_44.776",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p7 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_48.873",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p8 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_52.97",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p9 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_69.358",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p10 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_81.649",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p1 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_20.579",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p5 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C58DK60_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK60_56.522",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x565_36.583",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p3 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_43.857",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_27.844",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p5 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_56.016",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p4 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_50.381",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p8 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_79.739",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p6 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_67.878",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p7 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_73.808",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p9 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_103.463",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p10 Berekening Hoek Hangkasten 584-584 KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K43",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C58K90_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "P565DK90_65.439",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x565 (2STUKS)_121.256",
+        "quantity": 1
+      }
+    ]
+  }
+]
