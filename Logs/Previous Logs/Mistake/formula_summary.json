@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x863!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3"
+      ]
+    },
+    {
+      "cleaned_formula": "E28+E28+'CO45'!H59+'PLADE 45'!H39+FR446x790!H33",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_F3"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H10+H16+H20+H27+H48+H56",
+      "count": 1,
+      "unique_ids": [
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 2,
+      "unique_ids": [
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39",
+        "2022-P2BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H57+H49+H26+H15+H9+H19",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_CO45_H59"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H33+H11+H5+H20",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_PLADE45_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_FR446x790_H33"
+      ]
+    },
+    {
+      "cleaned_formula": "H35+H31+H11+H5+H20",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_H37"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "'E:\\COMFORTLINE\\[Berekening Ladenkasten 794.xlsx]OVERZICHT PO'!V19",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningFLES-LFR-PL794-KLEUR.xlsx_OVERZICHTPO_E28"
+      ]
+    },
+    {
+      "cleaned_formula": "'LADE 45'!H37+'LADE 45'!R37",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_OVERZICHTCOP_V19"
+      ]
+    },
+    {
+      "cleaned_formula": "R36+R35+R34",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R37"
+      ]
+    },
+    {
+      "cleaned_formula": "W13/100*Q36",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R36"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I94",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_W13"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R35",
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_Q36"
+      ]
+    },
+    {
+      "cleaned_formula": "W4+W4",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_R34"
+      ]
+    },
+    {
+      "cleaned_formula": "'[calculatie cat 2022.xlsx]c.basis'!I92",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningLadenkasten794-KLEUR.xlsx_LADE45_W4"
+      ]
+    }
+  ]
+}

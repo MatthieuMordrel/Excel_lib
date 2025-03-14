@@ -1,0 +1,80 @@
+[
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "H3",
+    "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x863!H39",
+    "id": "CK222O59_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "LEGGERS+OVEN_117.218",
+        "cell": "H58"
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_17.737",
+        "cell": "H39"
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_19.348",
+        "cell": "H39"
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "F3",
+    "cleaned_formula": "E28+E28+'CO45'!H59+'PLADE 45'!H39+FR446x790!H33",
+    "id": "COPBL45FLES_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "CO45_50.632",
+        "cell": "H59"
+      },
+      {
+        "type": "element",
+        "id": "PLADE 45_37.978",
+        "cell": "H39"
+      },
+      {
+        "type": "element",
+        "id": "FR446x790_7.657",
+        "cell": "H33"
+      },
+      {
+        "type": "none",
+        "file": "2022 -P1 Berekening FLES-LFR - PL 794-KLEUR.xlsx",
+        "sheet": "OVERZICHT PO",
+        "cell": "E28",
+        "cleaned_formula": "'E:\\COMFORTLINE\\[Berekening Ladenkasten 794.xlsx]OVERZICHT PO'!V19",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+            "sheet": "OVERZICHT COP",
+            "cell": "V19",
+            "cleaned_formula": "'LADE 45'!H37+'LADE 45'!R37",
+            "references": [
+              {
+                "type": "element",
+                "id": "LADE 45_19.668",
+                "cell": "H37"
+              },
+              {
+                "type": "binnenlade",
+                "cell": "R37",
+                "id": "binnenlade_45.0_21.792"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
