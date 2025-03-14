@@ -1,0 +1,802 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_174.521",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_144.313",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_86.478",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_160.522",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_104.528",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_218.726",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_336.608",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_203.991",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_292.402",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_233.461",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_152.346",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_110.07",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_169.57",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_215.761",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_231.419",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_247.077",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_184.445",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_90.889",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_309.708",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+'Darby Door 5070'!H18",
+    "id": "C70B50-GDB_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5070_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB50_356.682",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_95.299",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_160.379",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_178.617",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_227.53",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_194.369",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_115.611",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_244.111",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_260.692",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_327.015",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+'Darby Door 5570'!H18",
+    "id": "C70B55-GDB_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 5570_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB55_376.757",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_99.71",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_121.152",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P3 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_3",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_168.411",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P6 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_6",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_239.3",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P4 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_4",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_187.665",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_5",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_204.293",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P7 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_7",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_256.804",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P8 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_8",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_274.307",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_344.321",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C70B60-GDB_10",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB60_396.831",
+        "quantity": 1
+      }
+    ]
+  }
+]

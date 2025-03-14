@@ -1,0 +1,264 @@
+You are an AI assistant tasked with extracting relationships from a product to build a structured database. 
+You will receive a JSON object representing a product and must generate a new JSON object that details its relationships.
+
+A product can be composed of other products, elements, base materials and hardcoded values/base materials.
+Your objective is to analyze the provided formula, determine how each referenced component contributes to the product, and update the quantities accordingly.
+You need to check the cleaned_formula in the parent, go through the references, and compare the cell property in the child element with the cleaned_formula to calculate the quantity.
+It's very important to check the cleaned_formula thoroughly, and check how the cell references match in the child objects cell property. 
+Generally there should always be a child with the correct cell property within the cleaned_formula, but be careful when assigning quantities, as sometimes cell references within formula are closed but not identical.
+It's also very important to keep the integrity of the id's.
+You need to delete the object that has 4.5 or 3.5 as value and serve as multiplier.
+
+You must generate a valid JSON object
+
+Example 1:
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_1",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "Darby Door 4570",
+        "cell": "H18",
+        "cleaned_formula": "(H16*G18)*2",
+        "references": [
+          {
+            "type": "element",
+            "id": "Darby Door 4570_193.956",
+            "cell": "H16"
+          },
+          {
+            "type": "hardcoded",
+            "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+            "sheet": "Darby Door 4570",
+            "cell": "G18",
+            "cleaned_formula": "Cellhasnoformulainfile",
+            "value": 3.5
+          }
+        ]
+      },
+      {
+        "type": "none",
+        "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "D31",
+        "cleaned_formula": "'C70OB45'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB45_86.478",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+
+  Expected Output 1:
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+'Darby Door 4570'!H18",
+    "id": "C70B45-GDB_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "Darby Door 4570_193.956",
+        "quantity": 2
+      },
+      {
+        "type": "element",
+        "id": "C70OB45_86.478",
+        "quantity": 1
+      },
+      
+    ]
+  },
+
+Example 2:
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_2",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "E39",
+        "cleaned_formula": "E31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+            "sheet": "OVERZICHT C79B",
+            "cell": "E31",
+            "cleaned_formula": "'C70OB50'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "C70OB50_110.07",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "none",
+        "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "A42",
+        "cleaned_formula": "'[calculatie cat 2022 .xlsx]c.basis'!I65*3",
+        "references": [
+          {
+            "type": "baseMaterial",
+            "id": "I65"
+          }
+        ]
+      }
+    ]
+  },
+
+  Expected Output 2:
+  {
+    "type": "product",
+    "file": "2022 - P2 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C70B50-GST_2",
+    "references": [
+     {
+        "type": "element",
+        "id": "C70OB50_110.07",
+        "quantity": 1
+      }
+      {
+        "type": "baseMaterial",
+        "id": "I65",
+        "quantity": 3
+      },
+    ]
+  },
+
+  Example 3:
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_9",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F39",
+        "cleaned_formula": "F31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F31",
+            "cleaned_formula": "'C1323OB55kl '!H59+'lade ondiep55'!H37+'front lade 549x196 (3)'!H33",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB55kl _491.175",
+                "cell": "H59"
+              },
+              {
+                "type": "element",
+                "id": "lade ondiep55_18.959",
+                "cell": "H37"
+              },
+              {
+                "type": "element",
+                "id": "front lade 549x196 (3)_20.85",
+                "cell": "H33"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+
+  Expected Output 3:
+  {
+    "type": "product",
+    "file": "2022 - P9 Berekening opzetkast 1323-KLEUR met lade.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132BL55KL-GST_9",
+    "references": [
+      {
+        "type": "element",
+        "id": "C1323OB55kl _491.175",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "lade ondiep55_18.959",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "front lade 549x196 (3)_20.85",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "1350.0",
+        "quantity": 1
+      }
+    ]
+  },
+
+

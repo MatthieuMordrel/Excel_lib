@@ -23,5 +23,5 @@ class ElementDetector:
         for ref in h_references:
             sheet_counts[ref["sheet"]] = sheet_counts.get(ref["sheet"], 0) + 1
         
-        # Check if any sheet has at least 4 H-references
-        return any(count >= 4 for count in sheet_counts.values()) 
+        # Check if any sheet has at least 2 H-references
+        return any(count >= 2 for count in sheet_counts.values()) 
