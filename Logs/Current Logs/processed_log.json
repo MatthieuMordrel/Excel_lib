@@ -1,0 +1,260 @@
+[
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "E5",
+    "cleaned_formula": "E3*C5",
+    "id": "CK222M45A_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "LEGGERS+OVEN_117.218",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x1003_15.532",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "L5",
+    "cleaned_formula": "L3*C5",
+    "id": "CKL222MF88_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "FRIGO+OVEN_104.114",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_12.418",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 600x500_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x138_4.009",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "CK222M45PB3_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "FRIGO+OVEN_104.114",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x1003_15.532",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "K5",
+    "cleaned_formula": "K3*C5",
+    "id": "CK222MF102_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "FRIGO+OVEN_104.114",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x1003_15.532",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "I5",
+    "cleaned_formula": "I3*C5",
+    "id": "CKL222M45_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "LEGGERS+OVEN_117.218",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_12.418",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "LADE 600x500_20.676",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "FR596x138_4.009",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "H5",
+    "cleaned_formula": "H3*C5",
+    "id": "CK222O59_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "LEGGERS+OVEN_117.218",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_12.418",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "F5",
+    "cleaned_formula": "C5*F3",
+    "id": "CK222A59O_1",
+    "references": [
+      {
+        "type": "hardcoded",
+        "value": 4.5
+      },
+      {
+        "type": "element",
+        "id": "LEGGERS+OVEN_117.218",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_12.418",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P1 Berekening Kolom F+O (13-22-24-31-32-33-35-37+38+39) 2227-KLEUR.xlsx",
+    "sheet": "OVERZICHT CK222",
+    "cell": "M5",
+    "cleaned_formula": "M3*C5",
+    "id": "CK222OF88_1",
+    "references": [
+      {
+        "type": "element",
+        "id": "FRIGO+OVEN_104.114",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x758_11.649",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x863_12.418",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "value": 4.5,
+        "quantity": 1
+      }
+    ]
+  }
+]

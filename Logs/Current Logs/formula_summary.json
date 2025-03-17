@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "cleaned_formula": "E3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E5"
+      ]
+    },
+    {
+      "cleaned_formula": "I3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I5"
+      ]
+    },
+    {
+      "cleaned_formula": "K3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K5"
+      ]
+    },
+    {
+      "cleaned_formula": "L3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L5"
+      ]
+    },
+    {
+      "cleaned_formula": "H3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H5"
+      ]
+    },
+    {
+      "cleaned_formula": "C5*F3",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F5"
+      ]
+    },
+    {
+      "cleaned_formula": "M3*C5",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M5"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "cleaned_formula": "H10+H16+H20+H27+H48+H56",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58"
+      ]
+    },
+    {
+      "cleaned_formula": "H37+H29+H20+H11+H5+H15",
+      "count": 3,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39",
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39",
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39"
+      ]
+    },
+    {
+      "cleaned_formula": "H35+H31+H11+H5+H20",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37"
+      ]
+    },
+    {
+      "cleaned_formula": "H31+H25+H20+H11+H5+H15",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33"
+      ]
+    },
+    {
+      "cleaned_formula": "H9+H15+H19+H26+H47+H55",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57"
+      ]
+    }
+  ],
+  "base_materials": [],
+  "other": [
+    {
+      "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x1003!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E3"
+      ]
+    },
+    {
+      "cleaned_formula": "Cellhasnoformulainfile",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5"
+      ]
+    },
+    {
+      "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x863!H39+'LADE 600x500'!H37+FR596x138!H33",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I3"
+      ]
+    },
+    {
+      "cleaned_formula": "'FRIGO+OVEN'!H57+DE596x758!H39+DE596x1003!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3"
+      ]
+    },
+    {
+      "cleaned_formula": "'FRIGO+OVEN'!H57+DE596x758!H39+DE596x863!H39+'LADE 600x500'!H37+FR596x138!H33",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L3"
+      ]
+    },
+    {
+      "cleaned_formula": "'LEGGERS+OVEN'!H58+DE596x758!H39+DE596x863!H39",
+      "count": 2,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3",
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F3"
+      ]
+    },
+    {
+      "cleaned_formula": "'FRIGO+OVEN'!H57+DE596x758!H39+DE596x863!H39",
+      "count": 1,
+      "unique_ids": [
+        "2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M3"
+      ]
+    }
+  ]
+}

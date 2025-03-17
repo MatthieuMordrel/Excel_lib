@@ -147,7 +147,7 @@ def process_log_file(input_path: str, output_path: str, test_mode: bool = False)
 if __name__ == "__main__":
     # Normal mode
     # process_log_file('simplified_log.json', 'processed_log.json')
-    path = 'Logs/Current Logs/simplified_log.json'
+    path = 'Logs/Current Logs/no_formula_log.json'
     process_log_file(path, 
-                     path.replace('simplified_log.json', 'processed_log.json'), 
+                     path.replace('no_formula_log.json', 'processed_log.json'), 
                      test_mode=False)

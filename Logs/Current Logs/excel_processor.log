@@ -1,0 +1,237 @@
+2025-03-17 17:56:01,478 - DEBUG - Extracting cell info: CK222M45A_1
+2025-03-17 17:56:01,479 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E5
+2025-03-17 17:56:01,479 - DEBUG - Product ID already exists: CK222M45A_1
+2025-03-17 17:56:03,402 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,402 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E3
+2025-03-17 17:56:03,402 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,402 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E3
+2025-03-17 17:56:03,402 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_E3
+2025-03-17 17:56:03,405 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,405 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,406 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,406 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,406 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,412 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,412 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,412 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,412 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,412 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,415 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,416 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,416 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,416 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,416 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,419 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,419 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,419 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,419 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,419 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,422 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,423 - DEBUG - Extracting cell info: CKL222M45_1
+2025-03-17 17:56:03,423 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I5
+2025-03-17 17:56:03,423 - DEBUG - Product ID already exists: CKL222M45_1
+2025-03-17 17:56:03,426 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,426 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I3
+2025-03-17 17:56:03,426 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,426 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I3
+2025-03-17 17:56:03,426 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_I3
+2025-03-17 17:56:03,429 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,429 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,429 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,429 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,429 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,434 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,434 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,434 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,434 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,434 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,440 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,440 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,440 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,440 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,440 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,446 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,446 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,446 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,446 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,446 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,452 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,453 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,453 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,453 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,453 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,457 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,457 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,457 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,457 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,457 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,460 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,460 - DEBUG - Extracting cell info: CK222MF102_1
+2025-03-17 17:56:03,461 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K5
+2025-03-17 17:56:03,461 - DEBUG - Product ID already exists: CK222MF102_1
+2025-03-17 17:56:03,463 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,464 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,464 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,464 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,464 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,466 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,467 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,467 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,467 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,467 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,472 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,472 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,472 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,472 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,472 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,477 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,477 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,477 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,477 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,477 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x1003_H39
+2025-03-17 17:56:03,482 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,482 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,482 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,482 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,482 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,485 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,486 - DEBUG - Extracting cell info: CK222M45PB3_1
+2025-03-17 17:56:03,486 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K5
+2025-03-17 17:56:03,486 - DEBUG - Product ID already exists: CK222M45PB3_1
+2025-03-17 17:56:03,490 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,491 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,491 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,491 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,491 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_K3
+2025-03-17 17:56:03,494 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,494 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,494 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,494 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,494 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,496 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,497 - DEBUG - Extracting cell info: CKL222MF88_1
+2025-03-17 17:56:03,498 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L5
+2025-03-17 17:56:03,498 - DEBUG - Product ID already exists: CKL222MF88_1
+2025-03-17 17:56:03,501 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,501 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L3
+2025-03-17 17:56:03,501 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,501 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L3
+2025-03-17 17:56:03,501 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_L3
+2025-03-17 17:56:03,505 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,505 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,505 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,505 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,505 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,511 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,511 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,511 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,512 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,512 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,517 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,517 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,517 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,517 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,517 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,521 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,522 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,522 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,522 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,522 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LADE600x500_H37
+2025-03-17 17:56:03,527 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,527 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,527 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,527 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,527 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FR596x138_H33
+2025-03-17 17:56:03,532 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,532 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,532 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,532 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,532 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,535 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,536 - DEBUG - Extracting cell info: CK222O59_1
+2025-03-17 17:56:03,536 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H5
+2025-03-17 17:56:03,536 - DEBUG - Product ID already exists: CK222O59_1
+2025-03-17 17:56:03,540 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,540 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3
+2025-03-17 17:56:03,540 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,540 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3
+2025-03-17 17:56:03,540 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_H3
+2025-03-17 17:56:03,543 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,543 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,543 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,543 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,543 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,547 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,548 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,548 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,548 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,548 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,553 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,553 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,553 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,553 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,553 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,558 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,558 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,558 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,558 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,558 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,561 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,561 - DEBUG - Extracting cell info: CK222A59O_1
+2025-03-17 17:56:03,562 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F5
+2025-03-17 17:56:03,562 - DEBUG - Product ID already exists: CK222A59O_1
+2025-03-17 17:56:03,565 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,565 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,565 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,565 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,565 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,567 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
+2025-03-17 17:56:03,568 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,568 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F3
+2025-03-17 17:56:03,568 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,568 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F3
+2025-03-17 17:56:03,568 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_F3
+2025-03-17 17:56:03,570 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,571 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,571 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,571 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,571 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_LEGGERS+OVEN_H58
+2025-03-17 17:56:03,576 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,576 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,576 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,576 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,576 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,581 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,581 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,581 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,581 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,581 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,585 - DEBUG - Extracting cell info: CK222OF88_1
+2025-03-17 17:56:03,585 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M5
+2025-03-17 17:56:03,585 - DEBUG - Product ID already exists: CK222OF88_1
+2025-03-17 17:56:03,587 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,588 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M3
+2025-03-17 17:56:03,588 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,588 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M3
+2025-03-17 17:56:03,588 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_M3
+2025-03-17 17:56:03,590 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,591 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,591 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,591 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,591 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_FRIGO+OVEN_H57
+2025-03-17 17:56:03,596 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,596 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,596 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,596 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,596 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x758_H39
+2025-03-17 17:56:03,601 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,601 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,601 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,601 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,601 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_DE596x863_H39
+2025-03-17 17:56:03,606 - DEBUG - Extracting cell info: None
+2025-03-17 17:56:03,606 - DEBUG - Extracting cell info: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,606 - DEBUG - Product ID already exists: None
+2025-03-17 17:56:03,606 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,606 - DEBUG - Product ID not found in reverse mapping: 2022-P1BerekeningKolomF+O(13-22-24-31-32-33-35-37+38+39)2227-KLEUR.xlsx_OVERZICHTCK222_C5
+2025-03-17 17:56:03,609 - WARNING - Cell has no formula: C5 in OVERZICHT CK222
