@@ -16,7 +16,7 @@ def generate_product_mapping(excel_path: Path, output_path: Path) -> None:
         excel.DisplayAlerts = False
         
         wb = excel.Workbooks.Open(str(excel_path))
-        sheet = wb.Sheets("All Products")
+        sheet = wb.Sheets("Some Products")
         
         # Verify columns
         headers = sheet.Range("A1:F1").Value[0]
