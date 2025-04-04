@@ -1,0 +1,751 @@
+[
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_10",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_9"
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_8",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P9 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_9",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_7",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_10",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_6",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_7",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_8",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_10",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_10",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P8 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_8",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_8",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_6",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_4",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P7 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_7",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_7",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_3",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_4",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_3",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P4 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_4",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_4",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P5 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_5",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_2",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P6 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_6",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_6",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P3 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_3",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_3",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "P35",
+    "cleaned_formula": "P3+AE22-A39",
+    "id": "CO2PS120_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P120_1",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "7.9",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_2",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "N35",
+    "cleaned_formula": "N3+AC22-A39",
+    "id": "CO2PS100_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P100_1",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.5",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 -P2 Berekening 2b Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_2",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_2",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening  Ladenkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT COP",
+    "cell": "M35",
+    "cleaned_formula": "M3+AB22-A39",
+    "id": "CO2PS90_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "CO2P90_1",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "6.0",
+        "quantity": 1
+      },
+      {
+        "type": "hardcoded",
+        "id": "27.7782",
+        "quantity": 1
+      }
+    ]
+  }
+]
