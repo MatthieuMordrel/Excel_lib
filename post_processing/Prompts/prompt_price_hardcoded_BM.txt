@@ -7,7 +7,7 @@ You need to check the cleaned_formula in the parent, go through the references, 
 It's very important to check the cleaned_formula thoroughly, and check how the cell references match in the child objects cell property. 
 Generally there should always be a child with the correct cell property within the cleaned_formula, but be careful when assigning quantities, as sometimes cell references within formula are closed but not identical.
 It's also very important to keep the integrity of the id's.
-You need to delete the object that has 4.5 as value and serve as multiplier, but only the 4.5 ones. The other hardcoded values should be kept.
+You need to delete the object that has 4.5 or 3.5 as value and serve as multiplier, but only these ones. The other hardcoded values should be kept.
 
 You must generate a valid JSON object
 
@@ -253,59 +253,82 @@ Example 2:
     ]
   },
 
-  Example 4:
-
-  {
+  Example 4 :
+    {
     "type": "product",
-    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
-    "sheet": "OVERZICHT COP",
-    "cell": "P35",
-    "cleaned_formula": "P3+AE22-A39",
-    "id": "CO2PS120_10",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C97B60-GDBK_10",
     "references": [
       {
-        "type": "product",
-        "id": "CO2P120_10",
-        "quantity": 1
+        "type": "none",
+        "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "Darby Door 6070",
+        "cell": "H18",
+        "cleaned_formula": "(H16*G18)*2",
+        "references": [
+          {
+            "type": "element",
+            "id": "Darby Door 6070_205.156",
+            "cell": "H16"
+          },
+          {
+            "type": "hardcoded",
+            "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+            "sheet": "Darby Door 6070",
+            "cell": "G18",
+            "cleaned_formula": "Cellhasnoformulainfile",
+            "value": 3.5
+          }
+        ]
+      },
+      {
+        "type": "none",
+        "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "G31",
+        "cleaned_formula": "'C70OB60'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C70OB60_396.831",
+            "cell": "H59"
+          }
+        ]
       },
       {
         "type": "hardcoded",
-        "id": "7.9",
-        "quantity": 1
-      },
-      {
-        "type": "hardcoded",
-        "id": "27.7782",
-        "quantity": 1
+        "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+        "sheet": "OVERZICHT C79B",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
       }
     ]
-  },
+  }
 
   Expected Output 4:
   {
     "type": "product",
-    "file": "2022 -P10 Berekening  Ladenkasten 794-KLEUR.xlsx",
-    "sheet": "OVERZICHT COP",
-    "cell": "P35",
-    "cleaned_formula": "P3+AE22-A39",
-    "id": "CO2PS120_10",
+    "file": "2022 - P10 Berekening GLAS DEUR Hangkast 970-KLEUR.xlsx",
+    "sheet": "OVERZICHT C79B",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+'Darby Door 6070'!H18",
+    "id": "C97B60-GDBK_10",
     "references": [
       {
-        "type": "product",
-        "id": "CO2P120_10",
-        "quantity": 1
+        "type": "element",
+        "id": "Darby Door 6070_205.156",
+        "quantity": 2
       },
       {
-        "type": "hardcoded",
-        "id": "7.9",
+        "type": "element",
+        "id": "C70OB60_396.831",
         "quantity": 1
       },
-      {
-        "type": "hardcoded",
-        "id": "27.7782",
-        "quantity": 1
-      }
     ]
-  },
+  }
     
   
