@@ -1,0 +1,384 @@
+2025-04-23 10:42:44,904 - DEBUG - Extracting cell info: C132B45_5
+2025-04-23 10:42:44,905 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D49
+2025-04-23 10:42:44,905 - DEBUG - Product ID already exists: C132B45_5
+2025-04-23 10:42:46,948 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,948 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D47
+2025-04-23 10:42:46,949 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,949 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D47
+2025-04-23 10:42:46,949 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D47
+2025-04-23 10:42:46,955 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,955 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:46,955 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,956 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:46,956 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:46,962 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,963 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:46,963 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,963 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:46,963 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:46,967 - WARNING - Cell has no formula: C49 in OVERZICHT COZ1323
+2025-04-23 10:42:46,969 - DEBUG - Extracting cell info: C132B45D131_5
+2025-04-23 10:42:46,969 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_L17
+2025-04-23 10:42:46,969 - DEBUG - Product ID already exists: C132B45D131_5
+2025-04-23 10:42:46,976 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,977 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_L15
+2025-04-23 10:42:46,977 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,977 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_L15
+2025-04-23 10:42:46,977 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_L15
+2025-04-23 10:42:46,983 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,984 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE446x1319_H39
+2025-04-23 10:42:46,984 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,984 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE446x1319_H39
+2025-04-23 10:42:46,984 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE446x1319_H39
+2025-04-23 10:42:46,990 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,990 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D15
+2025-04-23 10:42:46,990 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,990 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D15
+2025-04-23 10:42:46,990 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D15
+2025-04-23 10:42:46,996 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:46,996 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B45_H59
+2025-04-23 10:42:46,996 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:46,996 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B45_H59
+2025-04-23 10:42:46,996 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B45_H59
+2025-04-23 10:42:47,003 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,004 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,004 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,004 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,004 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,009 - WARNING - Cell has no formula: K17 in OVERZICHT COZ1323
+2025-04-23 10:42:47,010 - DEBUG - Extracting cell info: C132B45KL-GDB_5
+2025-04-23 10:42:47,011 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D33
+2025-04-23 10:42:47,011 - DEBUG - Product ID already exists: C132B45KL-GDB_5
+2025-04-23 10:42:47,017 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,017 - DEBUG - Updated filename: calculatie cat 2022.xlsx
+2025-04-23 10:42:47,017 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I60
+2025-04-23 10:42:47,017 - ERROR - None
+2025-04-23 10:42:47,017 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,018 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,018 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,018 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,018 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,025 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,026 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:47,026 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,026 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:47,026 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB45kl_H59
+2025-04-23 10:42:47,032 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,033 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,033 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,033 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,033 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,037 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-04-23 10:42:47,039 - DEBUG - Extracting cell info: C132B45KL-GST_5
+2025-04-23 10:42:47,039 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D41
+2025-04-23 10:42:47,039 - DEBUG - Product ID already exists: C132B45KL-GST_5
+2025-04-23 10:42:47,048 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,048 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D39
+2025-04-23 10:42:47,048 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,048 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D39
+2025-04-23 10:42:47,048 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D39
+2025-04-23 10:42:47,054 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,054 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,054 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,054 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,054 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_D31
+2025-04-23 10:42:47,061 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,061 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,061 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,061 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,061 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,067 - WARNING - Cell has no formula: C41 in OVERZICHT COZ1323
+2025-04-23 10:42:47,068 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,069 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,069 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,069 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,069 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,074 - WARNING - Cell has no formula: A42 in OVERZICHT COZ1323
+2025-04-23 10:42:47,076 - DEBUG - Extracting cell info: C132B50_5
+2025-04-23 10:42:47,076 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E49
+2025-04-23 10:42:47,076 - DEBUG - Product ID already exists: C132B50_5
+2025-04-23 10:42:47,084 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,085 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E47
+2025-04-23 10:42:47,085 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,085 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E47
+2025-04-23 10:42:47,085 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E47
+2025-04-23 10:42:47,092 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,092 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,092 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,092 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,092 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,097 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,098 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,098 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,098 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,098 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,103 - WARNING - Cell has no formula: C49 in OVERZICHT COZ1323
+2025-04-23 10:42:47,104 - DEBUG - Extracting cell info: C132B50D131_5
+2025-04-23 10:42:47,105 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_M17
+2025-04-23 10:42:47,105 - DEBUG - Product ID already exists: C132B50D131_5
+2025-04-23 10:42:47,109 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,110 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_M15
+2025-04-23 10:42:47,110 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,110 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_M15
+2025-04-23 10:42:47,110 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_M15
+2025-04-23 10:42:47,114 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,114 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE496x1319glas_H39
+2025-04-23 10:42:47,114 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,114 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE496x1319glas_H39
+2025-04-23 10:42:47,114 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE496x1319glas_H39
+2025-04-23 10:42:47,118 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,118 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E15
+2025-04-23 10:42:47,119 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,119 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E15
+2025-04-23 10:42:47,119 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E15
+2025-04-23 10:42:47,123 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,123 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B50_H59
+2025-04-23 10:42:47,123 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,123 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B50_H59
+2025-04-23 10:42:47,123 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B50_H59
+2025-04-23 10:42:47,129 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,130 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,130 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,130 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,130 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,139 - WARNING - Cell has no formula: K17 in OVERZICHT COZ1323
+2025-04-23 10:42:47,140 - DEBUG - Extracting cell info: C132B50KL-GDB_5
+2025-04-23 10:42:47,140 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E33
+2025-04-23 10:42:47,140 - DEBUG - Product ID already exists: C132B50KL-GDB_5
+2025-04-23 10:42:47,147 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,148 - DEBUG - Updated filename: calculatie cat 2022.xlsx
+2025-04-23 10:42:47,148 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I60
+2025-04-23 10:42:47,148 - ERROR - None
+2025-04-23 10:42:47,148 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,148 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,148 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,148 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,148 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,182 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,183 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,184 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,184 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,184 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB50kl_H59
+2025-04-23 10:42:47,198 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,198 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,198 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,199 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,199 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,208 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-04-23 10:42:47,210 - DEBUG - Extracting cell info: C132B50KL-GST_5
+2025-04-23 10:42:47,211 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E41
+2025-04-23 10:42:47,211 - DEBUG - Product ID already exists: C132B50KL-GST_5
+2025-04-23 10:42:47,221 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,221 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E39
+2025-04-23 10:42:47,222 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,222 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E39
+2025-04-23 10:42:47,222 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E39
+2025-04-23 10:42:47,229 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,230 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,230 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,230 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,230 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_E31
+2025-04-23 10:42:47,238 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,239 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,239 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,239 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,239 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,245 - WARNING - Cell has no formula: C41 in OVERZICHT COZ1323
+2025-04-23 10:42:47,247 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,247 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,247 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,248 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,248 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,256 - WARNING - Cell has no formula: A42 in OVERZICHT COZ1323
+2025-04-23 10:42:47,257 - DEBUG - Extracting cell info: C132B55_5
+2025-04-23 10:42:47,258 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F49
+2025-04-23 10:42:47,258 - DEBUG - Product ID already exists: C132B55_5
+2025-04-23 10:42:47,272 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,272 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F47
+2025-04-23 10:42:47,272 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,272 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F47
+2025-04-23 10:42:47,272 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F47
+2025-04-23 10:42:47,281 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,282 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,282 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,282 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,282 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,289 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,289 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,289 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,289 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,289 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,295 - WARNING - Cell has no formula: C49 in OVERZICHT COZ1323
+2025-04-23 10:42:47,297 - DEBUG - Extracting cell info: C132B55D131_5
+2025-04-23 10:42:47,297 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_N17
+2025-04-23 10:42:47,297 - DEBUG - Product ID already exists: C132B55D131_5
+2025-04-23 10:42:47,303 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,303 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_N15
+2025-04-23 10:42:47,303 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,303 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_N15
+2025-04-23 10:42:47,303 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_N15
+2025-04-23 10:42:47,309 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,310 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE546x1319_H39
+2025-04-23 10:42:47,310 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,310 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE546x1319_H39
+2025-04-23 10:42:47,310 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE546x1319_H39
+2025-04-23 10:42:47,315 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,316 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F15
+2025-04-23 10:42:47,316 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,316 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F15
+2025-04-23 10:42:47,316 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F15
+2025-04-23 10:42:47,322 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,322 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B55_H59
+2025-04-23 10:42:47,322 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,322 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B55_H59
+2025-04-23 10:42:47,322 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B55_H59
+2025-04-23 10:42:47,331 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,331 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,331 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,331 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,331 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,339 - WARNING - Cell has no formula: K17 in OVERZICHT COZ1323
+2025-04-23 10:42:47,341 - DEBUG - Extracting cell info: C132B55KL-GDB_5
+2025-04-23 10:42:47,342 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F33
+2025-04-23 10:42:47,342 - DEBUG - Product ID already exists: C132B55KL-GDB_5
+2025-04-23 10:42:47,354 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,354 - DEBUG - Updated filename: calculatie cat 2022.xlsx
+2025-04-23 10:42:47,354 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I59
+2025-04-23 10:42:47,355 - ERROR - None
+2025-04-23 10:42:47,355 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,355 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,355 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,355 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,355 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,367 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,367 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,367 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,367 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,367 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB55kl_H59
+2025-04-23 10:42:47,386 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,386 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,386 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,386 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,386 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,398 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-04-23 10:42:47,401 - DEBUG - Extracting cell info: C132B55KL-GST_5
+2025-04-23 10:42:47,401 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F41
+2025-04-23 10:42:47,401 - DEBUG - Product ID already exists: C132B55KL-GST_5
+2025-04-23 10:42:47,414 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,414 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F39
+2025-04-23 10:42:47,414 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,414 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F39
+2025-04-23 10:42:47,414 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F39
+2025-04-23 10:42:47,425 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,425 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,425 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,425 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,426 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_F31
+2025-04-23 10:42:47,435 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,435 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,436 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,436 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,436 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,443 - WARNING - Cell has no formula: C41 in OVERZICHT COZ1323
+2025-04-23 10:42:47,445 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,445 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,445 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,445 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,445 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,452 - WARNING - Cell has no formula: A42 in OVERZICHT COZ1323
+2025-04-23 10:42:47,453 - DEBUG - Extracting cell info: C132B60_5
+2025-04-23 10:42:47,454 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G49
+2025-04-23 10:42:47,454 - DEBUG - Product ID already exists: C132B60_5
+2025-04-23 10:42:47,462 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,462 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G47
+2025-04-23 10:42:47,462 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,462 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G47
+2025-04-23 10:42:47,462 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G47
+2025-04-23 10:42:47,471 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,471 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,472 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,472 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,472 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,480 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,481 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,481 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,481 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,481 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C49
+2025-04-23 10:42:47,485 - WARNING - Cell has no formula: C49 in OVERZICHT COZ1323
+2025-04-23 10:42:47,486 - DEBUG - Extracting cell info: C132B60D131_5
+2025-04-23 10:42:47,486 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_O17
+2025-04-23 10:42:47,486 - DEBUG - Product ID already exists: C132B60D131_5
+2025-04-23 10:42:47,490 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,490 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_O15
+2025-04-23 10:42:47,490 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,490 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_O15
+2025-04-23 10:42:47,490 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_O15
+2025-04-23 10:42:47,496 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,496 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G15
+2025-04-23 10:42:47,496 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,496 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G15
+2025-04-23 10:42:47,496 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G15
+2025-04-23 10:42:47,501 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,501 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B60_H59
+2025-04-23 10:42:47,501 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,501 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B60_H59
+2025-04-23 10:42:47,501 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_1323B60_H59
+2025-04-23 10:42:47,506 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,507 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE596x1319_H39
+2025-04-23 10:42:47,507 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,507 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE596x1319_H39
+2025-04-23 10:42:47,507 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_DE596x1319_H39
+2025-04-23 10:42:47,511 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,511 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,511 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,511 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,511 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_K17
+2025-04-23 10:42:47,515 - WARNING - Cell has no formula: K17 in OVERZICHT COZ1323
+2025-04-23 10:42:47,516 - DEBUG - Extracting cell info: C132B60KL-GDB_5
+2025-04-23 10:42:47,516 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G33
+2025-04-23 10:42:47,516 - DEBUG - Product ID already exists: C132B60KL-GDB_5
+2025-04-23 10:42:47,521 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,521 - DEBUG - Updated filename: calculatie cat 2022.xlsx
+2025-04-23 10:42:47,521 - DEBUG - Extracting cell info: calculatiecat2022.xlsx_c.basis_I59
+2025-04-23 10:42:47,521 - ERROR - None
+2025-04-23 10:42:47,521 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,521 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,521 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,521 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,521 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,526 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,526 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,526 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,527 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,527 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_C1323OB60kl_H59
+2025-04-23 10:42:47,534 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,534 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,534 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,534 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,534 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C33
+2025-04-23 10:42:47,538 - WARNING - Cell has no formula: C33 in OVERZICHT COZ1323
+2025-04-23 10:42:47,539 - DEBUG - Extracting cell info: C132B60KL-GST_5
+2025-04-23 10:42:47,539 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G41
+2025-04-23 10:42:47,539 - DEBUG - Product ID already exists: C132B60KL-GST_5
+2025-04-23 10:42:47,543 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,543 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G39
+2025-04-23 10:42:47,543 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,543 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G39
+2025-04-23 10:42:47,543 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G39
+2025-04-23 10:42:47,548 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,548 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,548 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,548 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,548 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_G31
+2025-04-23 10:42:47,552 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,553 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,553 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,553 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,553 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_C41
+2025-04-23 10:42:47,557 - WARNING - Cell has no formula: C41 in OVERZICHT COZ1323
+2025-04-23 10:42:47,558 - DEBUG - Extracting cell info: None
+2025-04-23 10:42:47,558 - DEBUG - Extracting cell info: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,558 - DEBUG - Product ID already exists: None
+2025-04-23 10:42:47,558 - DEBUG - Product ID is None, trying to reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,558 - DEBUG - Product ID not found in reverse mapping: 2022-P5Berekeningopzetkast1323-KLEUR.xlsx_OVERZICHTCOZ1323_A42
+2025-04-23 10:42:47,562 - WARNING - Cell has no formula: A42 in OVERZICHT COZ1323

@@ -1,0 +1,654 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D49",
+    "cleaned_formula": "(D47*C49)",
+    "id": "C132B45_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "D47",
+        "cleaned_formula": "'C1323OB45kl'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB45kl_210.321",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C49",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "L17",
+    "cleaned_formula": "(L15*K17)",
+    "id": "C132B45D131_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "L15",
+        "cleaned_formula": "D15+DE446x1319!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE446x1319_49.016",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "D15",
+            "cleaned_formula": "'1323B45'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B45_82.763",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D33",
+    "cleaned_formula": "(D31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I60*3.5)",
+    "id": "C132B45KL-GDB_5",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I60"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "D31",
+        "cleaned_formula": "'C1323OB45kl'!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB45kl_210.321",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "D41",
+    "cleaned_formula": "(D39*C41)+A42",
+    "id": "C132B45KL-GST_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "D39",
+        "cleaned_formula": "D31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "D31",
+            "cleaned_formula": "'C1323OB45kl'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB45kl_210.321",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E49",
+    "cleaned_formula": "E47*C49",
+    "id": "C132B50_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "E47",
+        "cleaned_formula": "'C1323OB50kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB50kl _222.194",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C49",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "M17",
+    "cleaned_formula": "(M15*K17)",
+    "id": "C132B50D131_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "M15",
+        "cleaned_formula": "E15+'DE496x1319 glas'!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE496x1319 glas_53.693",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "E15",
+            "cleaned_formula": "'1323B50'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B50_86.206",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E33",
+    "cleaned_formula": "(E31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I60*3.5)",
+    "id": "C132B50KL-GDB_5",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I60"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "E31",
+        "cleaned_formula": "'C1323OB50kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB50kl _222.194",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "E41",
+    "cleaned_formula": "(E39*C41)+A42",
+    "id": "C132B50KL-GST_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "E39",
+        "cleaned_formula": "E31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "E31",
+            "cleaned_formula": "'C1323OB50kl '!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB50kl _222.194",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F49",
+    "cleaned_formula": "F47*C49",
+    "id": "C132B55_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F47",
+        "cleaned_formula": "'C1323OB55kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB55kl _234.067",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C49",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "N17",
+    "cleaned_formula": "(N15*K17)",
+    "id": "C132B55D131_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "N15",
+        "cleaned_formula": "F15+DE546x1319!H39",
+        "references": [
+          {
+            "type": "element",
+            "id": "DE546x1319_58.369",
+            "cell": "H39"
+          },
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F15",
+            "cleaned_formula": "'1323B55'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B55_89.653",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F33",
+    "cleaned_formula": "(F31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+    "id": "C132B55KL-GDB_5",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I59"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F31",
+        "cleaned_formula": "'C1323OB55kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB55kl _234.067",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "F41",
+    "cleaned_formula": "(F39*C41)+A42",
+    "id": "C132B55KL-GST_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "F39",
+        "cleaned_formula": "F31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "F31",
+            "cleaned_formula": "'C1323OB55kl '!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB55kl _234.067",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G49",
+    "cleaned_formula": "G47*C49",
+    "id": "C132B60_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G47",
+        "cleaned_formula": "'C1323OB60kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB60kl _245.928",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C49",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "O17",
+    "cleaned_formula": "(O15*K17)",
+    "id": "C132B60D131_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "O15",
+        "cleaned_formula": "'OVERZICHT COZ1323'!G15+'DE596x1319 '!H39",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "G15",
+            "cleaned_formula": "'1323B60'!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "1323B60_93.098",
+                "cell": "H59"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "id": "DE596x1319 _63.046",
+            "cell": "H39"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "K17",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G33",
+    "cleaned_formula": "(G31*C33)+('[calculatie cat 2022 .xlsx]c.basis'!I59*3.5)",
+    "id": "C132B60KL-GDB_5",
+    "references": [
+      {
+        "type": "baseMaterial",
+        "id": "I59"
+      },
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G31",
+        "cleaned_formula": "'C1323OB60kl '!H59",
+        "references": [
+          {
+            "type": "element",
+            "id": "C1323OB60kl _245.928",
+            "cell": "H59"
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C33",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+    "sheet": "OVERZICHT COZ1323",
+    "cell": "G41",
+    "cleaned_formula": "(G39*C41)+A42",
+    "id": "C132B60KL-GST_5",
+    "references": [
+      {
+        "type": "none",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "G39",
+        "cleaned_formula": "G31",
+        "references": [
+          {
+            "type": "none",
+            "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+            "sheet": "OVERZICHT COZ1323",
+            "cell": "G31",
+            "cleaned_formula": "'C1323OB60kl '!H59",
+            "references": [
+              {
+                "type": "element",
+                "id": "C1323OB60kl _245.928",
+                "cell": "H59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "C41",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 4.5
+      },
+      {
+        "type": "hardcoded",
+        "file": "2022 - P5 Berekening opzetkast 1323-KLEUR.xlsx",
+        "sheet": "OVERZICHT COZ1323",
+        "cell": "A42",
+        "cleaned_formula": "Cellhasnoformulainfile",
+        "value": 1350.0
+      }
+    ]
+  }
+]
