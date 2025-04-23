@@ -1,0 +1,166 @@
+[
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D14",
+    "cleaned_formula": "D12*C14",
+    "id": "C66DK60_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "P66DK60_46.085",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE596x660_18.973",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "F5",
+    "cleaned_formula": "F3*C5",
+    "id": "C70HB90_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70HB90_70.475",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE546x700_24.11",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB60_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70SH60_96.198",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE351x700_13.252",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E14",
+    "cleaned_formula": "E12*C14",
+    "id": "C66K90_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "P664DK90_55.122",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE446x660 (2STUKS)_30.683",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "E5",
+    "cleaned_formula": "C5*E3",
+    "id": "C70SHB64_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70SH60_96.198",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE351x700_13.252",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - P1 Berekening Open Onderkasten 794-KLEUR.xlsx",
+    "sheet": "OVERZICHT PO",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "CO15_1",
+    "references": [
+      {
+        "type": "product",
+        "id": "COO30_1"
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB64_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70HB60_86.958",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE245x700_11.288",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE265x700_11.659",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "product",
+    "file": "2022 - p2  Berekening Hoek Hangkasten 700+KLEUR.xlsx",
+    "sheet": "OVERZICHT HOEKHANG K",
+    "cell": "D5",
+    "cleaned_formula": "C5*D3",
+    "id": "C70HB60_2",
+    "references": [
+      {
+        "type": "element",
+        "id": "C70HB60_86.958",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE245x700_11.288",
+        "quantity": 1
+      },
+      {
+        "type": "element",
+        "id": "DE265x700_11.659",
+        "quantity": 1
+      }
+    ]
+  }
+]
